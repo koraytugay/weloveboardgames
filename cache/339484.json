@@ -1,0 +1,147 @@
+{
+  "type": "boardgame",
+  "id": "339484",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2021"
+  },
+  "image": "https://cf.geekdo-images.com/D7UzjghUmmKWXiiGt3rUcA__original/img/slTwvhxSaiasMT3wQswcpDGTtE0\u003d/0x0/filters:format(jpeg)/pic6202222.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/D7UzjghUmmKWXiiGt3rUcA__thumb/img/Y24B-tNoz7UvzbpPit7J3QORZPg\u003d/fit-in/200x150/filters:strip_icc()/pic6202222.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Savannah Park"
+    },
+    {
+      "type": "alternate",
+      "value": "Park Sawanna"
+    },
+    {
+      "type": "alternate",
+      "value": "Sabana Park"
+    },
+    {
+      "type": "alternate",
+      "value": "サバンナパーク"
+    },
+    {
+      "type": "alternate",
+      "value": "薩凡納公園"
+    },
+    {
+      "type": "alternate",
+      "value": "사바나 파크"
+    }
+  ],
+  "minPlayers": {
+    "value": "1"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "5"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "5"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 3 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 1–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

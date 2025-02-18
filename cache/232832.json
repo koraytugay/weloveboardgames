@@ -1,0 +1,147 @@
+{
+  "type": "boardgame",
+  "id": "232832",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2017"
+  },
+  "image": "https://cf.geekdo-images.com/1bihoShOuqaCuZJXB3Q2gQ__original/img/fvGzpqyud6Oz1BWOe4gItWWb8P0\u003d/0x0/filters:format(jpeg)/pic3936124.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/1bihoShOuqaCuZJXB3Q2gQ__thumb/img/dvGQkdnwtcwAmcxHR_7J17OsLjQ\u003d/fit-in/200x150/filters:strip_icc()/pic3936124.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Century: Golem Edition"
+    },
+    {
+      "type": "alternate",
+      "value": "Century: Edition Golem"
+    },
+    {
+      "type": "alternate",
+      "value": "سنتشري نسخة الغيلان"
+    },
+    {
+      "type": "alternate",
+      "value": "センチュリー：ゴーレム"
+    },
+    {
+      "type": "alternate",
+      "value": "水晶之路：晶石傳記"
+    },
+    {
+      "type": "alternate",
+      "value": "水晶之路：晶石傳記"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "5"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "12"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "28"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "6"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "15"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 3–4 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–5 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

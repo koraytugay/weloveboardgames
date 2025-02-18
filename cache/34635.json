@@ -1,0 +1,207 @@
+{
+  "type": "boardgame",
+  "id": "34635",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2008"
+  },
+  "image": "https://cf.geekdo-images.com/elmZegVZ6gp4_5izUgxGQQ__original/img/cR92Dm6yQ3Lgxt1yR81zUb0ooqQ\u003d/0x0/filters:format(jpeg)/pic1632539.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/elmZegVZ6gp4_5izUgxGQQ__thumb/img/MXq3DEKWIozO-PmB4S64BiE5fd0\u003d/fit-in/200x150/filters:strip_icc()/pic1632539.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Stone Age"
+    },
+    {
+      "type": "alternate",
+      "value": "100000 лет до нашей эры"
+    },
+    {
+      "type": "alternate",
+      "value": "L\u0027Âge de Pierre"
+    },
+    {
+      "type": "alternate",
+      "value": "Doba kamenná"
+    },
+    {
+      "type": "alternate",
+      "value": "Epoka Kamienia"
+    },
+    {
+      "type": "alternate",
+      "value": "L\u0027Âge de Pierre: Un avenir radieux"
+    },
+    {
+      "type": "alternate",
+      "value": "Stenen Tijdperk"
+    },
+    {
+      "type": "alternate",
+      "value": "Stone Age: Das Ziel ist dein Weg"
+    },
+    {
+      "type": "alternate",
+      "value": "Stone Age: L\u0027edat de pedra"
+    },
+    {
+      "type": "alternate",
+      "value": "Stone Age: L\u0027inizio del viaggio"
+    },
+    {
+      "type": "alternate",
+      "value": "Stone Age: La Edad de Piedra"
+    },
+    {
+      "type": "alternate",
+      "value": "Stone Age: Találd meg az utad"
+    },
+    {
+      "type": "alternate",
+      "value": "Λίθινη Εποχή"
+    },
+    {
+      "type": "alternate",
+      "value": "Кам\u0027яна доба"
+    },
+    {
+      "type": "alternate",
+      "value": "Каменный век"
+    },
+    {
+      "type": "alternate",
+      "value": "עידן האבן"
+    },
+    {
+      "type": "alternate",
+      "value": "العصر الحجري"
+    },
+    {
+      "type": "alternate",
+      "value": "อารยธรรมยุคหิน"
+    },
+    {
+      "type": "alternate",
+      "value": "ストーンエイジ"
+    },
+    {
+      "type": "alternate",
+      "value": "石器時代"
+    },
+    {
+      "type": "alternate",
+      "value": "석기시대"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "10"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "15"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "97"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "133"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "47"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "5"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "247"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 4 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

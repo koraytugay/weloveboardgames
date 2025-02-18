@@ -1,0 +1,659 @@
+{
+  "type": "boardgame",
+  "id": "63268",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2009"
+  },
+  "image": "https://cf.geekdo-images.com/AKdJV9CBlZBxH87EAfZ85A__original/img/2BeL9tYtJJDz7KDv0qpbrmVXWkk\u003d/0x0/filters:format(jpeg)/pic7807049.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/AKdJV9CBlZBxH87EAfZ85A__thumb/img/MMvB9deDa-BgXcwyWIUsKleqbbU\u003d/fit-in/200x150/filters:strip_icc()/pic7807049.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Spot it!"
+    },
+    {
+      "type": "alternate",
+      "value": "Alfa i Omega"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble «На Пляжі»"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble 31 Minutos"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble À prova d\u0027água"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Animals"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Anniversary"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Asterix"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Belgium"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Breizh"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Camping"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Chrono"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Clásico"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Classic"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Classique"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Collector"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Corsica"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble DC"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble des marques"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Friends"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Futebol"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Harry Potter"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Hollywood"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Jégvarázs II"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Jeux Olympiques Paris 2024"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Kids"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Kraina Lodu 2"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Kultura"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Lifestyle"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Marvel"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Minionki"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Minions"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Smurfen"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Star Wars: Mandalorian"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Super Mario"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Večerníček"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Waterproof"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Wodoodporne"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble XXL"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Zoo"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Гаррі Поттер"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Животиње"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble Тваринний Світ"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble: Futebol – Corinthians"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble: Harry Potter"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble: Lapins Crétins"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble: Louvre"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble: Star Wars"
+    },
+    {
+      "type": "alternate",
+      "value": "Dobble: Ψυχρά κι Ανάποδα 2"
+    },
+    {
+      "type": "alternate",
+      "value": "Kig \u0026 find"
+    },
+    {
+      "type": "alternate",
+      "value": "Look \u0026 Find"
+    },
+    {
+      "type": "alternate",
+      "value": "Moomin"
+    },
+    {
+      "type": "alternate",
+      "value": "Pippi"
+    },
+    {
+      "type": "alternate",
+      "value": "Postreh Zvieratá"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Alphabet: Frozen"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Alphabet: Planes"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Alphabet: Sofia the First"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Animals"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Arabia"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Asterix"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Auburn Tigers"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Basic English"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Basic French"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Basic Spanish"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Beach"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot It! Camping"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot It! Chicago Cubs Edition"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot It! Classic"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot It! Collector"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot It! Detroit Tigers Edition"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Disney Princesses"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Easter"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! FAO Schwarz"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot It! Finding Dory"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Fishing"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot It! Friends"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Frozen"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Frozen II"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Golf"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Gone Camping"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Halloween"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Hip"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Holidays"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot It! Marvel"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! MLB"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot It! NFL"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! NHL"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot It! Numbers \u0026 Shapes"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Preschool"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! San Francisco"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot It! Seattle Seahawks edition"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Shalom"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Shopkins"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Signature"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Smile Edition"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Splash"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! SpongeBob SquarePants"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Sports"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Star Wars: Mandalorian"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Stitch"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Teenage Mutant Ninja Turtles"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Waterproof"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Words: Disney • Pixar"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it! Words: Disney Princess"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it!: Classic"
+    },
+    {
+      "type": "alternate",
+      "value": "Spot it!: Harry Potter"
+    },
+    {
+      "type": "alternate",
+      "value": "Tvenna"
+    },
+    {
+      "type": "alternate",
+      "value": "Winter Wonderland"
+    },
+    {
+      "type": "alternate",
+      "value": "Доббль"
+    },
+    {
+      "type": "alternate",
+      "value": "Доббль: Холодное сердце"
+    },
+    {
+      "type": "alternate",
+      "value": "Доббль. Гарри Поттер"
+    },
+    {
+      "type": "alternate",
+      "value": "Доббль. Миньоны"
+    },
+    {
+      "type": "alternate",
+      "value": "דאבל!"
+    },
+    {
+      "type": "alternate",
+      "value": "أسرع منك"
+    },
+    {
+      "type": "alternate",
+      "value": "ด็อบเบิล"
+    },
+    {
+      "type": "alternate",
+      "value": "ด็อบเบิล Minions"
+    },
+    {
+      "type": "alternate",
+      "value": "ドブル"
+    },
+    {
+      "type": "alternate",
+      "value": "ドブル　ポケットモンスター"
+    },
+    {
+      "type": "alternate",
+      "value": "ドブルキッズ"
+    },
+    {
+      "type": "alternate",
+      "value": "ドラえもん DOBBLE(ドブル)"
+    },
+    {
+      "type": "alternate",
+      "value": "ワンピース DOBBLE(ドブル)"
+    },
+    {
+      "type": "alternate",
+      "value": "嗒宝"
+    },
+    {
+      "type": "alternate",
+      "value": "嗒寶"
+    },
+    {
+      "type": "alternate",
+      "value": "嗒寶：哈利波特"
+    },
+    {
+      "type": "alternate",
+      "value": "도블"
+    },
+    {
+      "type": "alternate",
+      "value": "도블 MARVEL"
+    },
+    {
+      "type": "alternate",
+      "value": "도블 동물원"
+    },
+    {
+      "type": "alternate",
+      "value": "도블 미니언즈"
+    },
+    {
+      "type": "alternate",
+      "value": "도블 캠핑"
+    },
+    {
+      "type": "alternate",
+      "value": "도블 컬렉터스 에디션"
+    },
+    {
+      "type": "alternate",
+      "value": "도블 포켓몬"
+    },
+    {
+      "type": "alternate",
+      "value": "도블 해리 포터"
+    },
+    {
+      "type": "alternate",
+      "value": "도블: 겨울왕국 2"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "8"
+  },
+  "minimumAge": {
+    "value": "7"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "16"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "57"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "29"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "24"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "38"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 4–5 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–7 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

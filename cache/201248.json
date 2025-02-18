@@ -1,0 +1,135 @@
+{
+  "type": "boardgame",
+  "id": "201248",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2016"
+  },
+  "image": "https://cf.geekdo-images.com/1rvefz1PSj1c3wC1UIGgnQ__original/img/oDJn48M5XslwbPb_Vdh5GWHYxGQ\u003d/0x0/filters:format(jpeg)/pic3042047.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/1rvefz1PSj1c3wC1UIGgnQ__thumb/img/hEcG7RPDUc5M7VsZcOqUMJQaNhM\u003d/fit-in/200x150/filters:strip_icc()/pic3042047.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Evolution: The Beginning"
+    },
+    {
+      "type": "alternate",
+      "value": "Evolution: Der Einstieg"
+    },
+    {
+      "type": "alternate",
+      "value": "物种演化:起源"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "5"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "6"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "8"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 2 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–5 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

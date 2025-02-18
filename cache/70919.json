@@ -1,0 +1,151 @@
+{
+  "type": "boardgame",
+  "id": "70919",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2011"
+  },
+  "image": "https://cf.geekdo-images.com/uvz-5V6A2R6dp2oWIXmj_g__original/img/HxMG1z7bIVGCGPI6u6ciVO0Oubk\u003d/0x0/filters:format(jpeg)/pic1912529.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/uvz-5V6A2R6dp2oWIXmj_g__thumb/img/vz9Ec1xB2b4JJQlZFijUsuCvfkQ\u003d/fit-in/200x150/filters:strip_icc()/pic1912529.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Takenoko"
+    },
+    {
+      "type": "alternate",
+      "value": "Такеноко"
+    },
+    {
+      "type": "alternate",
+      "value": "טקנוקו"
+    },
+    {
+      "type": "alternate",
+      "value": "تاکنوکو"
+    },
+    {
+      "type": "alternate",
+      "value": "ทาเคโนโกะ"
+    },
+    {
+      "type": "alternate",
+      "value": "タケノコ"
+    },
+    {
+      "type": "alternate",
+      "value": "御竹園"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "17"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "51"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "109"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "38"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "96"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 3 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

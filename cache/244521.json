@@ -1,0 +1,207 @@
+{
+  "type": "boardgame",
+  "id": "244521",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2018"
+  },
+  "image": "https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__original/img/8PEJOyuKGbTaEGbUbCoLQy_i65Y\u003d/0x0/filters:format(png)/pic6137509.png",
+  "thumbnail": "https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__thumb/img/E_XspsgbgrVOwOeCuZMO1S8W2rk\u003d/fit-in/200x150/filters:strip_icc()/pic6137509.png",
+  "name": [
+    {
+      "type": "primary",
+      "value": "The Quacks of Quedlinburg"
+    },
+    {
+      "type": "alternate",
+      "value": "Les Charlatans de Belcastel"
+    },
+    {
+      "type": "alternate",
+      "value": "Ciarlatani di Quedlinburgo"
+    },
+    {
+      "type": "alternate",
+      "value": "Kuruzslók Quedlinburgban"
+    },
+    {
+      "type": "alternate",
+      "value": "Kvacksalvare"
+    },
+    {
+      "type": "alternate",
+      "value": "Kvaksalver"
+    },
+    {
+      "type": "alternate",
+      "value": "Kvedlalové z Kvedlinburku"
+    },
+    {
+      "type": "alternate",
+      "value": "Kvedlinburgas pūšļotāji"
+    },
+    {
+      "type": "alternate",
+      "value": "Kvedlinburgi soolapuhujad"
+    },
+    {
+      "type": "alternate",
+      "value": "De Kwakzalvers van Kakelenburg"
+    },
+    {
+      "type": "alternate",
+      "value": "Pócimas y Brebajes"
+    },
+    {
+      "type": "alternate",
+      "value": "Die Quacksalber von Quedlinburg"
+    },
+    {
+      "type": "alternate",
+      "value": "Räävelin Rohtotohtorit"
+    },
+    {
+      "type": "alternate",
+      "value": "Szarlatani z Pasikurowic"
+    },
+    {
+      "type": "alternate",
+      "value": "Οι Τσαρλατάνοι του Κουέντλινμπουργκ"
+    },
+    {
+      "type": "alternate",
+      "value": "Пройдисвіти Кведлінбурга"
+    },
+    {
+      "type": "alternate",
+      "value": "Шарлатаны из Кведлинбурга"
+    },
+    {
+      "type": "alternate",
+      "value": "جادوگران"
+    },
+    {
+      "type": "alternate",
+      "value": "クアックサルバー"
+    },
+    {
+      "type": "alternate",
+      "value": "郎中闖江湖"
+    },
+    {
+      "type": "alternate",
+      "value": "크베들린부르크의 돌팔이 약장수"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "10"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "6"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "57"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "116"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "36"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "8"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "33"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 4 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

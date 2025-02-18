@@ -1,0 +1,199 @@
+{
+  "type": "boardgame",
+  "id": "70323",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2011"
+  },
+  "image": "https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__original/img/hSvWgiRYJCTTuoLOWTW3c8sYtl8\u003d/0x0/filters:format(jpeg)/pic3043734.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/m_RzXpHURC0_xLkvRSR_sw__thumb/img/OfgWmkGJj5BgOO0zFHEtP5CHfbU\u003d/fit-in/200x150/filters:strip_icc()/pic3043734.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "King of Tokyo"
+    },
+    {
+      "type": "alternate",
+      "value": "King of Tokyo ملك توكيو"
+    },
+    {
+      "type": "alternate",
+      "value": "King of Tokyo: La Furia dei Mostri"
+    },
+    {
+      "type": "alternate",
+      "value": "Kralj Tokija"
+    },
+    {
+      "type": "alternate",
+      "value": "Potwory w Tokio"
+    },
+    {
+      "type": "alternate",
+      "value": "Regele din Tokyo"
+    },
+    {
+      "type": "alternate",
+      "value": "O Rei de Tóquio"
+    },
+    {
+      "type": "alternate",
+      "value": "Tokió Királya"
+    },
+    {
+      "type": "alternate",
+      "value": "Vládce Tokia"
+    },
+    {
+      "type": "alternate",
+      "value": "Ο Βασιλιάς Του Τόκυο"
+    },
+    {
+      "type": "alternate",
+      "value": "Володар Токіо"
+    },
+    {
+      "type": "alternate",
+      "value": "Кралят на Токио"
+    },
+    {
+      "type": "alternate",
+      "value": "Повелитель Токио"
+    },
+    {
+      "type": "alternate",
+      "value": "מלך טוקיו"
+    },
+    {
+      "type": "alternate",
+      "value": "ราชันแห่งโตเกียว"
+    },
+    {
+      "type": "alternate",
+      "value": "キング・オブ・トーキョー"
+    },
+    {
+      "type": "alternate",
+      "value": "新・キング・オブ・トーキョー"
+    },
+    {
+      "type": "alternate",
+      "value": "東京之王"
+    },
+    {
+      "type": "alternate",
+      "value": "킹 오브 도쿄"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "6"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "11"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "40"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "166"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "123"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "17"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "7"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "19"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "115"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "15"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 4–5 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 3–6 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

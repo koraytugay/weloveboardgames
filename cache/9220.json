@@ -1,0 +1,183 @@
+{
+  "type": "boardgame",
+  "id": "9220",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2004"
+  },
+  "image": "https://cf.geekdo-images.com/oeN-MHAJKsC2KCI3avKj9w__original/img/TgwkFfJF5IrhjwNm8OVwdn34sJE\u003d/0x0/filters:format(jpeg)/pic8679622.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/oeN-MHAJKsC2KCI3avKj9w__thumb/img/y8tkP8BdgOoiErg2macZ1JG847Q\u003d/fit-in/200x150/filters:strip_icc()/pic8679622.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Saboteur"
+    },
+    {
+      "type": "alternate",
+      "value": "Aranyásók"
+    },
+    {
+      "type": "alternate",
+      "value": "Sabotażysta"
+    },
+    {
+      "type": "alternate",
+      "value": "Saboter"
+    },
+    {
+      "type": "alternate",
+      "value": "Sabotér"
+    },
+    {
+      "type": "alternate",
+      "value": "Saboteur (خرابکار)"
+    },
+    {
+      "type": "alternate",
+      "value": "Σαμποτέρ"
+    },
+    {
+      "type": "alternate",
+      "value": "Гномы-вредители"
+    },
+    {
+      "type": "alternate",
+      "value": "Саботер"
+    },
+    {
+      "type": "alternate",
+      "value": "סבאטור"
+    },
+    {
+      "type": "alternate",
+      "value": "المخرب"
+    },
+    {
+      "type": "alternate",
+      "value": "お邪魔者"
+    },
+    {
+      "type": "alternate",
+      "value": "矮人掘金"
+    },
+    {
+      "type": "alternate",
+      "value": "矮人礦坑"
+    },
+    {
+      "type": "alternate",
+      "value": "사보타지"
+    }
+  ],
+  "minPlayers": {
+    "value": "3"
+  },
+  "maxPlayers": {
+    "value": "10"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "33"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "69"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "16"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "108"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 7–8 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 5–10 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

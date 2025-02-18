@@ -1,0 +1,131 @@
+{
+  "type": "boardgame",
+  "id": "377515",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2023"
+  },
+  "image": "https://cf.geekdo-images.com/xOMxRrAtu_7WR2FRu1oDSw__original/img/vi1psBxEIE72ipIv5Ol4mrT3lOs\u003d/0x0/filters:format(png)/pic7333215.png",
+  "thumbnail": "https://cf.geekdo-images.com/xOMxRrAtu_7WR2FRu1oDSw__thumb/img/Ur1t0hDFFzGsNkoFzU3wDwUCL6Q\u003d/fit-in/200x150/filters:strip_icc()/pic7333215.png",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Mind Up!"
+    },
+    {
+      "type": "alternate",
+      "value": "Моё число!"
+    }
+  ],
+  "minPlayers": {
+    "value": "3"
+  },
+  "maxPlayers": {
+    "value": "6"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "5"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 4 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 3–6 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

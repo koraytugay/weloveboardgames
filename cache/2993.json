@@ -1,0 +1,259 @@
+{
+  "type": "boardgameexpansion",
+  "id": "2993",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2002"
+  },
+  "image": "https://cf.geekdo-images.com/g9q--tONTL86x2D4NKiM8g__original/img/r3cKL28WlWl1jNGzetER6B8A5hM\u003d/0x0/filters:format(jpeg)/pic2659943.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/g9q--tONTL86x2D4NKiM8g__thumb/img/opBzVTp4iK4LfozCr3doTYGwTHE\u003d/fit-in/200x150/filters:strip_icc()/pic2659943.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Carcassonne: Expansion 1 – Inns \u0026 Cathedrals"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: 1. Erweiterung – Wirtshäuser und Kathedralen"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Auberges et Cathedrales"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Az 1. kiegészítés – Fogadók és katedrálisok"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Az elsõ kiegészítõ"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Az első kiegészítő"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: De Uitbreiding"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Die 1. Erweiterung – Wirtshäuser und Kathedralen"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Die Erweiterung"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Expansion 1 – Inns and Cathedrals"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Hanuri şi catedrale"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Hostince a katedrály"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Inns \u0026 Cathedrals"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Karczmy i Katedry"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Kirkot ja Kievarit"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Kóngar, krár og kirkjur"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Kõrtsid ja katedraalid"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Krogi un katedrāles"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: L\u0027extension"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Locande \u0026 Cattedrali"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Locande e Cattedrali"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Posadas y Catedrales"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Rozšíření"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: The Expansion"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Uitbreiding 1 – Kathedralen \u0026 Herbergen"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Užeigos ir Katedros"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Viðbót 1 – Gistihús og dómkirkjur"
+    },
+    {
+      "type": "alternate",
+      "value": "Carcassonne: Wirtshäuser und Kathedralen"
+    },
+    {
+      "type": "alternate",
+      "value": "Τα Κάστρα του Μυστρά: Πανδοχεία και Ναοί"
+    },
+    {
+      "type": "alternate",
+      "value": "Каркасон: Странноприемници и катедрали"
+    },
+    {
+      "type": "alternate",
+      "value": "Каркассон: Таверны и соборы"
+    },
+    {
+      "type": "alternate",
+      "value": "卡卡頌：主教堂與餐館擴充"
+    },
+    {
+      "type": "alternate",
+      "value": "卡卡頌2.0主教堂與餐館擴充"
+    },
+    {
+      "type": "alternate",
+      "value": "카르카손: 여관과 대성당"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "6"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "13"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "45"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "9"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "63"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 2–3 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–6 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

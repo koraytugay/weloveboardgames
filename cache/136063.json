@@ -1,0 +1,187 @@
+{
+  "type": "boardgame",
+  "id": "136063",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2013"
+  },
+  "image": "https://cf.geekdo-images.com/OU26qQZoHJodxSFKiR5IzA__original/img/8smpJMuHROyrbu8FP-EOLXjEi0w\u003d/0x0/filters:format(jpeg)/pic1528722.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/OU26qQZoHJodxSFKiR5IzA__thumb/img/eDUA8LpBqRjlzJWJYIsIenpF_rA\u003d/fit-in/200x150/filters:strip_icc()/pic1528722.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Forbidden Desert"
+    },
+    {
+      "type": "alternate",
+      "value": "Le Désert Interdit"
+    },
+    {
+      "type": "alternate",
+      "value": "El desert prohibit"
+    },
+    {
+      "type": "alternate",
+      "value": "Il Deserto Proibito"
+    },
+    {
+      "type": "alternate",
+      "value": "El Desierto Prohibido"
+    },
+    {
+      "type": "alternate",
+      "value": "Kadonnut kaupunki"
+    },
+    {
+      "type": "alternate",
+      "value": "A Tiltott Sivatag"
+    },
+    {
+      "type": "alternate",
+      "value": "Die vergessene Stadt"
+    },
+    {
+      "type": "alternate",
+      "value": "De Vergeten Stad"
+    },
+    {
+      "type": "alternate",
+      "value": "Zakázaná poušť"
+    },
+    {
+      "type": "alternate",
+      "value": "Zakazana Pustynia"
+    },
+    {
+      "type": "alternate",
+      "value": "Η Απαγορευμένη έρημος"
+    },
+    {
+      "type": "alternate",
+      "value": "Запретная пустыня"
+    },
+    {
+      "type": "alternate",
+      "value": "המדבר הנעלם"
+    },
+    {
+      "type": "alternate",
+      "value": "禁制的荒漠"
+    },
+    {
+      "type": "alternate",
+      "value": "포비든 데저트"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "5"
+  },
+  "minimumAge": {
+    "value": "10"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "23"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "54"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "19"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "40"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 4 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 1–5 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

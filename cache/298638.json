@@ -1,0 +1,171 @@
+{
+  "type": "boardgame",
+  "id": "298638",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2020"
+  },
+  "image": "https://cf.geekdo-images.com/VHiB06XHhK6G3vxH9QAwHw__original/img/qmBX9dnhhCo66x4C7vlEpslSxMw\u003d/0x0/filters:format(jpeg)/pic5169196.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/VHiB06XHhK6G3vxH9QAwHw__thumb/img/gl0OYJ3Lt-dMcVGfpgXnHyvVMzQ\u003d/fit-in/200x150/filters:strip_icc()/pic5169196.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Sheriff of Nottingham: 2nd Edition"
+    },
+    {
+      "type": "alternate",
+      "value": "Notthingham Bírája: 2. kiadás"
+    },
+    {
+      "type": "alternate",
+      "value": "Šerif of Notingema 2. edicija"
+    },
+    {
+      "type": "alternate",
+      "value": "Sheriff de Nottingham: 2A Edición"
+    },
+    {
+      "type": "alternate",
+      "value": "Sheriff of Nottingham (2ª Edição)"
+    },
+    {
+      "type": "alternate",
+      "value": "Sheriff of Nottingham: 2e Editie"
+    },
+    {
+      "type": "alternate",
+      "value": "Шериф Ноттингема. Вторая редакция"
+    },
+    {
+      "type": "alternate",
+      "value": "Шериф Ноттінгема. Друге видання"
+    },
+    {
+      "type": "alternate",
+      "value": "شريف شريف: جمارك نوتينجهام"
+    },
+    {
+      "type": "alternate",
+      "value": "ผู้ตรวจการแห่งนอตทิงแฮม 2nd Edition"
+    },
+    {
+      "type": "alternate",
+      "value": "诺丁汉警长（第二版）"
+    },
+    {
+      "type": "alternate",
+      "value": "노팅엄의 지방관"
+    }
+  ],
+  "minPlayers": {
+    "value": "3"
+  },
+  "maxPlayers": {
+    "value": "6"
+  },
+  "minimumAge": {
+    "value": "14"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "6"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "5"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 5 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 4–6 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,171 @@
+{
+  "type": "boardgame",
+  "id": "356033",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2022"
+  },
+  "image": "https://cf.geekdo-images.com/6e-V_Xb2IsAsMNXU18Fi6A__original/img/gLDo-RR_9RvU_Hrs9DnHWy_TWpk\u003d/0x0/filters:format(jpeg)/pic6669033.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/6e-V_Xb2IsAsMNXU18Fi6A__thumb/img/KJIHXXkkIU7R-oK5i9byIyGdfm4\u003d/fit-in/200x150/filters:strip_icc()/pic6669033.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Libertalia: Winds of Galecrest"
+    },
+    {
+      "type": "alternate",
+      "value": "Libertalia: Auf den Winden von Galecrest"
+    },
+    {
+      "type": "alternate",
+      "value": "Libertalia: De Winden Van Galecrest"
+    },
+    {
+      "type": "alternate",
+      "value": "Libertalia: Fellegbérc szelei"
+    },
+    {
+      "type": "alternate",
+      "value": "Libertalia: Les Vents de Galecrest"
+    },
+    {
+      "type": "alternate",
+      "value": "Libertalia: Os Ventos de Galecrest"
+    },
+    {
+      "type": "alternate",
+      "value": "Libertalia: Piráti vzduchomoří"
+    },
+    {
+      "type": "alternate",
+      "value": "Libertalia: Sui Venti di Galecrest"
+    },
+    {
+      "type": "alternate",
+      "value": "Libertalia: Vientos de Galecrest"
+    },
+    {
+      "type": "alternate",
+      "value": "Libertalia: Wichry Galecrest"
+    },
+    {
+      "type": "alternate",
+      "value": "リベルタリア　ゲイルクレストの風"
+    },
+    {
+      "type": "alternate",
+      "value": "리버탈리아: 게일크레스트의 바람"
+    }
+  ],
+  "minPlayers": {
+    "value": "1"
+  },
+  "maxPlayers": {
+    "value": "6"
+  },
+  "minimumAge": {
+    "value": "14"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "15"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "5"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "5"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 4–6 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 1–6 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

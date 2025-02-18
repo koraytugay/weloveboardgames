@@ -1,0 +1,151 @@
+{
+  "type": "boardgame",
+  "id": "323262",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2020"
+  },
+  "image": "https://cf.geekdo-images.com/7tlMeA9OW0mji7Zi1NgGBw__original/img/K577aAjVGlUmYrIOp4RP0c-uBy8\u003d/0x0/filters:format(png)/pic6903022.png",
+  "thumbnail": "https://cf.geekdo-images.com/7tlMeA9OW0mji7Zi1NgGBw__thumb/img/DbmnH-L8xMtudu6IWhqxGxk4H28\u003d/fit-in/200x150/filters:strip_icc()/pic6903022.png",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Velonimo"
+    },
+    {
+      "type": "alternate",
+      "value": "Velonimo: Librairie Colibri Collector Edition"
+    },
+    {
+      "type": "alternate",
+      "value": "Velonimo: Zwierzę na rowerze"
+    },
+    {
+      "type": "alternate",
+      "value": "Велонимо"
+    },
+    {
+      "type": "alternate",
+      "value": "Велонімо"
+    },
+    {
+      "type": "alternate",
+      "value": "狂飆單車牌"
+    },
+    {
+      "type": "alternate",
+      "value": "벨로니모"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "5"
+  },
+  "minimumAge": {
+    "value": "7"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "6"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 4 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–5 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

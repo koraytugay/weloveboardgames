@@ -1,0 +1,259 @@
+{
+  "type": "boardgame",
+  "id": "463",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "1993"
+  },
+  "image": "https://cf.geekdo-images.com/CxJmNl4wR4InjqyNrMdBTw__original/img/TKQgvl_i6zVYld8Gac8oU-c2ezE\u003d/0x0/filters:format(jpeg)/pic163749.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/CxJmNl4wR4InjqyNrMdBTw__thumb/img/TtlQgYxLTPyYQWJvruMHfwKPReE\u003d/fit-in/200x150/filters:strip_icc()/pic163749.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Magic: The Gathering"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: Die Zusammenkunft"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: El Encuentro"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: L\u0027Adunanza"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering –  Edition de base 2014"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – 2012 Core Set"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – 2013 Core Set"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – 2014 Core Set"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Ajani: Mazo de Planeswalker"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Amonkhet Deck Builder\u0027s Toolkit"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Amonkhet Prerelease Pack"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Battle for Zendikar Intro Pack"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Black Planeswalkers Liliana Vess"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Blue Planeswalkers Jace Beleren"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Chandra: Mazo de Planeswalker"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Commander: Built From Scratch"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Commander: Forged in Stone"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Edition de base 2012"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Edition de base 2015"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Hauptset 2015 (Deckbau Box)"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Kaladesh Deck Builder\u0027s Toolkit"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Magic Origines"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Magic Origins Deck Builder\u0027s Toolkit"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Pack de Presentación"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Red Planeswalkers Chandra Nalaar"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Rivals: Quick Start Set"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Shadows Over Innistrad Deck Builder\u0027s Toolkit"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Sorin: Mazo de Planeswalker"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Vivien: Mazo de Planeswalker"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Welcome Deck"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – White Planeswalkers Ajani Goldmane"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic: The Gathering – Yanling: Mazo de Planeswalker"
+    },
+    {
+      "type": "alternate",
+      "value": "マジック：ザ・ギャザリング"
+    },
+    {
+      "type": "alternate",
+      "value": "万智牌"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "2"
+  },
+  "minimumAge": {
+    "value": "13"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "23"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "66"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "85"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "30"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "10"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "14"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "79"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "114"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 2 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2+ players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

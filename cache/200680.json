@@ -1,0 +1,175 @@
+{
+  "type": "boardgame",
+  "id": "200680",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2016"
+  },
+  "image": "https://cf.geekdo-images.com/YCGWJMFwOI5efji2RJ2mSw__original/img/jC_He46LcIcKWU-kSwkYdr9Z45E\u003d/0x0/filters:format(jpeg)/pic8093340.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/YCGWJMFwOI5efji2RJ2mSw__thumb/img/h_Rp2XYqaNElM2hrYxUSzMxRRgM\u003d/fit-in/200x150/filters:strip_icc()/pic8093340.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Agricola (Revised Edition)"
+    },
+    {
+      "type": "alternate",
+      "value": "Agrícola (Edição Revisada)"
+    },
+    {
+      "type": "alternate",
+      "value": "Agrícola (edición revisada)"
+    },
+    {
+      "type": "alternate",
+      "value": "Agricola expert-editie"
+    },
+    {
+      "type": "alternate",
+      "value": "Agricola: Advanced Level"
+    },
+    {
+      "type": "alternate",
+      "value": "Agricola: Revised Edition"
+    },
+    {
+      "type": "alternate",
+      "value": "Agricola: Überarbeitete Neuauflage"
+    },
+    {
+      "type": "alternate",
+      "value": "Agricola: wersja dla graczy"
+    },
+    {
+      "type": "alternate",
+      "value": "Агрикола. Новое издание"
+    },
+    {
+      "type": "alternate",
+      "value": "アグリコラ：リバイズドエディション"
+    },
+    {
+      "type": "alternate",
+      "value": "农场主"
+    },
+    {
+      "type": "alternate",
+      "value": "農家樂"
+    },
+    {
+      "type": "alternate",
+      "value": "아그리콜라 (개정판)"
+    }
+  ],
+  "minPlayers": {
+    "value": "1"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "12"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "13"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "33"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "13"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "28"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 3–4 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 1–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

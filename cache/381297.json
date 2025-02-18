@@ -1,0 +1,171 @@
+{
+  "type": "boardgame",
+  "id": "381297",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2023"
+  },
+  "image": "https://cf.geekdo-images.com/pDiHT-n1xpW71Ck_wiR8_g__original/img/pho_viNg1Jk28LoXbMkTTvVHOIw\u003d/0x0/filters:format(png)/pic7375477.png",
+  "thumbnail": "https://cf.geekdo-images.com/pDiHT-n1xpW71Ck_wiR8_g__thumb/img/OZ4P9ZIWCKAlisyIas_rsyj6hiI\u003d/fit-in/200x150/filters:strip_icc()/pic7375477.png",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Unmatched Adventures: Tales to Amaze"
+    },
+    {
+      "type": "alternate",
+      "value": "Unmatched Adventures: Opowieści Niesamowite"
+    },
+    {
+      "type": "alternate",
+      "value": "Unmatched Adventures: Relatos Asombrosos"
+    },
+    {
+      "type": "alternate",
+      "value": "Unmatched Adventures: Storie Incredibili"
+    },
+    {
+      "type": "alternate",
+      "value": "Unmatched Aventures: Chroniques Inouïes"
+    },
+    {
+      "type": "alternate",
+      "value": "Unmatched Dobrodružství: Úžasné příběhy"
+    },
+    {
+      "type": "alternate",
+      "value": "Unmatched kalandok: Titokzatos töténetek"
+    },
+    {
+      "type": "alternate",
+      "value": "Unmatched: Пригоди – Дивовижні оповідки"
+    },
+    {
+      "type": "alternate",
+      "value": "Unmatched. Приключения: Удивительные Истории"
+    },
+    {
+      "type": "alternate",
+      "value": "アンマッチド　アドベンチャー　テイルズ　トゥ　アメイズ"
+    },
+    {
+      "type": "alternate",
+      "value": "无双对决冒险篇：惊骇奇谈"
+    },
+    {
+      "type": "alternate",
+      "value": "언매치드 어드벤처: 테일즈 투 어메이즈"
+    }
+  ],
+  "minPlayers": {
+    "value": "1"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "9"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "11"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 2 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 1–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

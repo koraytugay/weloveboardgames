@@ -1,0 +1,327 @@
+{
+  "type": "boardgame",
+  "id": "1219",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "1986"
+  },
+  "image": "https://cf.geekdo-images.com/qpL225YNN5iKRPotB7Q7MA__original/img/5ZGo501PquASeGxpQLBIglcVSYs\u003d/0x0/filters:format(jpeg)/pic6173371.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/qpL225YNN5iKRPotB7Q7MA__thumb/img/JZR5MVC8xYrboBrYMsZmWtjJTu0\u003d/fit-in/200x150/filters:strip_icc()/pic6173371.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "The aMAZEing Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Asterix Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Avatar Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "De Betoverde Doolhof"
+    },
+    {
+      "type": "alternate",
+      "value": "Das blaue Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Bláznivé bludisko"
+    },
+    {
+      "type": "alternate",
+      "value": "Bláznivé Bludiště"
+    },
+    {
+      "type": "alternate",
+      "value": "Despicable Me Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Deutschland Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Disney 100 Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Disney Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Doolhof"
+    },
+    {
+      "type": "alternate",
+      "value": "O Enigma do Labirinto"
+    },
+    {
+      "type": "alternate",
+      "value": "Den Fortryllede Labyrint"
+    },
+    {
+      "type": "alternate",
+      "value": "Furfangos Labirintus"
+    },
+    {
+      "type": "alternate",
+      "value": "Harry Potter Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Hello Kitty Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Laberinto"
+    },
+    {
+      "type": "alternate",
+      "value": "Labirinto"
+    },
+    {
+      "type": "alternate",
+      "value": "Il Labirinto Magico"
+    },
+    {
+      "type": "alternate",
+      "value": "Labirynt"
+    },
+    {
+      "type": "alternate",
+      "value": "Labyrinth Free Trial Size"
+    },
+    {
+      "type": "alternate",
+      "value": "Labyrinth Super Mario"
+    },
+    {
+      "type": "alternate",
+      "value": "Labyrinth: Jurassic World"
+    },
+    {
+      "type": "alternate",
+      "value": "Labyrinthe"
+    },
+    {
+      "type": "alternate",
+      "value": "Ludi labirint"
+    },
+    {
+      "type": "alternate",
+      "value": "I maestri del labirinto"
+    },
+    {
+      "type": "alternate",
+      "value": "Muuttuva labyrintti"
+    },
+    {
+      "type": "alternate",
+      "value": "Naruto Shippuden Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Nori Labirint"
+    },
+    {
+      "type": "alternate",
+      "value": "One Piece Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Pokémon Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Pokémon Labyrinth: Glow in the Dark"
+    },
+    {
+      "type": "alternate",
+      "value": "Skarb Faraona"
+    },
+    {
+      "type": "alternate",
+      "value": "Spongebob Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "SpongeBob Schwammkopf Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Star Wars IX Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Super Labirynt"
+    },
+    {
+      "type": "alternate",
+      "value": "Tajemnice Labiryntu"
+    },
+    {
+      "type": "alternate",
+      "value": "Turma da Monica em Labirinto"
+    },
+    {
+      "type": "alternate",
+      "value": "Das verrückte Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Völundarhúsið"
+    },
+    {
+      "type": "alternate",
+      "value": "Das Zukunftslabyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Λαβύρινθος"
+    },
+    {
+      "type": "alternate",
+      "value": "Сумасшедший лабиринт"
+    },
+    {
+      "type": "alternate",
+      "value": "המבוך הקסום Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "ラビリンス Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "ラビリンス・ジァハン"
+    },
+    {
+      "type": "alternate",
+      "value": "ラビリンス・ジャパン"
+    },
+    {
+      "type": "alternate",
+      "value": "라비린스"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "10"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "32"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "73"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "18"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "40"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 4 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "type": "boardgame",
+  "id": "201",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "1992"
+  },
+  "image": "https://cf.geekdo-images.com/vfFy_HLiBNLxptwxFDMmDg__original/img/P3_WKEg4RBXmBWIVE4pMhFD35x4\u003d/0x0/filters:format(jpeg)/pic2855891.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/vfFy_HLiBNLxptwxFDMmDg__thumb/img/CJ8yTQu3kt8o4ZwF5ZbMJWDj564\u003d/fit-in/200x150/filters:strip_icc()/pic2855891.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "The Rose King"
+    },
+    {
+      "type": "alternate",
+      "value": "Le Roi Des Roses"
+    },
+    {
+      "type": "alternate",
+      "value": "Rosenkonig"
+    },
+    {
+      "type": "alternate",
+      "value": "Rosenkönig"
+    },
+    {
+      "type": "alternate",
+      "value": "Rozenkoning"
+    },
+    {
+      "type": "alternate",
+      "value": "Texas"
+    },
+    {
+      "type": "alternate",
+      "value": "ローゼンケーニッヒ"
+    },
+    {
+      "type": "alternate",
+      "value": "장미 전쟁"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "2"
+  },
+  "minimumAge": {
+    "value": "10"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "12"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "5"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "25"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 2 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

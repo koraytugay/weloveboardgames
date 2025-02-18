@@ -1,0 +1,127 @@
+{
+  "type": "boardgame",
+  "id": "261341",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2018"
+  },
+  "image": "https://cf.geekdo-images.com/k1atYOU4Ejwp2IvCEuprBg__original/img/8W3pq8SjVsKvG7yHWkZDlsyzfks\u003d/0x0/filters:format(jpeg)/pic4321451.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/k1atYOU4Ejwp2IvCEuprBg__thumb/img/iaqwa1EtxGRpW8MObzsEubGi1ZM\u003d/fit-in/200x150/filters:strip_icc()/pic4321451.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Bohnanza"
+    }
+  ],
+  "minPlayers": {
+    "value": "3"
+  },
+  "maxPlayers": {
+    "value": "5"
+  },
+  "minimumAge": {
+    "value": "10"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "",
+          "name": "bestwith"
+        },
+        {
+          "value": "(no votes)",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

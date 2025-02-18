@@ -1,0 +1,159 @@
+{
+  "type": "boardgame",
+  "id": "403221",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2024"
+  },
+  "image": "https://cf.geekdo-images.com/6hLMSDvAPpt4rdNqBnJ1yw__original/img/ydnjWsMWv0zCR1FObWp6VTELDfw\u003d/0x0/filters:format(jpeg)/pic8006476.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/6hLMSDvAPpt4rdNqBnJ1yw__thumb/img/7VhY-zR2yoWvzdW6HnOdzjAdQDE\u003d/fit-in/200x150/filters:strip_icc()/pic8006476.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Ticket to Ride: Paris"
+    },
+    {
+      "type": "alternate",
+      "value": "¡Aventureros al Tren! París"
+    },
+    {
+      "type": "alternate",
+      "value": "Les Aventuriers du Rail: Paris"
+    },
+    {
+      "type": "alternate",
+      "value": "Ticket To Ride: Parijs"
+    },
+    {
+      "type": "alternate",
+      "value": "Ticket to Ride: Párizs"
+    },
+    {
+      "type": "alternate",
+      "value": "Ticket To Ride: Париж"
+    },
+    {
+      "type": "alternate",
+      "value": "Wsiąść do Pociągu: Paryż"
+    },
+    {
+      "type": "alternate",
+      "value": "Zug um Zug: Paris"
+    },
+    {
+      "type": "alternate",
+      "value": "티켓 투 라이드: 파리"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 3–4 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

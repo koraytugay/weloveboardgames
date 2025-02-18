@@ -1,0 +1,151 @@
+{
+  "type": "boardgame",
+  "id": "403116",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2024"
+  },
+  "image": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__original/img/9VQ5zrxaNZ1CvOHbR6bq0v8BpjI\u003d/0x0/filters:format(jpeg)/pic8049686.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__thumb/img/3pZrQZwUS8_Y6q-Y1UBrYRY0hS8\u003d/fit-in/200x150/filters:strip_icc()/pic8049686.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Next Station: Paris"
+    },
+    {
+      "type": "alternate",
+      "value": "Következő megálló: Párizs"
+    },
+    {
+      "type": "alternate",
+      "value": "Příští stanice: Paříž"
+    },
+    {
+      "type": "alternate",
+      "value": "Próxima Estação: Paris"
+    },
+    {
+      "type": "alternate",
+      "value": "Próxima Estacion: Paris"
+    },
+    {
+      "type": "alternate",
+      "value": "下一站：巴黎"
+    },
+    {
+      "type": "alternate",
+      "value": "넥스트스테이션: 파리"
+    }
+  ],
+  "minPlayers": {
+    "value": "1"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 2 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 1–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

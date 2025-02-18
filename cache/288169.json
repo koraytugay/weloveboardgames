@@ -1,0 +1,163 @@
+{
+  "type": "boardgame",
+  "id": "288169",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2020"
+  },
+  "image": "https://cf.geekdo-images.com/1uTAJoAdG3UC6N0G7UMeTA__original/img/Xo0bcffWDmM8g3iLRqFZs3rhWRw\u003d/0x0/filters:format(jpeg)/pic4942502.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/1uTAJoAdG3UC6N0G7UMeTA__thumb/img/SzaN4ejLFyjTbElgZPGGjUtlf6o\u003d/fit-in/200x150/filters:strip_icc()/pic4942502.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "The Fox in the Forest Duet"
+    },
+    {
+      "type": "alternate",
+      "value": "Der Fuchs im Wald: Duett"
+    },
+    {
+      "type": "alternate",
+      "value": "Ketten a Bűvös Rengetegben"
+    },
+    {
+      "type": "alternate",
+      "value": "Liška podšitá Duet"
+    },
+    {
+      "type": "alternate",
+      "value": "Le Renard des Bois Duo"
+    },
+    {
+      "type": "alternate",
+      "value": "De Vos in het Bos Duet"
+    },
+    {
+      "type": "alternate",
+      "value": "Лис та Ліс Дует"
+    },
+    {
+      "type": "alternate",
+      "value": "フォックス・イン・ザ・フォレスト　デュエット"
+    },
+    {
+      "type": "alternate",
+      "value": "林中狐 二重奏"
+    },
+    {
+      "type": "alternate",
+      "value": "숲 속의 여우 듀엣"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "2"
+  },
+  "minimumAge": {
+    "value": "10"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "7"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 2 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

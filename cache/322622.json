@@ -1,0 +1,143 @@
+{
+  "type": "boardgame",
+  "id": "322622",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2021"
+  },
+  "image": "https://cf.geekdo-images.com/mg6SJV5JH5SY1pMI6C_GzA__original/img/VhuloJwQlvD1v-Otc54evdXE5ew\u003d/0x0/filters:format(png)/pic5898743.png",
+  "thumbnail": "https://cf.geekdo-images.com/mg6SJV5JH5SY1pMI6C_GzA__thumb/img/cd754FyRcQm6udW9HXWSLbd5Ljo\u003d/fit-in/200x150/filters:strip_icc()/pic5898743.png",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Floriferous"
+    },
+    {
+      "type": "alternate",
+      "value": "Blumengarten"
+    },
+    {
+      "type": "alternate",
+      "value": "Floriferous: Pocket Edition"
+    },
+    {
+      "type": "alternate",
+      "value": "Pachnący ogród"
+    },
+    {
+      "type": "alternate",
+      "value": "Virágvarázs"
+    }
+  ],
+  "minPlayers": {
+    "value": "1"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "14"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "7"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 3 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 1–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "type": "boardgame",
+  "id": "361",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "1973"
+  },
+  "image": "https://cf.geekdo-images.com/iyUktGtEjnBgQVuXpROUoA__original/img/Hg0QpeDOvzWPehPkhyZLtGMtTGM\u003d/0x0/filters:format(jpeg)/pic7943778.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/iyUktGtEjnBgQVuXpROUoA__thumb/img/6RXlXl3ABAdE7eE0TLQ8_2nt0hc\u003d/fit-in/200x150/filters:strip_icc()/pic7943778.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Hare \u0026 Tortoise"
+    },
+    {
+      "type": "alternate",
+      "value": "Britvic Strategy"
+    },
+    {
+      "type": "alternate",
+      "value": "La Carrera de la Liebre y la Tortuga"
+    },
+    {
+      "type": "alternate",
+      "value": "Haas en Schildpad"
+    },
+    {
+      "type": "alternate",
+      "value": "Hare and Tortoise"
+    },
+    {
+      "type": "alternate",
+      "value": "Haren \u0026 Sköldpaddan"
+    },
+    {
+      "type": "alternate",
+      "value": "Haren och Sköldpaddan"
+    },
+    {
+      "type": "alternate",
+      "value": "Haren og Skildpadden"
+    },
+    {
+      "type": "alternate",
+      "value": "Haren og Skilpadden"
+    },
+    {
+      "type": "alternate",
+      "value": "Hase und Igel"
+    },
+    {
+      "type": "alternate",
+      "value": "A Lebre e a Tartaruga"
+    },
+    {
+      "type": "alternate",
+      "value": "La Lepre e la Tartaruga"
+    },
+    {
+      "type": "alternate",
+      "value": "La Liebre y la Tortuga"
+    },
+    {
+      "type": "alternate",
+      "value": "Le Lièvre et la Tortue"
+    },
+    {
+      "type": "alternate",
+      "value": "La llebre i la tortuga"
+    },
+    {
+      "type": "alternate",
+      "value": "Skála Rally"
+    },
+    {
+      "type": "alternate",
+      "value": "Voltinger \u0026 Wattinger"
+    },
+    {
+      "type": "alternate",
+      "value": "うさぎとカメ かけ引き大レース"
+    },
+    {
+      "type": "alternate",
+      "value": "龜兔賽跑"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "6"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "9"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "12"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 4–5 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 3–6 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

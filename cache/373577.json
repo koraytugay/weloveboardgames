@@ -1,0 +1,163 @@
+{
+  "type": "boardgame",
+  "id": "373577",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2024"
+  },
+  "image": "https://cf.geekdo-images.com/h5n-YxhR4u-Xly2rB7TaUA__original/img/f33Zl8hpDafkStZx8exwAcV0c18\u003d/0x0/filters:format(png)/pic7807204.png",
+  "thumbnail": "https://cf.geekdo-images.com/h5n-YxhR4u-Xly2rB7TaUA__thumb/img/wX6xf4ffLAhnOFJC4rq8qaW4iV4\u003d/fit-in/200x150/filters:strip_icc()/pic7807204.png",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Forage: A 9 card solitaire game"
+    },
+    {
+      "type": "alternate",
+      "value": "A Spasso nel Bosco"
+    },
+    {
+      "type": "alternate",
+      "value": "Dary lesa"
+    },
+    {
+      "type": "alternate",
+      "value": "Forage: un juego en solitario de 9 cartas"
+    },
+    {
+      "type": "alternate",
+      "value": "Forrageio"
+    },
+    {
+      "type": "alternate",
+      "value": "Herbsthain"
+    },
+    {
+      "type": "alternate",
+      "value": "HORTIS Automne"
+    },
+    {
+      "type": "alternate",
+      "value": "Pagony"
+    },
+    {
+      "type": "alternate",
+      "value": "Βεντέμα: Σόλο παιχνίδι 9 καρτών"
+    },
+    {
+      "type": "alternate",
+      "value": "寻山珍"
+    }
+  ],
+  "minPlayers": {
+    "value": "1"
+  },
+  "maxPlayers": {
+    "value": "1"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 1 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 1 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

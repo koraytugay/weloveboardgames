@@ -1,0 +1,227 @@
+{
+  "type": "boardgame",
+  "id": "41916",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2009"
+  },
+  "image": "https://cf.geekdo-images.com/pxaH7_Vihsg-nJBsXLvCRA__original/img/aELxAoP908IOGflnALCRSaU16CU\u003d/0x0/filters:format(jpeg)/pic953186.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/pxaH7_Vihsg-nJBsXLvCRA__thumb/img/MoLZ7glHk6EEbGQSHauFLJIqFl4\u003d/fit-in/200x150/filters:strip_icc()/pic953186.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "The Magic Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Az elvarázsolt labirintus"
+    },
+    {
+      "type": "alternate",
+      "value": "El Laberint Màgic"
+    },
+    {
+      "type": "alternate",
+      "value": "El Laberinto Mágico"
+    },
+    {
+      "type": "alternate",
+      "value": "Il Labirinto Magico"
+    },
+    {
+      "type": "alternate",
+      "value": "O Labirinto Mágico"
+    },
+    {
+      "type": "alternate",
+      "value": "Labirintul Magic"
+    },
+    {
+      "type": "alternate",
+      "value": "Le Labyrinthe magique"
+    },
+    {
+      "type": "alternate",
+      "value": "Il Labyrinto Magico"
+    },
+    {
+      "type": "alternate",
+      "value": "Maaginen labyrintti"
+    },
+    {
+      "type": "alternate",
+      "value": "Magi Labyrinten"
+    },
+    {
+      "type": "alternate",
+      "value": "Magi-Labyrinten"
+    },
+    {
+      "type": "alternate",
+      "value": "Magic Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Magický labyrint"
+    },
+    {
+      "type": "alternate",
+      "value": "Magiczny Labirynt"
+    },
+    {
+      "type": "alternate",
+      "value": "Magilabyrinten"
+    },
+    {
+      "type": "alternate",
+      "value": "Het Magische Labyrint"
+    },
+    {
+      "type": "alternate",
+      "value": "Das Magische Labyrinth"
+    },
+    {
+      "type": "alternate",
+      "value": "Den magiska labyrinten"
+    },
+    {
+      "type": "alternate",
+      "value": "Den magiske labyrint"
+    },
+    {
+      "type": "alternate",
+      "value": "Ο Μαγικός Λαβύρινθος"
+    },
+    {
+      "type": "alternate",
+      "value": "Магический лабиринт"
+    },
+    {
+      "type": "alternate",
+      "value": "Магічний лабіринт"
+    },
+    {
+      "type": "alternate",
+      "value": "קסם המבוך"
+    },
+    {
+      "type": "alternate",
+      "value": "磁石魔法迷宮"
+    },
+    {
+      "type": "alternate",
+      "value": "마법의 미로"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "6"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "10"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "30"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "14"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "10"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "22"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 3–4 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

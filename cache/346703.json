@@ -1,0 +1,171 @@
+{
+  "type": "boardgame",
+  "id": "346703",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2021"
+  },
+  "image": "https://cf.geekdo-images.com/BGtYtHbLgYhYyNMoyOm1RA__original/img/05P7xaW8B4ueCvItryBjO5wVA5s\u003d/0x0/filters:format(jpeg)/pic7416525.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/BGtYtHbLgYhYyNMoyOm1RA__thumb/img/Qml2TbcN2IyaA-PtHKcIrhnELd4\u003d/fit-in/200x150/filters:strip_icc()/pic7416525.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "7 Wonders: Architects"
+    },
+    {
+      "type": "alternate",
+      "value": "7 Csoda: Építészek"
+    },
+    {
+      "type": "alternate",
+      "value": "7 Cudów Świata: Architekci"
+    },
+    {
+      "type": "alternate",
+      "value": "7 Divů světa: Architekti"
+    },
+    {
+      "type": "alternate",
+      "value": "7 Wonders: Arquitectos"
+    },
+    {
+      "type": "alternate",
+      "value": "7 Wonders: Arquitetos"
+    },
+    {
+      "type": "alternate",
+      "value": "7 Θαύματα του κόσμου: Αρχιτέκτονες"
+    },
+    {
+      "type": "alternate",
+      "value": "7 Чудес: Архитекторы"
+    },
+    {
+      "type": "alternate",
+      "value": "7 Чудес: Архітектори"
+    },
+    {
+      "type": "alternate",
+      "value": "7 สิ่งมหัศจรรย์ ยอดสถาปนิก"
+    },
+    {
+      "type": "alternate",
+      "value": "7 원더스 건축가들"
+    },
+    {
+      "type": "alternate",
+      "value": "世界の七不思議：建築家たち"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "7"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "5"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "36"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "29"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "21"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 4 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–7 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

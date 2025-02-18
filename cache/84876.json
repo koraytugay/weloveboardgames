@@ -1,0 +1,167 @@
+{
+  "type": "boardgame",
+  "id": "84876",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2011"
+  },
+  "image": "https://cf.geekdo-images.com/5CFwjd8zTcGYVUnkXh04hw__original/img/N8btACZrnEYK1amBNk26VBdcGwc\u003d/0x0/filters:format(jpeg)/pic1176894.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/5CFwjd8zTcGYVUnkXh04hw__thumb/img/0AG_6zsfYQjqlUHG0-_8lcjp8rc\u003d/fit-in/200x150/filters:strip_icc()/pic1176894.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "The Castles of Burgundy"
+    },
+    {
+      "type": "alternate",
+      "value": "Die Burgen von Burgund"
+    },
+    {
+      "type": "alternate",
+      "value": "I Castelli della Borgogna"
+    },
+    {
+      "type": "alternate",
+      "value": "Los Castillos de Borgoña"
+    },
+    {
+      "type": "alternate",
+      "value": "Les Châteaux de Bourgogne"
+    },
+    {
+      "type": "alternate",
+      "value": "Zamki Burgundii"
+    },
+    {
+      "type": "alternate",
+      "value": "Замки Бургундии"
+    },
+    {
+      "type": "alternate",
+      "value": "ブルゴーニュ"
+    },
+    {
+      "type": "alternate",
+      "value": "ブルゴーニュの城"
+    },
+    {
+      "type": "alternate",
+      "value": "勃根地城堡"
+    },
+    {
+      "type": "alternate",
+      "value": "버건디의 성"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "12"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "22"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "58"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "101"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "32"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "140"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "17"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 2 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

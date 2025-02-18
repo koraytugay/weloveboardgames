@@ -1,0 +1,195 @@
+{
+  "type": "boardgame",
+  "id": "266192",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2019"
+  },
+  "image": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__original/img/cI782Zis9cT66j2MjSHKJGnFPNw\u003d/0x0/filters:format(jpeg)/pic4458123.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/yLZJCVLlIx4c7eJEWUNJ7w__thumb/img/VNToqgS2-pOGU6MuvIkMPKn_y-s\u003d/fit-in/200x150/filters:strip_icc()/pic4458123.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Wingspan"
+    },
+    {
+      "type": "alternate",
+      "value": "Fesztáv"
+    },
+    {
+      "type": "alternate",
+      "value": "Flügelschlag"
+    },
+    {
+      "type": "alternate",
+      "value": "Na křídlech"
+    },
+    {
+      "type": "alternate",
+      "value": "Na skrzydłach"
+    },
+    {
+      "type": "alternate",
+      "value": "Spārnotie"
+    },
+    {
+      "type": "alternate",
+      "value": "Sparnuotieji"
+    },
+    {
+      "type": "alternate",
+      "value": "Tiivulised"
+    },
+    {
+      "type": "alternate",
+      "value": "Wingspan srpsko izdanje"
+    },
+    {
+      "type": "alternate",
+      "value": "Wingspan: Lumea păsărilor"
+    },
+    {
+      "type": "alternate",
+      "value": "Άνοιγμα φτερών"
+    },
+    {
+      "type": "alternate",
+      "value": "Крила"
+    },
+    {
+      "type": "alternate",
+      "value": "Криле"
+    },
+    {
+      "type": "alternate",
+      "value": "Крылья"
+    },
+    {
+      "type": "alternate",
+      "value": "ปีกปักษา"
+    },
+    {
+      "type": "alternate",
+      "value": "ウイングスパン"
+    },
+    {
+      "type": "alternate",
+      "value": "展翅翱翔"
+    },
+    {
+      "type": "alternate",
+      "value": "윙스팬"
+    }
+  ],
+  "minPlayers": {
+    "value": "1"
+  },
+  "maxPlayers": {
+    "value": "5"
+  },
+  "minimumAge": {
+    "value": "10"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "12"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "158"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "204"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "69"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "7"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "26"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "72"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "3"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 3 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 1–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

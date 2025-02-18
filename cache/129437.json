@@ -1,0 +1,127 @@
+{
+  "type": "boardgame",
+  "id": "129437",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2012"
+  },
+  "image": "https://cf.geekdo-images.com/ZrRidumkzu62HuwKdgQpHA__original/img/FqPcmpzntFV1FDR6dniHGKvNwvI\u003d/0x0/filters:format(jpeg)/pic1430769.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/ZrRidumkzu62HuwKdgQpHA__thumb/img/Q9zldSDfcsSXiD6SC4MU-dwCl5g\u003d/fit-in/200x150/filters:strip_icc()/pic1430769.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Legendary: A Marvel Deck Building Game"
+    }
+  ],
+  "minPlayers": {
+    "value": "1"
+  },
+  "maxPlayers": {
+    "value": "5"
+  },
+  "minimumAge": {
+    "value": "14"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "13"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "42"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "46"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "26"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "18"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "29"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "31"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 3 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 1–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

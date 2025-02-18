@@ -1,0 +1,127 @@
+{
+  "type": "boardgame",
+  "id": "344608",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2022"
+  },
+  "image": "https://cf.geekdo-images.com/pDlV0x4CyylzjjezudBArA__original/img/_lfH7BjkYI5V4vz1X3icpQApSSw\u003d/0x0/filters:format(jpeg)/pic6336316.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/pDlV0x4CyylzjjezudBArA__thumb/img/BgVUcwhGsgjNoxo7zSjHSYPxRa8\u003d/fit-in/200x150/filters:strip_icc()/pic6336316.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "CubeClimbers"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "",
+          "name": "bestwith"
+        },
+        {
+          "value": "(no votes)",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

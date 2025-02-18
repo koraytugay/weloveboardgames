@@ -1,0 +1,183 @@
+{
+  "type": "boardgame",
+  "id": "15512",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2005"
+  },
+  "image": "https://cf.geekdo-images.com/xPuQ_NYaoKWEUhugIDA3yA__original/img/kPOT6llwnZBDjeRq8LopasPm1Go\u003d/0x0/filters:format(jpeg)/pic8279658.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/xPuQ_NYaoKWEUhugIDA3yA__thumb/img/osrBmn2JqDeBylg8bvqaVOCVGTI\u003d/fit-in/200x150/filters:strip_icc()/pic8279658.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Incan Gold"
+    },
+    {
+      "type": "alternate",
+      "value": "Diamant"
+    },
+    {
+      "type": "alternate",
+      "value": "Diamantes"
+    },
+    {
+      "type": "alternate",
+      "value": "Diamenty"
+    },
+    {
+      "type": "alternate",
+      "value": "Dijamant"
+    },
+    {
+      "type": "alternate",
+      "value": "Gyémántvadászok"
+    },
+    {
+      "type": "alternate",
+      "value": "Tesouro Inca"
+    },
+    {
+      "type": "alternate",
+      "value": "Диамант"
+    },
+    {
+      "type": "alternate",
+      "value": "Діамант"
+    },
+    {
+      "type": "alternate",
+      "value": "ล่าสมบัติอินคา"
+    },
+    {
+      "type": "alternate",
+      "value": "インカの黄金"
+    },
+    {
+      "type": "alternate",
+      "value": "インカの黄金　再発掘"
+    },
+    {
+      "type": "alternate",
+      "value": "インカの黄金 新版"
+    },
+    {
+      "type": "alternate",
+      "value": "印加寶藏"
+    },
+    {
+      "type": "alternate",
+      "value": "잉카의 황금"
+    }
+  ],
+  "minPlayers": {
+    "value": "3"
+  },
+  "maxPlayers": {
+    "value": "8"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "15"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "22"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "30"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "17"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "58"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 6–8 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 3–8 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

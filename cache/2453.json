@@ -1,0 +1,167 @@
+{
+  "type": "boardgame",
+  "id": "2453",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2000"
+  },
+  "image": "https://cf.geekdo-images.com/96YA5wUJDxtPkmPxemr5Qg__original/img/sdX6o0TZpXjsDMw071k2P80wpYw\u003d/0x0/filters:format(jpeg)/pic2197702.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/96YA5wUJDxtPkmPxemr5Qg__thumb/img/EBt2y7Awj5djyo185R7g6FV3P9g\u003d/fit-in/200x150/filters:strip_icc()/pic2197702.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Blokus"
+    },
+    {
+      "type": "alternate",
+      "value": "Blokus Giant"
+    },
+    {
+      "type": "alternate",
+      "value": "Blokus XL"
+    },
+    {
+      "type": "alternate",
+      "value": "Blokus: Super einfach, einfach spannend"
+    },
+    {
+      "type": "alternate",
+      "value": "Giant Blokus"
+    },
+    {
+      "type": "alternate",
+      "value": "Tesselation Game"
+    },
+    {
+      "type": "alternate",
+      "value": "Tessellation"
+    },
+    {
+      "type": "alternate",
+      "value": "Travel Blokus"
+    },
+    {
+      "type": "alternate",
+      "value": "ブロックス"
+    },
+    {
+      "type": "alternate",
+      "value": "格格不入"
+    },
+    {
+      "type": "alternate",
+      "value": "블로커스"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "7"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "6"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "28"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "49"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "32"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "5"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "86"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 4 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2, 4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

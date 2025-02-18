@@ -1,0 +1,135 @@
+{
+  "type": "boardgame",
+  "id": "306321",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2021"
+  },
+  "image": "https://cf.geekdo-images.com/pa0kO7-PZkfuqEAvX384oQ__original/img/ylHi_WPL5I4FAHbQaaOm5QZW7uc\u003d/0x0/filters:format(jpeg)/pic5426946.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/pa0kO7-PZkfuqEAvX384oQ__thumb/img/r6HitXm51jUA9MgnzrObznLnGUM\u003d/fit-in/200x150/filters:strip_icc()/pic5426946.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Night of the Ninja"
+    },
+    {
+      "type": "alternate",
+      "value": "Ночь Ниндзя"
+    },
+    {
+      "type": "alternate",
+      "value": "忍者之夜"
+    }
+  ],
+  "minPlayers": {
+    "value": "4"
+  },
+  "maxPlayers": {
+    "value": "11"
+  },
+  "minimumAge": {
+    "value": "12"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 6–8 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 5–11 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,175 @@
+{
+  "type": "boardgame",
+  "id": "143741",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2013"
+  },
+  "image": "https://cf.geekdo-images.com/BLTFau1Ue-gjX6geQdYrjQ__original/img/3CcRDvDttHpWLP6wc_jZHufTfl4\u003d/0x0/filters:format(jpeg)/pic2909713.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/BLTFau1Ue-gjX6geQdYrjQ__thumb/img/IijBpyOQC760F6XIw34WT0ePqe4\u003d/fit-in/200x150/filters:strip_icc()/pic2909713.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "BANG! The Dice Game"
+    },
+    {
+      "type": "alternate",
+      "value": "Bang: Jocul de Zaruri"
+    },
+    {
+      "type": "alternate",
+      "value": "BANG: Le Jeu de Dés"
+    },
+    {
+      "type": "alternate",
+      "value": "BANG! El juego de dados"
+    },
+    {
+      "type": "alternate",
+      "value": "BANG! Gra kościana"
+    },
+    {
+      "type": "alternate",
+      "value": "Bang! Het dobbelspel"
+    },
+    {
+      "type": "alternate",
+      "value": "BANG! Kockajáték"
+    },
+    {
+      "type": "alternate",
+      "value": "Bang! Kostková hra"
+    },
+    {
+      "type": "alternate",
+      "value": "BANG! με Ζάρια"
+    },
+    {
+      "type": "alternate",
+      "value": "BANG! Игра със зарове"
+    },
+    {
+      "type": "alternate",
+      "value": "Бэнг! За пригоршню кубиков"
+    },
+    {
+      "type": "alternate",
+      "value": "砰！骰子版"
+    },
+    {
+      "type": "alternate",
+      "value": "뱅! 주사위 게임"
+    }
+  ],
+  "minPlayers": {
+    "value": "3"
+  },
+  "maxPlayers": {
+    "value": "8"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "8"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "53"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "18"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "28"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "12"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 6–7 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 5–8 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

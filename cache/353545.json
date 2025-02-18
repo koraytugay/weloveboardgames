@@ -1,0 +1,163 @@
+{
+  "type": "boardgame",
+  "id": "353545",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2022"
+  },
+  "image": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__original/img/z7oBkzeFcQLFBlYB5GGO0FFRJ5g\u003d/0x0/filters:format(jpeg)/pic6622999.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__thumb/img/Zjg7k92wAJyj9q4KWORbnWBSStI\u003d/fit-in/200x150/filters:strip_icc()/pic6622999.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Next Station: London"
+    },
+    {
+      "type": "alternate",
+      "value": "Következő megálló: London"
+    },
+    {
+      "type": "alternate",
+      "value": "Następna stacja: Londyn"
+    },
+    {
+      "type": "alternate",
+      "value": "Příští stanice Londýn"
+    },
+    {
+      "type": "alternate",
+      "value": "Próxima Estação: Londres"
+    },
+    {
+      "type": "alternate",
+      "value": "Próxima Estacion: Londres"
+    },
+    {
+      "type": "alternate",
+      "value": "Наступна станція Лондон"
+    },
+    {
+      "type": "alternate",
+      "value": "Следующая станция: Лондон"
+    },
+    {
+      "type": "alternate",
+      "value": "下一站 倫敦"
+    },
+    {
+      "type": "alternate",
+      "value": "넥스트스테이션: 런던"
+    }
+  ],
+  "minPlayers": {
+    "value": "1"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "5"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "12"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "9"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "11"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 2–4 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 1–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

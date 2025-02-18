@@ -1,0 +1,143 @@
+{
+  "type": "boardgame",
+  "id": "271055",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2020"
+  },
+  "image": "https://cf.geekdo-images.com/qJQXn0kvzvHBKWzSQN7vpw__original/img/NAq9RfDsv-qPEsco3W0ES8ofHEA\u003d/0x0/filters:format(jpeg)/pic4742944.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/qJQXn0kvzvHBKWzSQN7vpw__thumb/img/nyFpcKV3cBOVO1pEImnBYLc_BRE\u003d/fit-in/200x150/filters:strip_icc()/pic4742944.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Dwellings of Eldervale"
+    },
+    {
+      "type": "alternate",
+      "value": "Hajdanvölgy mítosza"
+    },
+    {
+      "type": "alternate",
+      "value": "Legendy Dávnozemě"
+    },
+    {
+      "type": "alternate",
+      "value": "Siedlungen von Eldervale"
+    },
+    {
+      "type": "alternate",
+      "value": "幻谷征拓"
+    }
+  ],
+  "minPlayers": {
+    "value": "1"
+  },
+  "maxPlayers": {
+    "value": "5"
+  },
+  "minimumAge": {
+    "value": "14"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "8"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "8"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "9"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "6"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 3 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 1–5 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

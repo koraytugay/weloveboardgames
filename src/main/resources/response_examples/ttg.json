@@ -1,0 +1,1257 @@
+{
+  "PageSize": 50,
+  "TotalCount": 4722,
+  "Items": [
+    {
+      "Id": 346703,
+      "Name": "7 Wonders: Architects",
+      "Thumbnail": "https://cf.geekdo-images.com/BGtYtHbLgYhYyNMoyOm1RA__thumb/img/Qml2TbcN2IyaA-PtHKcIrhnELd4=/fit-in/200x150/filters:strip_icc()/pic7416525.jpg",
+      "YearPublished": 2021,
+      "GameScore": 7.283685684204102,
+      "UserScore": 8.364396095275879,
+      "LikeScore": 8.196072578430176,
+      "Strength": 3,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 7,
+      "MinPlayingTime": 25,
+      "MaxPlayingTime": 25,
+      "MechanicIds": [
+        2004,
+        2015,
+        2041
+      ],
+      "CategoryIds": [
+        1050
+      ]
+    },
+    {
+      "Id": 416851,
+      "Name": "Castle Combo",
+      "Thumbnail": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__thumb/img/DnptKBxT6l_W2B3jGXdnEDEkDM0=/fit-in/200x150/filters:strip_icc()/pic8250341.png",
+      "YearPublished": 2024,
+      "GameScore": 7.2879815101623535,
+      "UserScore": 8.362792015075684,
+      "LikeScore": 8.152721405029297,
+      "Strength": 3,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 5,
+      "MinPlayingTime": 10,
+      "MaxPlayingTime": 25,
+      "MechanicIds": [
+        2041
+      ],
+      "CategoryIds": [
+        1002,
+        1035
+      ]
+    },
+    {
+      "Id": 376683,
+      "Name": "In the Footsteps of Darwin",
+      "Thumbnail": "https://cf.geekdo-images.com/1KPQC8pVuTXL32RdbTxDjw__thumb/img/5-diW-kjrYWpfEsAHjBoKyyIL5g=/fit-in/200x150/filters:strip_icc()/pic7234392.jpg",
+      "YearPublished": 2023,
+      "GameScore": 7.321176052093506,
+      "UserScore": 8.26805591583252,
+      "LikeScore": 8.019099235534668,
+      "Strength": 3,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 5,
+      "MinPlayingTime": 20,
+      "MaxPlayingTime": 30,
+      "MechanicIds": [
+        2002,
+        2041,
+        2048,
+        2813,
+        2875,
+        2940,
+        2978,
+        3001
+      ],
+      "CategoryIds": [
+        1008,
+        1089,
+        1094
+      ]
+    },
+    {
+      "Id": 63975,
+      "Name": "Mountain Goats",
+      "Thumbnail": "https://cf.geekdo-images.com/p4DD5TGFNFQy_ayFtT-x_A__thumb/img/NuH7OkL_qhJtS1QORYrHVE1dCl8=/fit-in/200x150/filters:strip_icc()/pic5313595.jpg",
+      "YearPublished": 2010,
+      "GameScore": 7.309165954589844,
+      "UserScore": 8.284065246582031,
+      "LikeScore": 8.007176399230957,
+      "Strength": 3,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 4,
+      "MinPlayingTime": 20,
+      "MaxPlayingTime": 20,
+      "MechanicIds": [
+        2004,
+        2035,
+        2072,
+        2886,
+        2939
+      ],
+      "CategoryIds": [
+        1009,
+        1017,
+        1089,
+        1098
+      ]
+    },
+    {
+      "Id": 307971,
+      "Name": "Fairy Tale Inn",
+      "Thumbnail": "https://cf.geekdo-images.com/856HuI1FNtv2ZyTNNZk_bA__thumb/img/bpgc886iXKkh2d1u2ZzDi-PnPSc=/fit-in/200x150/filters:strip_icc()/pic6107848.jpg",
+      "YearPublished": 2021,
+      "GameScore": 8.020479202270508,
+      "UserScore": 7.682071685791016,
+      "LikeScore": 7.944140434265137,
+      "Strength": 2,
+      "Surety": 1,
+      "MinPlayers": 2,
+      "MaxPlayers": 2,
+      "MinPlayingTime": 15,
+      "MaxPlayingTime": 20,
+      "MechanicIds": [
+        2043,
+        2874,
+        2940,
+        2956
+      ],
+      "CategoryIds": [
+        1009
+      ]
+    },
+    {
+      "Id": 341530,
+      "Name": "Super Mega Lucky Box",
+      "Thumbnail": "https://cf.geekdo-images.com/grnvMmEKa_jRg4ZBX5Fadw__thumb/img/Fs2vCJ0dkPZxMHm4A_vEkl0yiT0=/fit-in/200x150/filters:strip_icc()/pic6254861.png",
+      "YearPublished": 2021,
+      "GameScore": 7.279348373413086,
+      "UserScore": 8.057784080505371,
+      "LikeScore": 7.912575721740723,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 1,
+      "MaxPlayers": 6,
+      "MinPlayingTime": 20,
+      "MaxPlayingTime": 20,
+      "MechanicIds": [
+        2048,
+        2055,
+        2999
+      ],
+      "CategoryIds": [
+        1098
+      ]
+    },
+    {
+      "Id": 16747,
+      "Name": "Tumblin' Dice",
+      "Thumbnail": "https://cf.geekdo-images.com/c1QnLyOiQ6IcnXJuJacTqw__thumb/img/myb97bBQtrzgnKkBdKR-FCt401I=/fit-in/200x150/filters:strip_icc()/pic7243922.jpg",
+      "YearPublished": 2004,
+      "GameScore": 7.184905529022217,
+      "UserScore": 8.552926063537598,
+      "LikeScore": 7.904845237731934,
+      "Strength": 2,
+      "Surety": 2,
+      "MinPlayers": 1,
+      "MaxPlayers": 6,
+      "MinPlayingTime": 20,
+      "MaxPlayingTime": 45,
+      "MechanicIds": [
+        2072,
+        2860
+      ],
+      "CategoryIds": [
+        1017,
+        1030,
+        1032
+      ]
+    },
+    {
+      "Id": 264055,
+      "Name": "Draftosaurus",
+      "Thumbnail": "https://cf.geekdo-images.com/JahbLRZ_jEe8P8gisXUtJw__thumb/img/XGKi6qBOizS_IdLqOHny-rf0JZw=/fit-in/200x150/filters:strip_icc()/pic4447676.jpg",
+      "YearPublished": 2019,
+      "GameScore": 7.283592224121094,
+      "UserScore": 7.9606804847717285,
+      "LikeScore": 7.8859734535217285,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 5,
+      "MinPlayingTime": 15,
+      "MaxPlayingTime": 15,
+      "MechanicIds": [
+        2004,
+        2020,
+        2072,
+        2984
+      ],
+      "CategoryIds": [
+        1016,
+        1036,
+        1089
+      ]
+    },
+    {
+      "Id": 394889,
+      "Name": "Cabanga!",
+      "Thumbnail": "https://cf.geekdo-images.com/nbGlxygT3CGhM7L-9_1gkQ__thumb/img/z_Nvf69nny26HBhZdkTQl2CT9D4=/fit-in/200x150/filters:strip_icc()/pic7655903.jpg",
+      "YearPublished": 2023,
+      "GameScore": 7.296662330627441,
+      "UserScore": 8.478119850158691,
+      "LikeScore": 7.88185453414917,
+      "Strength": 2,
+      "Surety": 2,
+      "MinPlayers": 3,
+      "MaxPlayers": 6,
+      "MinPlayingTime": 20,
+      "MaxPlayingTime": 20,
+      "MechanicIds": [],
+      "CategoryIds": [
+        1002
+      ]
+    },
+    {
+      "Id": 137297,
+      "Name": "Rise of Augustus",
+      "Thumbnail": "https://cf.geekdo-images.com/DjlNoENOK3z7DO8rpNsofQ__thumb/img/DOPkJkUFO89G83sHjAyfN4pqoE4=/fit-in/200x150/filters:strip_icc()/pic3532649.jpg",
+      "YearPublished": 2013,
+      "GameScore": 7.678851127624512,
+      "UserScore": 7.955546855926514,
+      "LikeScore": 7.8789238929748535,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 6,
+      "MinPlayingTime": 30,
+      "MaxPlayingTime": 30,
+      "MechanicIds": [
+        2004,
+        2041,
+        2661,
+        2999
+      ],
+      "CategoryIds": [
+        1002,
+        1050
+      ]
+    },
+    {
+      "Id": 383109,
+      "Name": "Dragonkeepers",
+      "Thumbnail": "https://cf.geekdo-images.com/FvGvU-Tp3gXDdX-FBkRceA__thumb/img/CHjciSKLrj6XRWXsdwwnJBMVymk=/fit-in/200x150/filters:strip_icc()/pic7646092.jpg",
+      "YearPublished": 2023,
+      "GameScore": 7.309165954589844,
+      "UserScore": 8.229490280151367,
+      "LikeScore": 7.878795146942139,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 4,
+      "MinPlayingTime": 20,
+      "MaxPlayingTime": 20,
+      "MechanicIds": [],
+      "CategoryIds": [
+        1002
+      ]
+    },
+    {
+      "Id": 407297,
+      "Name": "River Valley Glassworks",
+      "Thumbnail": "https://cf.geekdo-images.com/Rb2Hw7IDaF7evNMjrqMmXA__thumb/img/w1wJgVzu16nnp_zm4wbMNmNSVzA=/fit-in/200x150/filters:strip_icc()/pic7886346.jpg",
+      "YearPublished": 2024,
+      "GameScore": 7.241230487823486,
+      "UserScore": 8.177943229675293,
+      "LikeScore": 7.8504862785339355,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 1,
+      "MaxPlayers": 5,
+      "MinPlayingTime": 25,
+      "MaxPlayingTime": 45,
+      "MechanicIds": [
+        2002,
+        2011,
+        2041,
+        2048,
+        2875,
+        2914
+      ],
+      "CategoryIds": [
+        1009,
+        1089
+      ]
+    },
+    {
+      "Id": 295947,
+      "Name": "Cascadia",
+      "Thumbnail": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__thumb/img/tVSFjSxYEcw7sKj3unIIQV8kxoc=/fit-in/200x150/filters:strip_icc()/pic5100691.jpg",
+      "YearPublished": 2021,
+      "GameScore": 7.238396644592285,
+      "UserScore": 7.887694358825684,
+      "LikeScore": 7.829644203186035,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 1,
+      "MaxPlayers": 4,
+      "MinPlayingTime": 30,
+      "MaxPlayingTime": 45,
+      "MechanicIds": [
+        2002,
+        2026,
+        2041,
+        2048,
+        2819,
+        2874,
+        2875,
+        2897
+      ],
+      "CategoryIds": [
+        1028,
+        1084,
+        1089
+      ]
+    },
+    {
+      "Id": 377515,
+      "Name": "Mind Up!",
+      "Thumbnail": "https://cf.geekdo-images.com/xOMxRrAtu_7WR2FRu1oDSw__thumb/img/Ur1t0hDFFzGsNkoFzU3wDwUCL6Q=/fit-in/200x150/filters:strip_icc()/pic7333215.png",
+      "YearPublished": 2023,
+      "GameScore": 7.296662330627441,
+      "UserScore": 8.128304481506348,
+      "LikeScore": 7.823206424713135,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 3,
+      "MaxPlayers": 6,
+      "MinPlayingTime": 15,
+      "MaxPlayingTime": 20,
+      "MechanicIds": [
+        2020,
+        2040
+      ],
+      "CategoryIds": [
+        1002,
+        1098
+      ]
+    },
+    {
+      "Id": 28023,
+      "Name": "Jamaica",
+      "Thumbnail": "https://cf.geekdo-images.com/jZRfv3isrBG5waCzEx60Cw__thumb/img/6q5nirF5yn1d0qtjm2UEI5HV874=/fit-in/200x150/filters:strip_icc()/pic6434838.png",
+      "YearPublished": 2007,
+      "GameScore": 7.276656627655029,
+      "UserScore": 7.9494194984436035,
+      "LikeScore": 7.8210344314575195,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 6,
+      "MinPlayingTime": 30,
+      "MaxPlayingTime": 60,
+      "MechanicIds": [
+        2020,
+        2035,
+        2040,
+        2072,
+        2686,
+        2828,
+        2874,
+        2876,
+        2939,
+        2987
+      ],
+      "CategoryIds": [
+        1008,
+        1090
+      ]
+    },
+    {
+      "Id": 276042,
+      "Name": "Conspiracy: Abyss Universe",
+      "Thumbnail": "https://cf.geekdo-images.com/Ky1KJsNelw0ztljXDZJl_w__thumb/img/93KaKL8CBUcBflMWKQRzVcIRueg=/fit-in/200x150/filters:strip_icc()/pic6964382.jpg",
+      "YearPublished": 2019,
+      "GameScore": 7.318342208862305,
+      "UserScore": 7.975767612457275,
+      "LikeScore": 7.806342601776123,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 4,
+      "MinPlayingTime": 30,
+      "MaxPlayingTime": 30,
+      "MechanicIds": [
+        2002,
+        2004,
+        2041,
+        2048
+      ],
+      "CategoryIds": [
+        1002,
+        1008,
+        1010
+      ]
+    },
+    {
+      "Id": 300936,
+      "Name": "Via Magica",
+      "Thumbnail": "https://cf.geekdo-images.com/a1oAJngPovEoTopMY6fJOg__thumb/img/BCYZjCXEcwzr-MKHomDbDk-J_KM=/fit-in/200x150/filters:strip_icc()/pic5381155.jpg",
+      "YearPublished": 2020,
+      "GameScore": 7.678851127624512,
+      "UserScore": 7.917314052581787,
+      "LikeScore": 7.802891254425049,
+      "Strength": 2,
+      "Surety": 2,
+      "MinPlayers": 2,
+      "MaxPlayers": 6,
+      "MinPlayingTime": 30,
+      "MaxPlayingTime": 30,
+      "MechanicIds": [
+        2004,
+        2041,
+        2661,
+        2999
+      ],
+      "CategoryIds": [
+        1002
+      ]
+    },
+    {
+      "Id": 359152,
+      "Name": "Marvel: Remix",
+      "Thumbnail": "https://cf.geekdo-images.com/1EilwFEoi4ZLKX7aqw2mmQ__thumb/img/M93SM3m3ekHA_p-UKMJ8d7bpuRA=/fit-in/200x150/filters:strip_icc()/pic6778570.jpg",
+      "YearPublished": 2022,
+      "GameScore": 7.309675216674805,
+      "UserScore": 8.065910339355469,
+      "LikeScore": 7.800834655761719,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 6,
+      "MinPlayingTime": 20,
+      "MaxPlayingTime": 20,
+      "MechanicIds": [
+        2004,
+        2040,
+        2041
+      ],
+      "CategoryIds": [
+        1002,
+        1116
+      ]
+    },
+    {
+      "Id": 117959,
+      "Name": "Las Vegas",
+      "Thumbnail": "https://cf.geekdo-images.com/aQJ0HRKx2mobP0g3FCeR_Q__thumb/img/7g-l6beAu5RtsAykBhoO7kMWexc=/fit-in/200x150/filters:strip_icc()/pic1261796.jpg",
+      "YearPublished": 2012,
+      "GameScore": 7.267176151275635,
+      "UserScore": 7.968420505523682,
+      "LikeScore": 7.797353744506836,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 5,
+      "MinPlayingTime": 30,
+      "MaxPlayingTime": 30,
+      "MechanicIds": [
+        2072,
+        2080
+      ],
+      "CategoryIds": [
+        1017
+      ]
+    },
+    {
+      "Id": 353288,
+      "Name": "Trekking Through History",
+      "Thumbnail": "https://cf.geekdo-images.com/v9mg1nwp7I6DBPveHSumPA__thumb/img/tOJGm1XgsWhDP9BOiJHBfIxbOIA=/fit-in/200x150/filters:strip_icc()/pic7970728.jpg",
+      "YearPublished": 2022,
+      "GameScore": 7.17714786529541,
+      "UserScore": 7.970387935638428,
+      "LikeScore": 7.794713020324707,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 4,
+      "MinPlayingTime": 30,
+      "MaxPlayingTime": 60,
+      "MechanicIds": [
+        2004,
+        2041,
+        2663
+      ],
+      "CategoryIds": [
+        1022
+      ]
+    },
+    {
+      "Id": 400205,
+      "Name": "5 Towers",
+      "Thumbnail": "https://cf.geekdo-images.com/LSvZr6UroXeY5w_6JA1czw__thumb/img/l0LWgQK_ErVTvnKTgvT9HO04MXI=/fit-in/200x150/filters:strip_icc()/pic7734900.png",
+      "YearPublished": 2023,
+      "GameScore": 7.267176151275635,
+      "UserScore": 8.055136680603027,
+      "LikeScore": 7.7913947105407715,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 5,
+      "MinPlayingTime": 15,
+      "MaxPlayingTime": 30,
+      "MechanicIds": [
+        2004,
+        2012,
+        2041
+      ],
+      "CategoryIds": [
+        1002
+      ]
+    },
+    {
+      "Id": 355483,
+      "Name": "Wandering Towers",
+      "Thumbnail": "https://cf.geekdo-images.com/602eY-xlgkaL3gtyZ7QVVQ__thumb/img/6u9GKTBVH0wRAhhpOi1kn3sSNeo=/fit-in/200x150/filters:strip_icc()/pic7347437.jpg",
+      "YearPublished": 2022,
+      "GameScore": 7.318850994110107,
+      "UserScore": 7.9605889320373535,
+      "LikeScore": 7.787630081176758,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 6,
+      "MinPlayingTime": 30,
+      "MaxPlayingTime": 30,
+      "MechanicIds": [
+        2040,
+        2047,
+        2819,
+        2876,
+        2939,
+        2988
+      ],
+      "CategoryIds": [
+        1010,
+        1045
+      ]
+    },
+    {
+      "Id": 284229,
+      "Name": "Butterfly",
+      "Thumbnail": "https://cf.geekdo-images.com/nnE5EMwoNY-E222dro4afA__thumb/img/uRnDKONojxDQkSZ7bTbHF9IoXRs=/fit-in/200x150/filters:strip_icc()/pic4971114.jpg",
+      "YearPublished": 2019,
+      "GameScore": 7.271557331085205,
+      "UserScore": 8.386701583862305,
+      "LikeScore": 7.7845001220703125,
+      "Strength": 2,
+      "Surety": 2,
+      "MinPlayers": 2,
+      "MaxPlayers": 5,
+      "MinPlayingTime": 30,
+      "MaxPlayingTime": 45,
+      "MechanicIds": [
+        2004,
+        2661,
+        2676,
+        2940
+      ],
+      "CategoryIds": [
+        1009
+      ]
+    },
+    {
+      "Id": 234260,
+      "Name": "Prey Another Day",
+      "Thumbnail": "https://cf.geekdo-images.com/pfEw73TNwLWHNKwssoI4mg__thumb/img/uMR-GcpC7W6uJHQW3XZtU0w5Y7U=/fit-in/200x150/filters:strip_icc()/pic7615075.jpg",
+      "YearPublished": 2023,
+      "GameScore": 7.311999797821045,
+      "UserScore": 8.070951461791992,
+      "LikeScore": 7.782891750335693,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 5,
+      "MinPlayingTime": 15,
+      "MaxPlayingTime": 20,
+      "MechanicIds": [
+        2020
+      ],
+      "CategoryIds": [
+        1002,
+        1023,
+        1039,
+        1089,
+        1120
+      ]
+    },
+    {
+      "Id": 244521,
+      "Name": "The Quacks of Quedlinburg",
+      "Thumbnail": "https://cf.geekdo-images.com/pH5LgRL4mNRon-2NsSDb1Q__thumb/img/E_XspsgbgrVOwOeCuZMO1S8W2rk=/fit-in/200x150/filters:strip_icc()/pic6137509.png",
+      "YearPublished": 2018,
+      "GameScore": 7.268723487854004,
+      "UserScore": 7.8520050048828125,
+      "LikeScore": 7.781810760498047,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 4,
+      "MinPlayingTime": 45,
+      "MaxPlayingTime": 45,
+      "MechanicIds": [
+        2020,
+        2041,
+        2072,
+        2661,
+        2664,
+        2850,
+        2887,
+        2897,
+        2901
+      ],
+      "CategoryIds": [
+        1035
+      ]
+    },
+    {
+      "Id": 365258,
+      "Name": "World Wonders",
+      "Thumbnail": "https://cf.geekdo-images.com/GGi5aUL1dVQIrytxgXow4g__thumb/img/90wLgUROk-IetKyXz2Fa7zNBCVs=/fit-in/200x150/filters:strip_icc()/pic7604558.png",
+      "YearPublished": 2023,
+      "GameScore": 7.182848930358887,
+      "UserScore": 7.944930076599121,
+      "LikeScore": 7.781027317047119,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 1,
+      "MaxPlayers": 5,
+      "MinPlayingTime": 50,
+      "MaxPlayingTime": 70,
+      "MechanicIds": [
+        2001,
+        2002,
+        2041,
+        2819,
+        2904,
+        2940,
+        2978
+      ],
+      "CategoryIds": [
+        1050,
+        1086
+      ]
+    },
+    {
+      "Id": 293014,
+      "Name": "Nidavellir",
+      "Thumbnail": "https://cf.geekdo-images.com/PX7t5xXDLI2XqxoTShLayg__thumb/img/jV7kN2k9IkGKLhus2FJ5_VP9awc=/fit-in/200x150/filters:strip_icc()/pic5039625.jpg",
+      "YearPublished": 2020,
+      "GameScore": 7.217557430267334,
+      "UserScore": 7.869924068450928,
+      "LikeScore": 7.780204772949219,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 5,
+      "MinPlayingTime": 45,
+      "MaxPlayingTime": 45,
+      "MechanicIds": [
+        2004,
+        2012,
+        2020,
+        2920,
+        2922,
+        2926
+      ],
+      "CategoryIds": [
+        1002,
+        1010,
+        1082
+      ]
+    },
+    {
+      "Id": 216497,
+      "Name": "District Noir",
+      "Thumbnail": "https://cf.geekdo-images.com/NyOyd9UXdzWAuLkrDPDUnA__thumb/img/XIZUXR0d7oXGsaoVUe7S0AlbiiE=/fit-in/200x150/filters:strip_icc()/pic6954556.jpg",
+      "YearPublished": 2016,
+      "GameScore": 7.300478935241699,
+      "UserScore": 8.001832962036133,
+      "LikeScore": 7.777763843536377,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 2,
+      "MinPlayingTime": 10,
+      "MaxPlayingTime": 20,
+      "MechanicIds": [
+        2004,
+        2040,
+        2041
+      ],
+      "CategoryIds": [
+        1002
+      ]
+    },
+    {
+      "Id": 299963,
+      "Name": "Picture Perfect",
+      "Thumbnail": "https://cf.geekdo-images.com/uXCYfqmKvsqua_GDx1gtxA__thumb/img/z9zXEyccz32qjLPNWJW1GNGKWts=/fit-in/200x150/filters:strip_icc()/pic6293159.png",
+      "YearPublished": 2020,
+      "GameScore": 7.229573726654053,
+      "UserScore": 8.152215003967285,
+      "LikeScore": 7.770251274108887,
+      "Strength": 2,
+      "Surety": 2,
+      "MinPlayers": 2,
+      "MaxPlayers": 4,
+      "MinPlayingTime": 50,
+      "MaxPlayingTime": 90,
+      "MechanicIds": [
+        2002,
+        2012,
+        2047,
+        2897,
+        2987,
+        3002
+      ],
+      "CategoryIds": [
+        1026,
+        1028
+      ]
+    },
+    {
+      "Id": 245643,
+      "Name": "Luxor",
+      "Thumbnail": "https://cf.geekdo-images.com/C9nhhIS2zRuneMt0FBK1zg__thumb/img/Ugc6cGHhvETu-EUYAKy03sXJmJM=/fit-in/200x150/filters:strip_icc()/pic3955965.jpg",
+      "YearPublished": 2018,
+      "GameScore": 7.214723587036133,
+      "UserScore": 7.966376781463623,
+      "LikeScore": 7.769449234008789,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 4,
+      "MinPlayingTime": 45,
+      "MaxPlayingTime": 45,
+      "MechanicIds": [
+        2004,
+        2011,
+        2035,
+        2040,
+        2072,
+        2876,
+        2939
+      ],
+      "CategoryIds": [
+        1022,
+        1050
+      ]
+    },
+    {
+      "Id": 283864,
+      "Name": "Trails of Tucana",
+      "Thumbnail": "https://cf.geekdo-images.com/y8ifesXfHobUtIgnSuC0DA__thumb/img/y5rGQUFTGETcIg9HSfuGnHkD234=/fit-in/200x150/filters:strip_icc()/pic4860701.jpg",
+      "YearPublished": 2019,
+      "GameScore": 7.24725866317749,
+      "UserScore": 7.921875,
+      "LikeScore": 7.754753112792969,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 1,
+      "MaxPlayers": 8,
+      "MinPlayingTime": 15,
+      "MaxPlayingTime": 15,
+      "MechanicIds": [
+        2039,
+        2055,
+        2081,
+        2819,
+        2883,
+        2999
+      ],
+      "CategoryIds": [
+        1020
+      ]
+    },
+    {
+      "Id": 411255,
+      "Name": "Solstis",
+      "Thumbnail": "https://cf.geekdo-images.com/KXD1MH_X3e8Qz9kOuNMFxQ__thumb/img/cPjBe7YBvkStvFVnEIWLWkR9KpM=/fit-in/200x150/filters:strip_icc()/pic8034222.png",
+      "YearPublished": 2024,
+      "GameScore": 7.326071262359619,
+      "UserScore": 8.12344741821289,
+      "LikeScore": 7.753258228302002,
+      "Strength": 2,
+      "Surety": 2,
+      "MinPlayers": 2,
+      "MaxPlayers": 2,
+      "MinPlayingTime": 15,
+      "MaxPlayingTime": 15,
+      "MechanicIds": [
+        2002
+      ],
+      "CategoryIds": []
+    },
+    {
+      "Id": 12,
+      "Name": "Ra",
+      "Thumbnail": "https://cf.geekdo-images.com/k7lG683LBZdvFyS-FH-MpA__thumb/img/6KTtiknxxGwd0ARKrlsdoXFtHfI=/fit-in/200x150/filters:strip_icc()/pic6746812.png",
+      "YearPublished": 1999,
+      "GameScore": 7.233981609344482,
+      "UserScore": 7.878490924835205,
+      "LikeScore": 7.752795696258545,
+      "Strength": 2,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 5,
+      "MinPlayingTime": 45,
+      "MaxPlayingTime": 60,
+      "MechanicIds": [
+        2004,
+        2012,
+        2661,
+        2922,
+        2923,
+        2928,
+        2987
+      ],
+      "CategoryIds": [
+        1050,
+        1082
+      ]
+    },
+    {
+      "Id": 352418,
+      "Name": "Fliptown",
+      "Thumbnail": "https://cf.geekdo-images.com/IeFNM8pY6qBIMRONuJ9Irg__thumb/img/uRBbKObz0E1-7K0o-ZulmLC1ayk=/fit-in/200x150/filters:strip_icc()/pic7318155.jpg",
+      "YearPublished": 2023,
+      "GameScore": 7.184396743774414,
+      "UserScore": 8.217429161071777,
+      "LikeScore": 7.749503135681152,
+      "Strength": 1,
+      "Surety": 2,
+      "MinPlayers": 1,
+      "MaxPlayers": 4,
+      "MinPlayingTime": 30,
+      "MaxPlayingTime": 45,
+      "MechanicIds": [
+        2055,
+        2819,
+        2849,
+        2875,
+        2939
+      ],
+      "CategoryIds": [
+        1055,
+        1120
+      ]
+    },
+    {
+      "Id": 341919,
+      "Name": "Magic Mountain",
+      "Thumbnail": "https://cf.geekdo-images.com/P44XaZ5uizRCH1gmodh9sg__thumb/img/kLmlis4JUj3QJiVdb3Mr4_fBh50=/fit-in/200x150/filters:strip_icc()/pic6348973.jpg",
+      "YearPublished": 2021,
+      "GameScore": 7.250940322875977,
+      "UserScore": 8.670086860656738,
+      "LikeScore": 7.7469611167907715,
+      "Strength": 1,
+      "Surety": 1,
+      "MinPlayers": 1,
+      "MaxPlayers": 6,
+      "MinPlayingTime": 15,
+      "MaxPlayingTime": 15,
+      "MechanicIds": [
+        2019,
+        2023
+      ],
+      "CategoryIds": [
+        1041
+      ]
+    },
+    {
+      "Id": 337,
+      "Name": "Circus Flohcati",
+      "Thumbnail": "https://cf.geekdo-images.com/h-HgnES2sJu6_j_L00HYxA__thumb/img/vBQ6QR6l081DCGQt5DQQq9CiM5Q=/fit-in/200x150/filters:strip_icc()/pic7594785.jpg",
+      "YearPublished": 1998,
+      "GameScore": 7.337592124938965,
+      "UserScore": 8.458356857299805,
+      "LikeScore": 7.744479656219482,
+      "Strength": 1,
+      "Surety": 1,
+      "MinPlayers": 2,
+      "MaxPlayers": 5,
+      "MinPlayingTime": 15,
+      "MaxPlayingTime": 15,
+      "MechanicIds": [
+        2004,
+        2041,
+        2661
+      ],
+      "CategoryIds": [
+        1002,
+        1089
+      ]
+    },
+    {
+      "Id": 347805,
+      "Name": "Green Team Wins",
+      "Thumbnail": "https://cf.geekdo-images.com/CnbTdFLjxjuvX_HXgIDYGw__thumb/img/Xo93w8kwKWbYS-NwE_4XGD6XhQE=/fit-in/200x150/filters:strip_icc()/pic6691185.png",
+      "YearPublished": 2022,
+      "GameScore": 7.259361743927002,
+      "UserScore": 8.147529602050781,
+      "LikeScore": 7.74348783493042,
+      "Strength": 1,
+      "Surety": 2,
+      "MinPlayers": 3,
+      "MaxPlayers": 12,
+      "MinPlayingTime": 15,
+      "MaxPlayingTime": 15,
+      "MechanicIds": [
+        2019,
+        2055
+      ],
+      "CategoryIds": [
+        1030
+      ]
+    },
+    {
+      "Id": 244115,
+      "Name": "Shards of Infinity",
+      "Thumbnail": "https://cf.geekdo-images.com/GfQBoqOl21zQx-Vy-dSHZw__thumb/img/YIrtck-_LqOn5Me4cbn8TWk-9UA=/fit-in/200x150/filters:strip_icc()/pic4064509.png",
+      "YearPublished": 2018,
+      "GameScore": 7.264342308044434,
+      "UserScore": 8.07093620300293,
+      "LikeScore": 7.740289688110352,
+      "Strength": 1,
+      "Surety": 2,
+      "MinPlayers": 2,
+      "MaxPlayers": 4,
+      "MinPlayingTime": 30,
+      "MaxPlayingTime": 30,
+      "MechanicIds": [
+        2040,
+        2041,
+        2664,
+        2686,
+        2901
+      ],
+      "CategoryIds": [
+        1002,
+        1010,
+        1016,
+        1046
+      ]
+    },
+    {
+      "Id": 411875,
+      "Name": "Pixies",
+      "Thumbnail": "https://cf.geekdo-images.com/HzOXZ-dmxkD0ZJoHF49_vA__thumb/img/S4swCbvBHeQBOJk9Ah2-d-Ybr4k=/fit-in/200x150/filters:strip_icc()/pic7975645.jpg",
+      "YearPublished": 2024,
+      "GameScore": 7.267176151275635,
+      "UserScore": 7.867607116699219,
+      "LikeScore": 7.735507488250732,
+      "Strength": 1,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 5,
+      "MinPlayingTime": 30,
+      "MaxPlayingTime": 30,
+      "MechanicIds": [
+        2004,
+        2041,
+        2883
+      ],
+      "CategoryIds": [
+        1002,
+        1089
+      ]
+    },
+    {
+      "Id": 265256,
+      "Name": "PUSH",
+      "Thumbnail": "https://cf.geekdo-images.com/6mcfJ0qM9BW-tVi8ylg_uQ__thumb/img/IzNmUL12MrsMorQv_kJdANO7Vtg=/fit-in/200x150/filters:strip_icc()/pic5197222.jpg",
+      "YearPublished": 2018,
+      "GameScore": 7.339656829833984,
+      "UserScore": 7.960056304931641,
+      "LikeScore": 7.733373641967773,
+      "Strength": 1,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 6,
+      "MinPlayingTime": 20,
+      "MaxPlayingTime": 25,
+      "MechanicIds": [
+        2661
+      ],
+      "CategoryIds": [
+        1002
+      ]
+    },
+    {
+      "Id": 340041,
+      "Name": "Kingdomino Origins",
+      "Thumbnail": "https://cf.geekdo-images.com/MUM0pZVIb6ImCmuoE7g1tQ__thumb/img/MJ4SJNXXDXDzwqEriS59Uq8rc6E=/fit-in/200x150/filters:strip_icc()/pic6249158.jpg",
+      "YearPublished": 2021,
+      "GameScore": 7.283573627471924,
+      "UserScore": 8.023816108703613,
+      "LikeScore": 7.732743740081787,
+      "Strength": 1,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 4,
+      "MinPlayingTime": 20,
+      "MaxPlayingTime": 40,
+      "MechanicIds": [
+        2002,
+        2041
+      ],
+      "CategoryIds": [
+        1009,
+        1029,
+        1036,
+        1086
+      ]
+    },
+    {
+      "Id": 362986,
+      "Name": "Tribes of the Wind",
+      "Thumbnail": "https://cf.geekdo-images.com/G_moxnKfgJ4w_NGmr9T6Lg__thumb/img/YBNaQ6O-D_ej8czfA3okABmfQjg=/fit-in/200x150/filters:strip_icc()/pic6871609.jpg",
+      "YearPublished": 2022,
+      "GameScore": 7.178407669067383,
+      "UserScore": 7.994945526123047,
+      "LikeScore": 7.732633590698242,
+      "Strength": 1,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 5,
+      "MinPlayingTime": 40,
+      "MaxPlayingTime": 90,
+      "MechanicIds": [
+        2002,
+        2004,
+        2040,
+        2875,
+        2876,
+        2912,
+        2947,
+        2978,
+        2984,
+        3104
+      ],
+      "CategoryIds": [
+        1002,
+        1015,
+        1084
+      ]
+    },
+    {
+      "Id": 411567,
+      "Name": "The Gang",
+      "Thumbnail": "https://cf.geekdo-images.com/ydwU0FMlRVa6wt8tOu1tgg__thumb/img/9hYAUB4S9PHAVvUoPEcaRm7jHIg=/fit-in/200x150/filters:strip_icc()/pic7962719.jpg",
+      "YearPublished": 2024,
+      "GameScore": 7.296662330627441,
+      "UserScore": 8.051299095153809,
+      "LikeScore": 7.722622394561768,
+      "Strength": 1,
+      "Surety": 2,
+      "MinPlayers": 3,
+      "MaxPlayers": 6,
+      "MinPlayingTime": 20,
+      "MaxPlayingTime": 20,
+      "MechanicIds": [
+        2023,
+        3006
+      ],
+      "CategoryIds": [
+        1002
+      ]
+    },
+    {
+      "Id": 399941,
+      "Name": "River of Gold",
+      "Thumbnail": "https://cf.geekdo-images.com/ysqfvJ1HckeCUTIyTMubWQ__thumb/img/mrk3uMkr4tmCWUmqs0BR4cAycEo=/fit-in/200x150/filters:strip_icc()/pic7697889.jpg",
+      "YearPublished": 2024,
+      "GameScore": 7.17714786529541,
+      "UserScore": 8.021441459655762,
+      "LikeScore": 7.721373558044434,
+      "Strength": 1,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 4,
+      "MinPlayingTime": 60,
+      "MaxPlayingTime": 60,
+      "MechanicIds": [
+        2072,
+        2082,
+        2875,
+        2900,
+        2912
+      ],
+      "CategoryIds": [
+        1010,
+        1021,
+        1097
+      ]
+    },
+    {
+      "Id": 370591,
+      "Name": "Dorfromantik: The Board Game",
+      "Thumbnail": "https://cf.geekdo-images.com/Nqw3SzV4JDd64lcDgytPEg__thumb/img/SYowoPc4NsBcU6duKGUM93itzZY=/fit-in/200x150/filters:strip_icc()/pic7227691.jpg",
+      "YearPublished": 2022,
+      "GameScore": 7.201329708099365,
+      "UserScore": 7.876297950744629,
+      "LikeScore": 7.71503210067749,
+      "Strength": 1,
+      "Surety": 3,
+      "MinPlayers": 1,
+      "MaxPlayers": 6,
+      "MinPlayingTime": 30,
+      "MaxPlayingTime": 60,
+      "MechanicIds": [
+        2002,
+        2011,
+        2023,
+        2026,
+        2080,
+        2822,
+        2897,
+        2959
+      ],
+      "CategoryIds": [
+        1028,
+        1029,
+        1084,
+        1086,
+        1101
+      ]
+    },
+    {
+      "Id": 318560,
+      "Name": "Witchstone",
+      "Thumbnail": "https://cf.geekdo-images.com/zi0KYvDC394VpxF3b5bpzA__thumb/img/QbsDI5akgmmv0rxve3UdttEYn6M=/fit-in/200x150/filters:strip_icc()/pic6034602.jpg",
+      "YearPublished": 2021,
+      "GameScore": 7.175573825836182,
+      "UserScore": 7.957198619842529,
+      "LikeScore": 7.71461296081543,
+      "Strength": 1,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 4,
+      "MinPlayingTime": 60,
+      "MaxPlayingTime": 90,
+      "MechanicIds": [
+        2002,
+        2026,
+        2041,
+        2078,
+        2081,
+        2875,
+        2978
+      ],
+      "CategoryIds": [
+        1010
+      ]
+    },
+    {
+      "Id": 274960,
+      "Name": "Point Salad",
+      "Thumbnail": "https://cf.geekdo-images.com/Xy0W9NtEpX0EVjwgxO3IEA__thumb/img/1gKeE2_50dXcL03gH3cEU-Ixj6c=/fit-in/200x150/filters:strip_icc()/pic4621571.png",
+      "YearPublished": 2019,
+      "GameScore": 7.264851093292236,
+      "UserScore": 7.766119003295898,
+      "LikeScore": 7.711636543273926,
+      "Strength": 1,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 6,
+      "MinPlayingTime": 15,
+      "MaxPlayingTime": 30,
+      "MechanicIds": [
+        2004,
+        2041
+      ],
+      "CategoryIds": [
+        1002
+      ]
+    },
+    {
+      "Id": 368017,
+      "Name": "Point City",
+      "Thumbnail": "https://cf.geekdo-images.com/-wcx_m4j86mTFAJ_kWz8eA__thumb/img/wXCt7sv58rjfgCEeg_wX9NIiMpc=/fit-in/200x150/filters:strip_icc()/pic6998174.jpg",
+      "YearPublished": 2023,
+      "GameScore": 7.234014987945557,
+      "UserScore": 7.879640102386475,
+      "LikeScore": 7.708869457244873,
+      "Strength": 1,
+      "Surety": 3,
+      "MinPlayers": 1,
+      "MaxPlayers": 4,
+      "MinPlayingTime": 15,
+      "MaxPlayingTime": 30,
+      "MechanicIds": [
+        2004,
+        2041
+      ],
+      "CategoryIds": [
+        1002,
+        1029
+      ]
+    },
+    {
+      "Id": 421006,
+      "Name": "The Lord of the Rings: Duel for Middle-earth",
+      "Thumbnail": "https://cf.geekdo-images.com/zxcpfEHtcihYuqqxvy3FbQ__thumb/img/0HKnHlZlYBLnTteoh1Bv6r5sjHw=/fit-in/200x150/filters:strip_icc()/pic8204403.jpg",
+      "YearPublished": 2024,
+      "GameScore": 7.206036567687988,
+      "UserScore": 7.8363447189331055,
+      "LikeScore": 7.706701755523682,
+      "Strength": 1,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 2,
+      "MinPlayingTime": 30,
+      "MaxPlayingTime": 45,
+      "MechanicIds": [],
+      "CategoryIds": [
+        1002,
+        1010,
+        1093
+      ]
+    },
+    {
+      "Id": 206718,
+      "Name": "Ethnos",
+      "Thumbnail": "https://cf.geekdo-images.com/UIKUXkcnH3Bd4fjcPGINcA__thumb/img/oNhw2e_wcBc37ItkTRZVio2gMGQ=/fit-in/200x150/filters:strip_icc()/pic3304124.png",
+      "YearPublished": 2017,
+      "GameScore": 7.591656684875488,
+      "UserScore": 7.748435974121094,
+      "LikeScore": 7.705080032348633,
+      "Strength": 1,
+      "Surety": 3,
+      "MinPlayers": 2,
+      "MaxPlayers": 6,
+      "MinPlayingTime": 45,
+      "MaxPlayingTime": 60,
+      "MechanicIds": [
+        2004,
+        2040,
+        2041,
+        2080,
+        2661
+      ],
+      "CategoryIds": [
+        1010
+      ]
+    }
+  ]
+}

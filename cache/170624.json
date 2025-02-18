@@ -1,0 +1,135 @@
+{
+  "type": "boardgame",
+  "id": "170624",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2018"
+  },
+  "image": "https://cf.geekdo-images.com/XkWDxerdbSpZ1UtxWv-a7Q__original/img/a9TPfwOQIsH-4D1JNB86qec2-TI\u003d/0x0/filters:format(jpeg)/pic6740264.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/XkWDxerdbSpZ1UtxWv-a7Q__thumb/img/wV7u4aTmFP14tdzo1EUH9LvsQZ4\u003d/fit-in/200x150/filters:strip_icc()/pic6740264.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Crusaders: Thy Will Be Done"
+    },
+    {
+      "type": "alternate",
+      "value": "クルセイダーズ"
+    },
+    {
+      "type": "alternate",
+      "value": "크루세이더: 뜻대로 이루소서"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "14"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "5"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "6"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 3–4 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

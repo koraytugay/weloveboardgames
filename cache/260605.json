@@ -1,0 +1,159 @@
+{
+  "type": "boardgame",
+  "id": "260605",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2018"
+  },
+  "image": "https://cf.geekdo-images.com/qnR2V3YsW963_JaVznBjsw__original/img/8F0hZUlnJ6X924xYr8u5wtamtng\u003d/0x0/filters:format(jpeg)/pic8584959.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/qnR2V3YsW963_JaVznBjsw__thumb/img/qNHZxa7oJCTdnYdyBsqHs__Owsk\u003d/fit-in/200x150/filters:strip_icc()/pic8584959.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Camel Up (Second Edition)"
+    },
+    {
+      "type": "alternate",
+      "value": "Camel Up (Русское издание)"
+    },
+    {
+      "type": "alternate",
+      "value": "Camel Up: Edición 2.0"
+    },
+    {
+      "type": "alternate",
+      "value": "Camel Up: Przebiegłe Wielbłądy"
+    },
+    {
+      "type": "alternate",
+      "value": "Camel Up: Segunda Edição"
+    },
+    {
+      "type": "alternate",
+      "value": "سباق الجمال"
+    },
+    {
+      "type": "alternate",
+      "value": "キャメルアップ(2019年版)"
+    },
+    {
+      "type": "alternate",
+      "value": "駱駝大賽"
+    },
+    {
+      "type": "alternate",
+      "value": "카멜 업 (2판)"
+    }
+  ],
+  "minPlayers": {
+    "value": "3"
+  },
+  "maxPlayers": {
+    "value": "8"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "22"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "28"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "6"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "18"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 5–6 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 3–8 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

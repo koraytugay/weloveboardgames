@@ -1,0 +1,163 @@
+{
+  "type": "boardgame",
+  "id": "39683",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2009"
+  },
+  "image": "https://cf.geekdo-images.com/xnC5RT14H1CgAueR7VTPzw__original/img/oAJwaxaPahA0xfYEWqf3V2xc9x0\u003d/0x0/filters:format(jpeg)/pic3601060.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/xnC5RT14H1CgAueR7VTPzw__thumb/img/xO8aUHS7cZPMJRg6gFXlP6LgZbw\u003d/fit-in/200x150/filters:strip_icc()/pic3601060.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "At the Gates of Loyang"
+    },
+    {
+      "type": "alternate",
+      "value": "A las Puertas de Loyang"
+    },
+    {
+      "type": "alternate",
+      "value": "Alle Porte di Loyang"
+    },
+    {
+      "type": "alternate",
+      "value": "Aux Portes de Loyang"
+    },
+    {
+      "type": "alternate",
+      "value": "Loyang"
+    },
+    {
+      "type": "alternate",
+      "value": "Voor de Poorten van Loyang"
+    },
+    {
+      "type": "alternate",
+      "value": "Vor den Toren von Loyang"
+    },
+    {
+      "type": "alternate",
+      "value": "洛阳城外 (洛陽城外)"
+    },
+    {
+      "type": "alternate",
+      "value": "洛陽の門にて"
+    },
+    {
+      "type": "alternate",
+      "value": "뤄양의 사람들"
+    }
+  ],
+  "minPlayers": {
+    "value": "1"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "10"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "16"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "37"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "6"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "5"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "48"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "13"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "1"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 2 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 1–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

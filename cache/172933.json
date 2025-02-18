@@ -1,0 +1,143 @@
+{
+  "type": "boardgame",
+  "id": "172933",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2015"
+  },
+  "image": "https://cf.geekdo-images.com/npY6grU545xPiRkCAmcdSA__original/img/3lPDU2ddpvUiFtJps48n1V4_aIY\u003d/0x0/filters:format(jpeg)/pic2401338.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/npY6grU545xPiRkCAmcdSA__thumb/img/Z0P766eo1owszDfOUE86X2hiMwM\u003d/fit-in/200x150/filters:strip_icc()/pic2401338.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Dragonwood"
+    },
+    {
+      "type": "alternate",
+      "value": "Drakenwoud"
+    },
+    {
+      "type": "alternate",
+      "value": "Sárkányok erdeje"
+    },
+    {
+      "type": "alternate",
+      "value": "Драконий лес"
+    },
+    {
+      "type": "alternate",
+      "value": "드래곤우드"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "8"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "36"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "9"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "8"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 3 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "type": "boardgame",
+  "id": "285775",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2019"
+  },
+  "image": "https://cf.geekdo-images.com/Cgu-q-ylQxY5qa-Q71twNw__original/img/Ll9KtC04dzEce77OnopZPs6ZBFw\u003d/0x0/filters:format(jpeg)/pic5054764.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/Cgu-q-ylQxY5qa-Q71twNw__thumb/img/meiuckwcQxGdmYQlsRLa3I1OwzA\u003d/fit-in/200x150/filters:strip_icc()/pic5054764.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "KeyForge: Worlds Collide"
+    },
+    {
+      "type": "alternate",
+      "value": "Keyforge: Colisão Entre Mundos"
+    },
+    {
+      "type": "alternate",
+      "value": "KeyForge: Collision des Mondes"
+    },
+    {
+      "type": "alternate",
+      "value": "KeyForge: Kollidierende Welten"
+    },
+    {
+      "type": "alternate",
+      "value": "KeyForge: Mondi in Collisione"
+    },
+    {
+      "type": "alternate",
+      "value": "Keyforge: Mundos en Colisión"
+    },
+    {
+      "type": "alternate",
+      "value": "KeyForge: Zderzenie Światów"
+    },
+    {
+      "type": "alternate",
+      "value": "熔钥秘境：异军突起"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "2"
+  },
+  "minimumAge": {
+    "value": "0"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 2 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

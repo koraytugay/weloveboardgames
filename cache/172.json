@@ -1,0 +1,191 @@
+{
+  "type": "boardgame",
+  "id": "172",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "1997"
+  },
+  "image": "https://cf.geekdo-images.com/dJh9HkZC346NgPTAicJq_A__original/img/6ib2NLakSlsf69WYwCOe9NNLcsc\u003d/0x0/filters:format(jpeg)/pic1513085.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/dJh9HkZC346NgPTAicJq_A__thumb/img/3cgW5aP-JJeKSpZMjA0NFheMnfY\u003d/fit-in/200x150/filters:strip_icc()/pic1513085.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "For Sale"
+    },
+    {
+      "type": "alternate",
+      "value": "EladLak!"
+    },
+    {
+      "type": "alternate",
+      "value": "Garage (گاراج)"
+    },
+    {
+      "type": "alternate",
+      "value": "Na prodej"
+    },
+    {
+      "type": "alternate",
+      "value": "Na sprzedaż"
+    },
+    {
+      "type": "alternate",
+      "value": "Se v€nde"
+    },
+    {
+      "type": "alternate",
+      "value": "Se Vende"
+    },
+    {
+      "type": "alternate",
+      "value": "Se Vende"
+    },
+    {
+      "type": "alternate",
+      "value": "Vende-se"
+    },
+    {
+      "type": "alternate",
+      "value": "З молотка!"
+    },
+    {
+      "type": "alternate",
+      "value": "Продано!"
+    },
+    {
+      "type": "alternate",
+      "value": "נדל\"ן בקטן"
+    },
+    {
+      "type": "alternate",
+      "value": "บ้านนี้ขาย!"
+    },
+    {
+      "type": "alternate",
+      "value": "フォーセール"
+    },
+    {
+      "type": "alternate",
+      "value": "地產達人"
+    },
+    {
+      "type": "alternate",
+      "value": "房地產拍賣 (房地产拍卖)"
+    },
+    {
+      "type": "alternate",
+      "value": "투자왕 포세일"
+    }
+  ],
+  "minPlayers": {
+    "value": "3"
+  },
+  "maxPlayers": {
+    "value": "6"
+  },
+  "minimumAge": {
+    "value": "10"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "7"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "20"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "63"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "19"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "76"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 5 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 3–6 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

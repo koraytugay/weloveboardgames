@@ -1,0 +1,487 @@
+{
+  "type": "boardgame",
+  "id": "811",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "1977"
+  },
+  "image": "https://cf.geekdo-images.com/LeaLDlTTmeN639MfuflcMw__original/img/fusGQFpm4srwqhM8CDlEDzh0NyQ\u003d/0x0/filters:format(jpeg)/pic2286966.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/LeaLDlTTmeN639MfuflcMw__thumb/img/CSPEyoFAcA3WwtzDekp3Mfepcek\u003d/fit-in/200x150/filters:strip_icc()/pic2286966.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Rummikub"
+    },
+    {
+      "type": "alternate",
+      "value": "Challenge Rummy"
+    },
+    {
+      "type": "alternate",
+      "value": "Classic Rummy"
+    },
+    {
+      "type": "alternate",
+      "value": "Deluxe Rummikub"
+    },
+    {
+      "type": "alternate",
+      "value": "Deluxe Rummy-O"
+    },
+    {
+      "type": "alternate",
+      "value": "Digital Game"
+    },
+    {
+      "type": "alternate",
+      "value": "Disney Rummikub"
+    },
+    {
+      "type": "alternate",
+      "value": "Family Rummy"
+    },
+    {
+      "type": "alternate",
+      "value": "Gin Rummi Qube"
+    },
+    {
+      "type": "alternate",
+      "value": "Het Huis Anubis: Ris Ras +"
+    },
+    {
+      "type": "alternate",
+      "value": "Mini Rummy"
+    },
+    {
+      "type": "alternate",
+      "value": "Mini-Rummy"
+    },
+    {
+      "type": "alternate",
+      "value": "Miniature Rummikub"
+    },
+    {
+      "type": "alternate",
+      "value": "My Rummy"
+    },
+    {
+      "type": "alternate",
+      "value": "My Rummy Travel"
+    },
+    {
+      "type": "alternate",
+      "value": "Original Rummikub"
+    },
+    {
+      "type": "alternate",
+      "value": "The Original Rummikub"
+    },
+    {
+      "type": "alternate",
+      "value": "The Original Rummikub Classic"
+    },
+    {
+      "type": "alternate",
+      "value": "The Original Rummikub Intro"
+    },
+    {
+      "type": "alternate",
+      "value": "Het originele Rummikub"
+    },
+    {
+      "type": "alternate",
+      "value": "Pocket Rummikub"
+    },
+    {
+      "type": "alternate",
+      "value": "Rack Rummy"
+    },
+    {
+      "type": "alternate",
+      "value": "Reise Rummikub"
+    },
+    {
+      "type": "alternate",
+      "value": "Reise Rummy"
+    },
+    {
+      "type": "alternate",
+      "value": "Rommi"
+    },
+    {
+      "type": "alternate",
+      "value": "Rum-E-Go"
+    },
+    {
+      "type": "alternate",
+      "value": "Rumi K"
+    },
+    {
+      "type": "alternate",
+      "value": "Rumi-K"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummi Clasic"
+    },
+    {
+      "type": "alternate",
+      "value": "The Rummi Game"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummi-Q"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummika"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikid"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummiking"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub Classique"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub Club"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub Deluxe"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub Easy Pack"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub Graffiti"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub Infinity"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub Kompakt"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub Light"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub MINI"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub Mundo"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub Mundo: 經典版"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub NGT"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub Novo"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub Onyx"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub Pocket"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub Select"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub Travel"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub Voyage"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub XXL"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub: Infinity"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummikub: le rami des chiffres"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummy"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummy Champion"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummy De Luxe"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummy Exclusiv"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummy Joke"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummy Junior"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummy King"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummy mit Spielsteinen"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummy Profesional"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummy Squares"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummy-Club"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummy-Cue"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummy-Gin"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummy-Jack"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummy-O"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummy-O II"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummy-Tyle"
+    },
+    {
+      "type": "alternate",
+      "value": "Rummybrix"
+    },
+    {
+      "type": "alternate",
+      "value": "Rumy"
+    },
+    {
+      "type": "alternate",
+      "value": "Rumypok"
+    },
+    {
+      "type": "alternate",
+      "value": "Super Rummy"
+    },
+    {
+      "type": "alternate",
+      "value": "Super X-age Rummy"
+    },
+    {
+      "type": "alternate",
+      "value": "Top-Rummy"
+    },
+    {
+      "type": "alternate",
+      "value": "Tournament Rummikub"
+    },
+    {
+      "type": "alternate",
+      "value": "Travel Rummy"
+    },
+    {
+      "type": "alternate",
+      "value": "Руммикуб"
+    },
+    {
+      "type": "alternate",
+      "value": "Руммикуб. Без границ"
+    },
+    {
+      "type": "alternate",
+      "value": "Руммикуб. Без границ (мини)"
+    },
+    {
+      "type": "alternate",
+      "value": "Руммікуб"
+    },
+    {
+      "type": "alternate",
+      "value": "רומיקוב"
+    },
+    {
+      "type": "alternate",
+      "value": "รัมมี่คิวบ์"
+    },
+    {
+      "type": "alternate",
+      "value": "ラミィキューブ"
+    },
+    {
+      "type": "alternate",
+      "value": "拉密：豪华版"
+    },
+    {
+      "type": "alternate",
+      "value": "루미큐브 보이저"
+    },
+    {
+      "type": "alternate",
+      "value": "루미큐브 클래식"
+    },
+    {
+      "type": "alternate",
+      "value": "루미큐브 클래식 미니"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "19"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "42"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "7"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "48"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 4 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

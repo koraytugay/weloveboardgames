@@ -1,0 +1,219 @@
+{
+  "type": "boardgame",
+  "id": "287954",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2019"
+  },
+  "image": "https://cf.geekdo-images.com/843kZ6WR0HfyXWEybA6L7A__original/img/VtYGvhy_YCSw14FpV8FGzv0eMe4\u003d/0x0/filters:format(jpeg)/pic4930887.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/843kZ6WR0HfyXWEybA6L7A__thumb/img/sOiQSPo_DM7G1Om0PF1T2Z8ACcA\u003d/fit-in/200x150/filters:strip_icc()/pic4930887.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Azul: Summer Pavilion"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul Letnji Paviljon Mini"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul Mini: A királyi pavilon"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul Pavilhão de Verão: Mini"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: A királyi pavilon"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Der Sommerpavillon"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Der Sommerpavillon Mini"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Letni Pawilon"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Letohrádek"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Pabellón de verano"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: pabelloón de verano"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Pavilhão de Verão"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Pavillon d\u0027été"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Pavillon d\u0027été Mini"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Summer Pavilion Mini"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Zomerpaviljoen"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Zomerpaviljoen mini"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Летний дворец"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Літній палац"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Літній палац міні"
+    },
+    {
+      "type": "alternate",
+      "value": "アズール：サマーパビリオン"
+    },
+    {
+      "type": "alternate",
+      "value": "アズール：サマーパビリオン ミニ"
+    },
+    {
+      "type": "alternate",
+      "value": "花磚物語: 夏日行宮"
+    },
+    {
+      "type": "alternate",
+      "value": "아줄: 여름 별장"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "8"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "34"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "9"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "23"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 2–3 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

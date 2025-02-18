@@ -1,0 +1,195 @@
+{
+  "type": "boardgame",
+  "id": "346965",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2021"
+  },
+  "image": "https://cf.geekdo-images.com/l-NBWJ1gIcfOCfrvAw8qvw__original/img/VaPUWBlEE3Wg_QGYAsHxKV8mBkw\u003d/0x0/filters:format(jpeg)/pic6389125.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/l-NBWJ1gIcfOCfrvAw8qvw__thumb/img/kvxUPoBvCzjV5r6poE29LFUQnSM\u003d/fit-in/200x150/filters:strip_icc()/pic6389125.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Azul: Queen\u0027s Garden"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: A királyné kertje"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Die Gärten der Königin"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Il Giardino della Regina"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Jardim da Rainha"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Jardín de la Reina"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Kraljičin Vrt"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Le Jardin de la Reine"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Ogród Królowej"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Tuin van de koningin"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Zahrady pro královnu"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul: Кралска Градина"
+    },
+    {
+      "type": "alternate",
+      "value": "Azul. Сад Королевы"
+    },
+    {
+      "type": "alternate",
+      "value": "Азул: Сад королеви"
+    },
+    {
+      "type": "alternate",
+      "value": "อาซูล สวนพฤกษาราชินี"
+    },
+    {
+      "type": "alternate",
+      "value": "アズール：王妃の庭園"
+    },
+    {
+      "type": "alternate",
+      "value": "花磚物語 花園宮殿"
+    },
+    {
+      "type": "alternate",
+      "value": "아줄: 왕비의 정원"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "4"
+  },
+  "minimumAge": {
+    "value": "10"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "9"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "8"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 2 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–4 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

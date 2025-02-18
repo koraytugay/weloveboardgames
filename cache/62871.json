@@ -1,0 +1,151 @@
+{
+  "type": "boardgame",
+  "id": "62871",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2010"
+  },
+  "image": "https://cf.geekdo-images.com/iPy584JMAJYrupqRdQp8gA__original/img/zPbWjPYgLscrjd96Uitf3GTPb34\u003d/0x0/filters:format(jpeg)/pic4991962.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/iPy584JMAJYrupqRdQp8gA__thumb/img/0qjQ2T0wXNZDVvMie54bEVmKeT8\u003d/fit-in/200x150/filters:strip_icc()/pic4991962.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "Zombie Dice"
+    },
+    {
+      "type": "alternate",
+      "value": "Dados Zombie"
+    },
+    {
+      "type": "alternate",
+      "value": "Kości Zombie"
+    },
+    {
+      "type": "alternate",
+      "value": "Zombie Dice Deluxe"
+    },
+    {
+      "type": "alternate",
+      "value": "Zombie Würfel"
+    },
+    {
+      "type": "alternate",
+      "value": "Zombie Würfel Deluxe"
+    },
+    {
+      "type": "alternate",
+      "value": "Зомби кубики"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "99"
+  },
+  "minimumAge": {
+    "value": "10"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "9"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "20"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "31"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "22"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "5"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "3"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "56"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "2"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 4–5 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2–8 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}

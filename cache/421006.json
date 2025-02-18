@@ -1,0 +1,179 @@
+{
+  "type": "boardgame",
+  "id": "421006",
+  "objectId": 0,
+  "yearPublished": {
+    "value": "2024"
+  },
+  "image": "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__original/img/Ts4M5eOW38r2oTvJmkx0uwNodv4\u003d/0x0/filters:format(jpeg)/pic8378939.jpg",
+  "thumbnail": "https://cf.geekdo-images.com/EybxJlUc9rz7F7HVFLqsdw__thumb/img/rojFW0-h-bteedVG4aJXG1x7V0o\u003d/fit-in/200x150/filters:strip_icc()/pic8378939.jpg",
+  "name": [
+    {
+      "type": "primary",
+      "value": "The Lord of the Rings: Duel for Middle-earth"
+    },
+    {
+      "type": "alternate",
+      "value": "A Gyűrűk Ura: Párbaj Középföldéért"
+    },
+    {
+      "type": "alternate",
+      "value": "Der Herr der Ringe: Duell um Mittelerde"
+    },
+    {
+      "type": "alternate",
+      "value": "Pán prstenů: Duel o Středozem"
+    },
+    {
+      "type": "alternate",
+      "value": "Le Seigneur des Anneaux: Duel pour la Terre du Milieu"
+    },
+    {
+      "type": "alternate",
+      "value": "O Senhor dos Anéis: Duelo pela Terra Média"
+    },
+    {
+      "type": "alternate",
+      "value": "El Señor de los Anillos: El Duelo por la Tierra Media"
+    },
+    {
+      "type": "alternate",
+      "value": "Il Signore degli Anelli: Duel for Middle-earth"
+    },
+    {
+      "type": "alternate",
+      "value": "Władca Pierścieni: Pojedynek o Śródziemie"
+    },
+    {
+      "type": "alternate",
+      "value": "Властелинът на пръстените: Дуел за Средната земя"
+    },
+    {
+      "type": "alternate",
+      "value": "Володар Перснів: Дуель за Середзем\u0027я"
+    },
+    {
+      "type": "alternate",
+      "value": "指輪物語：デュエル 中つ国の決戦"
+    },
+    {
+      "type": "alternate",
+      "value": "魔戒：中洲对决"
+    },
+    {
+      "type": "alternate",
+      "value": "반지의 제왕: 가운데땅에서의 대결"
+    }
+  ],
+  "minPlayers": {
+    "value": "2"
+  },
+  "maxPlayers": {
+    "value": "2"
+  },
+  "minimumAge": {
+    "value": "10"
+  },
+  "poll": [
+    {
+      "name": "suggested_playerage",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "2",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "3",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "4",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "5",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "6",
+              "numberOfVotes": "5"
+            },
+            {
+              "value": "8",
+              "numberOfVotes": "10"
+            },
+            {
+              "value": "10",
+              "numberOfVotes": "18"
+            },
+            {
+              "value": "12",
+              "numberOfVotes": "4"
+            },
+            {
+              "value": "14",
+              "numberOfVotes": "1"
+            },
+            {
+              "value": "16",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "18",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "21 and up",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "language_dependence",
+      "results": [
+        {
+          "result": [
+            {
+              "value": "No necessary in-game text",
+              "numberOfVotes": "10"
+            },
+            {
+              "value": "Some necessary text - easily memorized or small crib sheet",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Moderate in-game text - needs crib sheet or paste ups",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Extensive use of text - massive conversion needed to be playable",
+              "numberOfVotes": "0"
+            },
+            {
+              "value": "Unplayable in another language",
+              "numberOfVotes": "0"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "pollSummary": [
+    {
+      "result": [
+        {
+          "value": "Best with 2 players",
+          "name": "bestwith"
+        },
+        {
+          "value": "Recommended with 2 players",
+          "name": "recommmendedwith"
+        }
+      ]
+    }
+  ]
+}
