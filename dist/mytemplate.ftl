@@ -97,6 +97,38 @@
     li {
       margin-left: -10px;
     }
+
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-family: Tahoma, Geneva, sans-serif;
+    }
+
+    table td {
+      padding: 15px;
+    }
+
+    table thead td {
+      background-color: #54585d;
+      color: #ffffff;
+      font-weight: bold;
+      font-size: 13px;
+      border: 1px solid #54585d;
+    }
+
+    table tbody td {
+      color: #636363;
+      border: 1px solid #dddfe1;
+    }
+
+    table tbody tr {
+      background-color: #f9fafb;
+    }
+
+    table tbody tr:nth-child(odd) {
+      background-color: #ffffff;
+    }
   </style>
 
 </head>
@@ -120,19 +152,31 @@
               </#list>
           </div>
           <div class="game-info-container">
-            <div class="game-info"><strong>Year Published:</strong> ${game.yearPublished}</div>
-            <div class="game-info"><strong>Players: </strong> ${game.minimumNumberOfPlayers}
-              - ${game.maximumNumberOfPlayers} (${game.bestNumberOfPlayers!""})
-            </div>
-            <div class="game-info"><strong>Minimum Age:</strong>${game.minimumAge}</div>
+              <table>
+                <tbody>
+                <tr>
+                  <td>
+                    Minimum Age
+                  </td>
+                  <td>
+                      ${game.minimumAge}
+                  </td>
+                </tr>
+                <tr>
+                  <td>
+                    Players
+                  </td>
+                  <td>
+                      ${game.minimumNumberOfPlayers} - ${game.maximumNumberOfPlayers} (${game.bestNumberOfPlayers!""})
+                  </td>
+                </tr>
+                <tr>
+                  <td>Year Published</td>
+                  <td>${game.yearPublished}</td>
+                </tr>
+                </tbody>
+              </table>
 
-              <#--            <div class="game-info"><strong>Recommended By Games</strong>-->
-              <#--                <ul>-->
-              <#--                <#list game.recommendedByGameNames as recommendingGameName>-->
-              <#--                    <li>${recommendingGameName}</li>-->
-              <#--                </#list>-->
-              <#--                </ul>-->
-              <#--            </div>-->
           </div>
 
         </div>
