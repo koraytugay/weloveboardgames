@@ -22,6 +22,8 @@ import org.apache.hc.core5.http.io.entity.EntityUtils;
 
 public class BoardGameGeekClient
 {
+  static boolean cachingOn = false;
+
   static XmlMapper XML_MAPPER = new XmlMapper();
 
   static HttpClientResponseHandler<BoardGameGeekResponse> httpClientResponseHandler = response -> {
@@ -35,34 +37,17 @@ public class BoardGameGeekClient
         id = String.valueOf(boardGameGeekResponse.items.get(0).objectId);
         System.err.println("objectId is:" + boardGameGeekResponse.items.get(0).objectId);
       }
-      Files.writeString(Paths.get("cache", id + ".xml"), responseBody);
+      if (cachingOn) {
+        Files.writeString(Paths.get("cache", id + ".xml"), responseBody);
+      }
       return boardGameGeekResponse;
     }
     return null;
   };
 
-  static List<BoardGameGeekItem> fetchBoardGamesByUsername(String username) {
-    String url = "https://boardgamegeek.com/xmlapi2/collection?username=" + username + "&stats=1";
-
-    try (CloseableHttpClient httpClient = HttpClients.createDefault()) {
-      ClassicHttpRequest request = new HttpGet(url);
-      BoardGameGeekResponse response = httpClient.execute(request, httpClientResponseHandler);
-
-      if (response == null || response.items == null) {
-        Thread.sleep(2000);
-        return fetchBoardGamesByUsername(username);
-      }
-
-      return response.items;
-    }
-    catch (Exception e) {
-      e.printStackTrace();
-    }
-
-    return null;
-  }
-
   public static List<BoardGame> fetchMyBoardGamesByUsername(String username) {
+    cachingOn = false;
+
     List<BoardGame> boardGames = new ArrayList<>();
 
     String url = "https://boardgamegeek.com/xmlapi2/collection?username=" + username + "&stats=1";
@@ -92,6 +77,8 @@ public class BoardGameGeekClient
   }
 
   public static BoardGameGeekItem fetchById(int id) {
+    cachingOn = true;
+
     Path cachedFilePath = Paths.get("cache", id + ".xml");
     if (cachedFilePath.toFile().exists()) {
       try {
