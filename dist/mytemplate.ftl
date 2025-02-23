@@ -113,7 +113,9 @@
           <div class="thumbnails-container">
               <#list game.linkedGames as linkedGame>
                 <div class="game-thumbnail">
-                  <img class="thumbnail-image" src="${linkedGame.thumbnailUrl}">
+                  <a href="${linkedGame.boardGameGeekUrl}">
+                  <img alt="${linkedGame.name}" class="thumbnail-image" src="${linkedGame.thumbnailUrl}">
+                  </a>
                 </div>
               </#list>
           </div>
