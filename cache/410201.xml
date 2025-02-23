@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="410201">
+         <thumbnail>https://cf.geekdo-images.com/oXUkkh9uq3zBVWQ8mbgMfQ__thumb/img/Ic3yRKTjVe26RgDzIdLsKn8Hztk=/fit-in/200x150/filters:strip_icc()/pic7947338.png</thumbnail>
+      <image>https://cf.geekdo-images.com/oXUkkh9uq3zBVWQ8mbgMfQ__original/img/MW6S23AwpGGu0Rx05X_aByK0lmA=/0x0/filters:format(png)/pic7947338.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Wyrmspan" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Na křídlech draků" />
+			    				
+				<name type="alternate" sortindex="1" value="Na skrzydłach smoków" />
+			    				
+				<name type="alternate" sortindex="1" value="Reptáv" />
+			    				
+				<name type="alternate" sortindex="1" value="Schwingenschlag" />
+			    				
+				<name type="alternate" sortindex="1" value="Змієвир" />
+			    				
+				<name type="alternate" sortindex="1" value="ワイアームスパン" />
+			    				
+				<name type="alternate" sortindex="1" value="龍翼翱翔" />
+			
+						               													<description>You are an amateur dracologist in the world of Wyrmspan, a place where dragons of all shapes, sizes, and colors roam the skies. Excavate a hidden labyrinth you recently unearthed on your land and entice these beautiful creatures to roost in the sanctuary of your caves.&amp;#10;&amp;#10;During a game of Wyrmspan, you will build a sanctuary for dragons of all shapes and sizes. Your sanctuary begins with 3 excavated spaces&amp;mdash;the leftmost space in your Crimson Cavern, your Golden Grotto, and your Amethyst Abyss. Over the course of the game, you will excavate additional spaces in your sanctuary and entice dragons to live there, chaining together powerful abilities and earning the favor of the Dragon Guild.&amp;#10;&amp;#10;Wyrmspan is inspired by the mechanisms of Wingspan, though its unique elements make Wyrmspan a standalone game (not compatible with Wingspan).&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="174">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="78" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="63" />
+					<result value="Recommended" numvotes="78" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="76" />
+					<result value="Recommended" numvotes="50" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="63" />
+					<result value="Not Recommended" numvotes="39" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="95" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="84" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="34">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="12" />
+					<result value="12" numvotes="14" />
+					<result value="14" numvotes="6" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="0" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="8" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2846" value="Once-Per-Game Abilities" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2828" value="Turn Order: Progressive" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77906" value="Category: Dized Tutorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7005" value="Creatures: Dragons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58267" value="Game: Wingspan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="27646" value="Mechanism: Tableau Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78680" value="Misc: Made by Panda" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72487" value="Organizations: Automa Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="405113" value="Wingspan: Golden Eggs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="432550" value="Wyrmspan: BGExpansions Resource Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="424070" value="Wyrmspan: Eurohell 3D resources" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="424071" value="Wyrmspan: Eurohell coins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="424069" value="Wyrmspan: Eurohell Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="424073" value="Wyrmspan: Eurohell player token" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="424074" value="Wyrmspan: Eurohell Token Sleeves" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="428957" value="Wyrmspan: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="435740" value="Wyrmspan: Gaming Trunk Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="420295" value="Wyrmspan: GGG Insert/Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="418055" value="Wyrmspan: Laserox Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="413520" value="Wyrmspan: Natural Rubber Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="434494" value="Wyrmspan: Round Marker Dragon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="413510" value="Wyrmspan: Upgrade Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="432830" value="Wyrmspan/Wingspan: Stone Eggs" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="266192" value="Wingspan" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="155573" value="Connie Vogelmann" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="131233" value="Clémentine Campardou" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23202" value="Stonemaier Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="57596" value="Automa Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="40415" value="Divercentro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22380" value="Feuerland Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42325" value="Grok Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32395" value="NeoTroy Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36763" value="Surfin&#039; Meeple China" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="9197" />
+			<average value="8.02767" />
+			<bayesaverage value="7.43585" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="153" bayesaverage="7.43585" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="122" bayesaverage="7.49346" />
+												</ranks>
+
+			<stddev value="1.34728" />
+			<median value="0" />
+			<owned value="20848" />
+			<trading value="68" />
+			<wanting value="441" />
+			<wishing value="5448" />
+			<numcomments value="1461" />
+			<numweights value="260" />
+			<averageweight value="2.7885" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

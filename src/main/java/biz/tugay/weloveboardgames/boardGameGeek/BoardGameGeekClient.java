@@ -4,8 +4,10 @@ import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
+import java.util.ArrayList;
 import java.util.List;
 
+import biz.tugay.weloveboardgames.BoardGame;
 import biz.tugay.weloveboardgames.boardGameGeek.model.BoardGameGeekItem;
 import biz.tugay.weloveboardgames.boardGameGeek.model.BoardGameGeekResponse;
 import com.fasterxml.jackson.dataformat.xml.XmlMapper;
@@ -18,7 +20,7 @@ import org.apache.hc.core5.http.ClassicHttpRequest;
 import org.apache.hc.core5.http.io.HttpClientResponseHandler;
 import org.apache.hc.core5.http.io.entity.EntityUtils;
 
-class BoardGameGeekClient
+public class BoardGameGeekClient
 {
   static XmlMapper XML_MAPPER = new XmlMapper();
 
@@ -27,6 +29,13 @@ class BoardGameGeekClient
     if (code == 200) {
       String responseBody = EntityUtils.toString(response.getEntity());
       BoardGameGeekResponse boardGameGeekResponse = XML_MAPPER.readValue(responseBody, BoardGameGeekResponse.class);
+      String id = boardGameGeekResponse.items.get(0).id;
+      if (id == null) {
+        System.err.println("id was null for:" + boardGameGeekResponse.items.get(0).getPrimaryName());
+        id = String.valueOf(boardGameGeekResponse.items.get(0).objectId);
+        System.err.println("objectId is:" + boardGameGeekResponse.items.get(0).objectId);
+      }
+      Files.writeString(Paths.get("cache", id + ".xml"), responseBody);
       return boardGameGeekResponse;
     }
     return null;
@@ -53,14 +62,44 @@ class BoardGameGeekClient
     return null;
   }
 
-  static BoardGameGeekItem fetchById(int id) {
-    Path cachedFilePath = Paths.get("cache", id + ".json");
+  public static List<BoardGame> fetchMyBoardGamesByUsername(String username) {
+    List<BoardGame> boardGames = new ArrayList<>();
+
+    String url = "https://boardgamegeek.com/xmlapi2/collection?username=" + username + "&stats=1";
+
+    try (CloseableHttpClient httpClient = HttpClients.createDefault()) {
+      ClassicHttpRequest request = new HttpGet(url);
+      BoardGameGeekResponse response = httpClient.execute(request, httpClientResponseHandler);
+
+      if (response == null || response.items == null) {
+        Thread.sleep(2000);
+        return fetchMyBoardGamesByUsername(username);
+      }
+
+      List<BoardGameGeekItem> items = response.items;
+      for (BoardGameGeekItem item : items) {
+        BoardGame boardGame = BoardGame.fromMyBoardGameGeekItem(item);
+        boardGames.add(boardGame);
+      }
+
+      return boardGames;
+    }
+    catch (Exception e) {
+      e.printStackTrace();
+    }
+
+    return null;
+  }
+
+  public static BoardGameGeekItem fetchById(int id) {
+    Path cachedFilePath = Paths.get("cache", id + ".xml");
     if (cachedFilePath.toFile().exists()) {
-      System.out.println("Object found in the file cache.");
       try {
-        BoardGameGeekItem boardGameGeekItem =
-            new Gson().fromJson(Files.readString(cachedFilePath), BoardGameGeekItem.class);
-        boardGameGeekItem.objectId = id;
+        BoardGameGeekResponse boardGameGeekResponse = XML_MAPPER.readValue(Files.readString(cachedFilePath), BoardGameGeekResponse.class);
+        BoardGameGeekItem boardGameGeekItem = boardGameGeekResponse.items.get(0);
+        if (boardGameGeekItem.id == null) {
+          boardGameGeekItem.id = String.valueOf(boardGameGeekItem.objectId);
+        }
         return boardGameGeekItem;
       }
       catch (IOException e) {
@@ -86,11 +125,9 @@ class BoardGameGeekClient
       }
 
       BoardGameGeekItem boardGameGeekItem = response.items.get(0);
-
-      Gson gson = new GsonBuilder().setPrettyPrinting().create();
-      String itemAsJson = gson.toJson(boardGameGeekItem);
-      Files.writeString(Paths.get("cache", boardGameGeekItem.id + ".json"), itemAsJson);
-
+      if (boardGameGeekItem.id == null) {
+        boardGameGeekItem.id = String.valueOf(boardGameGeekItem.objectId);
+      }
       return boardGameGeekItem;
     }
     catch (Exception e) {

@@ -12,7 +12,7 @@ public class YearPublished
   public YearPublished() {
   }
 
-  public YearPublished(final String value) {
+  public YearPublished(String value) {
     this.value = value;
   }
 }

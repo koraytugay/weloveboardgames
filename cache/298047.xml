@@ -1,0 +1,877 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="298047">
+         <thumbnail>https://cf.geekdo-images.com/-19XPXmTn9QyyvqwpcFkBw__thumb/img/T3jn8ks3g0zLyISTRQkIr0D1WSE=/fit-in/200x150/filters:strip_icc()/pic5231006.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/-19XPXmTn9QyyvqwpcFkBw__original/img/zgZcNusSm7mFMP3N6MJvJRe_gKY=/0x0/filters:format(jpeg)/pic5231006.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Marvel United" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="マーベルユナイテッド" />
+			    				
+				<name type="alternate" sortindex="1" value="마블 유나이티드" />
+			
+						               													<description>In Marvel United you take the role of iconic Marvel Heroes cooperating to stop the master plan of a powerful Villain controlled by the game. Each Villain unveils their unique master plan, with cards that trigger different effects, and threats that pose challenges across the locations. Heroes must choose carefully the cards to play from their unique decks, that not only offer different actions and superpowers to use, but also combine with the actions of other Heroes to do the impossible. Build your storyline, unite your powers, save the day!&amp;#10;&amp;#10;NOTE: The game design team has contributed to a helpful FAQ thread (also summarized in a convenient FAQ document) which you might want to review if you have questions about how to play.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="200">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="30" />
+					<result value="Recommended" numvotes="104" />
+					<result value="Not Recommended" numvotes="30" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="49" />
+					<result value="Recommended" numvotes="102" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="115" />
+					<result value="Recommended" numvotes="46" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="44" />
+					<result value="Recommended" numvotes="87" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="82" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="40" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="40" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="91">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="14" />
+					<result value="6" numvotes="28" />
+					<result value="8" numvotes="41" />
+					<result value="10" numvotes="8" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="12">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="8" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1116" value="Comic Book / Strip" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1047" value="Miniatures" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5338" value="Comic Books: Marvel Universe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78679" value="Game: United" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="52433" value="Theme: Chibis" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17935" value="Theme: Superheroes" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="321772" value="Marvel United: Adam Warlock" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379766" value="Marvel United: Annihilation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="386886" value="Marvel United: Campaign Decks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379755" value="Marvel United: Civil War" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339131" value="Marvel United: Deadpool" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="397164" value="Marvel United: Deadpool (X-Force) Promo Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="354553" value="Marvel United: Doctor Strange" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="303600" value="Marvel United: Enter the Spider-Verse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="321773" value="Marvel United: Enter the Spider-Verse – Kickstarter Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339134" value="Marvel United: Fantastic Four" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="380000" value="Marvel United: Fantastic Four – The Coming of Galactus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372325" value="Marvel United: Grey Hulk Promo Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="302670" value="Marvel United: Guardians of the Galaxy Remix" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="321775" value="Marvel United: Guardians of the Galaxy Remix – Kickstarter Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="321731" value="Marvel United: Kickstarter Promos Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="359427" value="Marvel United: Kickstarter Promos Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379881" value="Marvel United: Maximum Carnage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="397165" value="Marvel United: Mister Sinister Promo Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="386895" value="Marvel United: Multiverse – Fin Fang Foom" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="436344" value="Marvel United: Multiverse – Iron Lad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="386892" value="Marvel United: Multiverse – Kickstarter Promos Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="386880" value="Marvel United: Pet Companions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="386890" value="Marvel United: Promo Team Decks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="303602" value="Marvel United: Return of the Sinister Six" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="302669" value="Marvel United: Rise of the Black Panther" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379757" value="Marvel United: Secret Invasion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="426614" value="Marvel United: Symbiote Companions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="302668" value="Marvel United: Tales of Asgard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="321774" value="Marvel United: Tales of Asgard – Kickstarter Edition" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="386889" value="Marvel United: Team Decks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="303599" value="Marvel United: The Infinity Gauntlet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379763" value="Marvel United: War of Kings" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="426302" value="Marvel United: Witching Hour" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379978" value="Marvel United: World War Hulk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339129" value="Marvel United: X-Men – Blue Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339133" value="Marvel United: X-Men – Days of Future Past" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339094" value="Marvel United: X-Men – First Class" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339128" value="Marvel United: X-Men – Gold Team" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="369278" value="Marvel United: X-Men – Juggernaut Promo Deck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339182" value="Marvel United: X-Men – Kickstarter Promos Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="428025" value="Marvel United: X-Men – Kickstarter Promos Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339183" value="Marvel United: X-Men – Old Man Logan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339130" value="Marvel United: X-Men – Phoenix Five" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339184" value="Marvel United: X-Men – Storm (Mohawk)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379765" value="Marvel United: X-Men – The Age of Apocalypse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339100" value="Marvel United: X-Men – The Horsemen of Apocalypse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="339132" value="Marvel United: X-Men – X-Force" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="321771" value="Marvel United: Yondu" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="313445" value="Marvel United: Classic Cardboard Locations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="343748" value="Marvel United: Classic Cardboard Villain Dashboards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="398995" value="Marvel United: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="386873" value="Marvel United: Multiverse – Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="339567" value="Marvel United: Plastic Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="313444" value="Marvel United: Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="401535" value="Marvel United: Playmaty rubber mat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="339566" value="Marvel United: X-Men Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="426335" value="United: Core Plastic Tokens" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="418762" value="DC Super Heroes United" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="377969" value="Marvel United: Multiverse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="379908" value="Marvel United: Spider-Geddon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="336382" value="Marvel United: X-Men" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="6838" value="Andrea Chiarvesio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="1533" value="Eric M. Lang" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14551" value="Édouard Guiton" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1905" value="Spin Master Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25074" value="BoardM Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45134" value="Geekach Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46507" value="Happy meeple games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2726" value="Portal Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46508" value="SUNNY BIRD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39774" value="Tower Tactic Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="11798" />
+			<average value="7.56469" />
+			<bayesaverage value="7.18017" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="307" bayesaverage="7.18017" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="65" bayesaverage="7.24479" />
+												</ranks>
+
+			<stddev value="1.37264" />
+			<median value="0" />
+			<owned value="26193" />
+			<trading value="448" />
+			<wanting value="176" />
+			<wishing value="2038" />
+			<numcomments value="2041" />
+			<numweights value="293" />
+			<averageweight value="1.8191" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

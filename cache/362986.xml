@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="362986">
+         <thumbnail>https://cf.geekdo-images.com/G_moxnKfgJ4w_NGmr9T6Lg__thumb/img/YBNaQ6O-D_ej8czfA3okABmfQjg=/fit-in/200x150/filters:strip_icc()/pic6871609.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/G_moxnKfgJ4w_NGmr9T6Lg__original/img/SFbumPuv8QNYm2UT5ZiHye0Zv-k=/0x0/filters:format(jpeg)/pic6871609.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tribes of the Wind" />
+			
+						                               				
+				<name type="alternate" sortindex="4" value="Az égbolt vándorai" />
+			    				
+				<name type="alternate" sortindex="1" value="Plemiona wiatru" />
+			    				
+				<name type="alternate" sortindex="5" value="Las tribus del viento" />
+			    				
+				<name type="alternate" sortindex="5" value="Les Tribus du Vent" />
+			    				
+				<name type="alternate" sortindex="1" value="Племена ветра" />
+			    				
+				<name type="alternate" sortindex="1" value="Племена вітру" />
+			    				
+				<name type="alternate" sortindex="1" value="トライブス・オブ・ザ・ウィンド-風の部族-" />
+			    				
+				<name type="alternate" sortindex="1" value="风之部落" />
+			    				
+				<name type="alternate" sortindex="1" value="바람의 부족" />
+			
+						               													<description>In a post-apocalyptic world, the tribes of the wind are going to rebuild the world on the polluted ruins from the past.&amp;#10;&amp;#10;Players will have to plant forests, build new villages and temples, and decontaminate surrounding areas.&amp;#10;&amp;#10;They will be able to play cards from their hand. But be careful! The effect or even the possibility of playing the card may vary depending on... the back of your surrounding opponents' cards.&amp;#10;&amp;#10;Players may also send their wind riders to explore the area, plant forests, or build villages and temples using all the gathered resources.&amp;#10;&amp;#10;As the game progresses, you strive to complete objectives that will allow you to unlock your guide's special abilities, and to improve your tribe's powers.&amp;#10;&amp;#10;When someone builds their 5th village, the end of the game is triggered. The player with the most points, depending on pollution, villages, temples, layout of their forests, and other various objectives, wins!&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="96">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="46" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="31" />
+					<result value="Recommended" numvotes="39" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="53" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="47" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="36" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="39" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="19">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="2" />
+					<result value="10" numvotes="10" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="8" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1084" value="Environmental" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2984" value="Closed Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2947" value="Movement Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3104" value="Neighbor Scope" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2876" value="Race" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5601" value="Theme: Anime / Manga" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76250" value="Theme: Environmental Protection / Degradation / Pollution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41799" value="Theme: Post-Apocalyptic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="103874" value="Theme: Solarpunk" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57181" value="Theme: Trees and Forests" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="111737" value="Joachim Thôme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12130" value="Vincent Dutrait" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27121" value="La Boîte de Jeu" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39686" value="Across the Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39390" value="Engames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38574" value="Evrikus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45134" value="Geekach Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="16092" value="Hachette Boardgames USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46724" value="HANALL M&amp;C" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3490" value="HUCH!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30091" value="Tranjis Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8147" value="YOKA Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2555" />
+			<average value="7.35268" />
+			<bayesaverage value="6.47076" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1306" bayesaverage="6.47076" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="704" bayesaverage="6.6164" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="340" bayesaverage="6.63457" />
+												</ranks>
+
+			<stddev value="1.1797" />
+			<median value="0" />
+			<owned value="4707" />
+			<trading value="74" />
+			<wanting value="220" />
+			<wishing value="1910" />
+			<numcomments value="411" />
+			<numweights value="106" />
+			<averageweight value="2.6604" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

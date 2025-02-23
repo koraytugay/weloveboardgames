@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="403468">
+         <thumbnail>https://cf.geekdo-images.com/iwc8n9rjvmMEkEdTSZL1DQ__thumb/img/GbuQ2BKKgNMW6CvuQrYlm1iOQVc=/fit-in/200x150/filters:strip_icc()/pic7798319.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/iwc8n9rjvmMEkEdTSZL1DQ__original/img/HopBzQyzymzMrc9DbMDx-fen354=/0x0/filters:format(jpeg)/pic7798319.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="AQUA: Biodiversity in the Oceans" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="AQUA" />
+			    				
+				<name type="alternate" sortindex="1" value="AQUA: Biodiversidad en los Océanos" />
+			    				
+				<name type="alternate" sortindex="1" value="AQUA: Biodiversiteit in de oceanen" />
+			    				
+				<name type="alternate" sortindex="1" value="AQUA: Bioróżnorodność w oceanach" />
+			    				
+				<name type="alternate" sortindex="1" value="AQUA: Bunte Unterwasserwelten" />
+			    				
+				<name type="alternate" sortindex="1" value="AQUA: Le jeu de la biodiversité marine" />
+			    				
+				<name type="alternate" sortindex="1" value="AQUA: Život v oceánech" />
+			    				
+				<name type="alternate" sortindex="1" value="アクア" />
+			
+						               													<description>In AQUA, your starting point is a hot spot that gradually becomes surrounded by expanding coral formations. These corals serve as habitats for small marine animals. By fostering biodiverse habitats, you can then create ideal conditions for attracting the largest marine animals.&amp;#10;&amp;#10;AQUA plays over 17 rounds. On your turn, you must take a new coral tile from the market and add it to your reef, then you may also attract animals to your ecosystem if you create the correct patterns of coral.&amp;#10;&amp;#10;At the end of the game, the player who grew the best coral formations and attracted the most large and small sea animals will score the most points and win.&amp;#10;&amp;#10;AQUA invites you to dive into the beauty and wonder of the ocean, delivering an incredible variety of gameplay experiences for the whole family.&amp;#10;&amp;#10;-description from publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="24">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="3" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="2" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57261" value="Animals: Coral / Jellyfish / Anemones" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66105" value="Theme: Under the Sea" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="123884" value="Dan Halstad" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="157162" value="Tristan Halstad" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12130" value="Vincent Dutrait" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42834" value="Sidekick Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50696" value="CoolPlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46500" value="Lord of Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44043" value="Metagame Studio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="634" value="The Op Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31904" value="Ponva d.o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="883" />
+			<average value="7.23833" />
+			<bayesaverage value="5.97877" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3125" bayesaverage="5.97877" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="949" bayesaverage="6.11218" />
+												</ranks>
+
+			<stddev value="1.24806" />
+			<median value="0" />
+			<owned value="1811" />
+			<trading value="32" />
+			<wanting value="83" />
+			<wishing value="666" />
+			<numcomments value="161" />
+			<numweights value="24" />
+			<averageweight value="2.0833" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="191925">
+         <thumbnail>https://cf.geekdo-images.com/3kHEzcYV6QdaFjzWXkBMyQ__thumb/img/vjbf859H2KDp-AksdEQdOdSZOQ4=/fit-in/200x150/filters:strip_icc()/pic3118226.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/3kHEzcYV6QdaFjzWXkBMyQ__original/img/HAfLC_HWpmRAEELun54DRNpCnnw=/0x0/filters:format(jpeg)/pic3118226.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Bandido" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Bandido: Covid-19" />
+			    				
+				<name type="alternate" sortindex="1" value="Бандідо" />
+			    				
+				<name type="alternate" sortindex="1" value="班迪多" />
+			    				
+				<name type="alternate" sortindex="1" value="반디도" />
+			
+						               													<description>A light-security prisoner is trying to escape through tunnels starting underneath his cell. Will you be able to join forces and cards to stop him? Bandido is a cooperative game of strategy and observation for the entire family.&amp;#10;&amp;#10;Can be combined with the sequel, Bandida.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="126">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="52" />
+					<result value="Not Recommended" numvotes="27" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="51" />
+					<result value="Recommended" numvotes="65" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="38" />
+					<result value="Recommended" numvotes="59" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="56" />
+					<result value="Not Recommended" numvotes="20" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="62" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="10" />
+						               				<maxplaytime value="15" />
+						               				<minage value="6" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="66">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="1" />
+					<result value="4" numvotes="6" />
+					<result value="5" numvotes="18" />
+					<result value="6" numvotes="29" />
+					<result value="8" numvotes="9" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="56" value="No necessary in-game text" numvotes="9" />
+					<result level="57" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="58" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="59" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="60" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64148" value="Medical: COVID-19" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61854" value="Medical: Diseases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="56971" value="Series: Pocket Games (Helvetiq)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62231" value="Theme: Jail / Prison (Modern)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="383232" value="Bandido: Agora Vai! (1)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="383233" value="Bandido: Agora Vai! (2)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="419161" value="Bandido: Agora Vai! (3)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="383234" value="Bandido: Agora Vai! (4)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="436423" value="Bandido: Agora Vai! (5)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="334069" value="Bandido: Missão Impossível" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="340921" value="Bandido: Missão Impossível 2" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="299571" value="Bandida" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9657" value="Martin Nedergaard Andersen" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="93814" value="Lucas Guidetti Perez" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="126125" value="Odile Sageat" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21478" value="Helvetiq" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44144" value="Buró" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33618" value="Fractal Juegos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="57274" value="Gap Times" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8351" value="Gen-X Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52118" value="HRAS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42043" value="IUVI Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30521" value="Mandoo Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51614" value="MIPL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="55006" value="Pakufuda Store" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32581" value="PaperGames (III)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19148" value="Playhouse Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45904" value="Tucker&#039;s Fun Factory B.V." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6337" />
+			<average value="6.41724" />
+			<bayesaverage value="6.12739" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2393" bayesaverage="6.12739" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="864" bayesaverage="6.16876" />
+												</ranks>
+
+			<stddev value="1.38402" />
+			<median value="0" />
+			<owned value="11953" />
+			<trading value="103" />
+			<wanting value="68" />
+			<wishing value="754" />
+			<numcomments value="965" />
+			<numweights value="175" />
+			<averageweight value="1.0971" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

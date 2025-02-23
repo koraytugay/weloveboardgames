@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="407297">
+         <thumbnail>https://cf.geekdo-images.com/Rb2Hw7IDaF7evNMjrqMmXA__thumb/img/w1wJgVzu16nnp_zm4wbMNmNSVzA=/fit-in/200x150/filters:strip_icc()/pic7886346.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Rb2Hw7IDaF7evNMjrqMmXA__original/img/1aBSwl0-UzJ-0p3h-zILKZtJJGM=/0x0/filters:format(jpeg)/pic7886346.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="River Valley Glassworks" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Kristályvölgy üvegművesei" />
+			    				
+				<name type="alternate" sortindex="1" value="Річкова Долина. Фабрика мозаїки" />
+			
+						               													<description>Welcome to River Valley! The beautiful pieces of glass that can be found along the river here have attracted the most entrepreneurial of woodland creatures to set up shop.&amp;#10;&amp;#10;In River Valley Glassworks, you play as one of these pioneers, drafting glass from the market of river tiles. To do so, you have to play a piece from your inventory into the river. Each river tile can take only a specific shape, and you must play into a space adjacent to where you want to draft from. After you pick up your glass, the river shifts forward, revealing new pieces and new opportunities.&amp;#10;&amp;#10;Store the glass you pick up strategically in your shop. Depending on how the glass pieces are placed, your score will change drastically. Fill in rows and columns to gain bonus points, but don't draft too many of one type to avoid negative points!&amp;#10;&amp;#10;-description from publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="33">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="25" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="1">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="1" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2914" value="Increase Value of Unchosen Resources" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73592" value="Components: Gems/Crystals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="418124" value="River Valley Glassworks: River Glass and Other Sundries" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="426194" value="River Valley Glassworks: Glass Add-On" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="333055" value="Subastral" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="87011" value="Adam Hill" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="58905" value="Ben Pinchback" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="58906" value="Matt Riddle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="40597" value="Andrew Bosley" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="53065" value="Allplay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50230" value="Belleville (Бельвіль)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2297" />
+			<average value="7.2003" />
+			<bayesaverage value="6.34347" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1629" bayesaverage="6.34347" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="457" bayesaverage="6.48624" />
+												</ranks>
+
+			<stddev value="1.32411" />
+			<median value="0" />
+			<owned value="5067" />
+			<trading value="23" />
+			<wanting value="148" />
+			<wishing value="1221" />
+			<numcomments value="463" />
+			<numweights value="46" />
+			<averageweight value="1.4565" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

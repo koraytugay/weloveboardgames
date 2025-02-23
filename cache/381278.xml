@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="381278">
+         <thumbnail>https://cf.geekdo-images.com/RbNAitZatR7g82u_9OBV8A__thumb/img/QiGFW5ZCArogPFUbVbcE-7Ibwec=/fit-in/200x150/filters:strip_icc()/pic7453834.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/RbNAitZatR7g82u_9OBV8A__original/img/z2leJtn83aYVYDepcIb9srAjM3I=/0x0/filters:format(jpeg)/pic7453834.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Dracula vs Van Helsing" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Drákula vs Van Helsing" />
+			    				
+				<name type="alternate" sortindex="1" value="Drakula vs Van Helsing" />
+			    				
+				<name type="alternate" sortindex="1" value="Дракула проти Ван Гельсінґа" />
+			    				
+				<name type="alternate" sortindex="1" value="Дракула против Ван Хельсинга" />
+			
+						               													<description>Many years after the confrontation with Van Helsing, Dracula landed in Whitby, England once again. The citizens of Whitby sought help from the vampire hunter, Professor Van Helsing. Will Van Helsing defeat Dracula before he transforms all the inhabitants into vampires?&amp;#10;&amp;#10;In Dracula vs Van Helsing, each player controls one of the title characters. Van Helsing must remove all of Dracula's life points to win, but if Dracula turns all four inhabitants of the same district into vampires first, Dracula wins.&amp;#10;&amp;#10;The game lasts at most five rounds. Each round, players play in turn (starting with Dracula), drawing a card, then discarding that card or swapping it with one of the five cards on their rack to trigger the discarded card's ability. Cards come in eight types, each with its own effect. Instead of drawing (and discarding) a card, a player can call for the end of the round. In order to choose this action, at least six cards need to be in the discard pile. After the opponent plays one last turn, the round ends; otherwise, the round ends when the deck is empty.&amp;#10;&amp;#10;At the end of a round, players compare the five cards on their rack. Each card corresponds to one of the five districts on the game board. If Dracula has the higher-valued card, one of the humans in this district is converted into a vampire; if Van Helsing is higher, Dracula loses a health point. If one of the game-winning conditions is met, the game ends immediately.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="31">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="31" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="25" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="6" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="7" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1093" value="Novel-based" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="53514" value="Books: Dracula" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6428" value="Creatures: Vampires" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="419324" value="Dracula vs Van Helsing: Special villagers" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="75577" value="Maxime Rambourg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="72628" value="Théo Rivière" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="72369" value="Weberson Santiago" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30521" value="Mandoo Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28620" value="25th Century Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6760" value="Blackrock Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48438" value="Games7Days" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47476" value="Geronimo Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34801" value="Lavka Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="53706" value="MM-Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44563" value="Muduko" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1769" />
+			<average value="7.39127" />
+			<bayesaverage value="6.29999" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1748" bayesaverage="6.29999" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="920" bayesaverage="6.42205" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="486" bayesaverage="6.46428" />
+												</ranks>
+
+			<stddev value="1.21797" />
+			<median value="0" />
+			<owned value="3250" />
+			<trading value="22" />
+			<wanting value="98" />
+			<wishing value="863" />
+			<numcomments value="284" />
+			<numweights value="55" />
+			<averageweight value="1.7636" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

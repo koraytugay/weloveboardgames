@@ -28,7 +28,7 @@ public class Status
   public int wishlist;
 
   @JacksonXmlProperty(isAttribute = true)
-  public int wishlistPriority;  // 0 is must have, 4 means do not buy
+  public int wishlistpriority;  // 0 is must have, 4 means do not buy
 
   @JacksonXmlProperty(isAttribute = true)
   public int preordered;

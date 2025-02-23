@@ -1,70 +1,52 @@
 package biz.tugay.weloveboardgames.recommendation;
 
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
-import java.util.stream.Collectors;
+import java.util.Map;
 
-import biz.tugay.weloveboardgames.App;
-import biz.tugay.weloveboardgames.boardGameGeek.BoardGameGeekInMemoryDatabase;
-import biz.tugay.weloveboardgames.recommendation.model.RecommendedGame;
+import biz.tugay.weloveboardgames.BoardGame;
 import biz.tugay.weloveboardgames.tryTheseGames.TryTheseGamesClient;
+
+import static biz.tugay.weloveboardgames.App.RECOMMENDATION_ADJACENCY_LIMIT;
 
 public class RecommendedGameService
 {
-  public static void getRecommendedGames(List<Integer> gameIds) {
-    for (Integer gameId : gameIds) {
-      System.out.println("Fetching recommendations for: " + gameId);
-      List<Integer> recommendedGameIdsForGame = TryTheseGamesClient.getRecommendedGameIdsForGame(gameId);
-      System.out.println("Fetched " + recommendedGameIdsForGame.size() + " recommended games for: " + gameId);
+  public static List<BoardGame> getRecommendedGamesForMyBoardGames(int minimumScore, List<BoardGame> boardGames) {
+    ArrayList<BoardGame> boardGamesCopy = new ArrayList<>(boardGames);
 
-      if (recommendedGameIdsForGame.size() > App.recommendationAdjacencyLimit) {
-        recommendedGameIdsForGame = recommendedGameIdsForGame.subList(0, App.recommendationAdjacencyLimit);
-      }
-
-      RecommendedGamesInMemoryDatabase.addOrIncrementRecommendedGame(gameId, recommendedGameIdsForGame);
+    Map<Integer, BoardGame> allBoardGames = new HashMap<>();
+    for (BoardGame boardGame : boardGames) {
+      allBoardGames.put(boardGame.id, boardGame);
     }
-  }
 
-  public static void removeAlreadyOwnedGames() {
-    List<String> ownedGameIds =
-        BoardGameGeekInMemoryDatabase.OWNED_GAMES.stream().map(boardGameGeekItem -> boardGameGeekItem.id).toList();
-
-    RecommendedGamesInMemoryDatabase.RECOMMENDED_GAMES.removeIf(
-        recommendedGame -> ownedGameIds.contains(recommendedGame.id));
-  }
-
-  public static void removeDoNotBuyGames() {
-    List<String> ownedGameIds =
-        BoardGameGeekInMemoryDatabase.OWNED_GAMES.stream()
-            .filter(boardGameGeekItem -> boardGameGeekItem.status.wishlistPriority == 4)
-            .map(boardGameGeekItem -> boardGameGeekItem.id)
-            .toList();
-
-    RecommendedGamesInMemoryDatabase.RECOMMENDED_GAMES.removeIf(
-        recommendedGame -> ownedGameIds.contains(recommendedGame.id));
-  }
-
-  public static List<RecommendedGame> getRecommendedGamesWithMinimumRecommendedCount(int recommendationCountThreshold) {
-    List<RecommendedGame> collect = RecommendedGamesInMemoryDatabase.RECOMMENDED_GAMES.stream()
-        .filter(recommendedGame -> recommendedGame.recommendationCount >= recommendationCountThreshold).collect(
-            Collectors.toList());
-
-    return collect;
-  }
-
-  public static List<RecommendedGame> getSortedByRecommendedCountLimitBy(int recommendationCountThreshold) {
-    List<RecommendedGame> collect = RecommendedGamesInMemoryDatabase.RECOMMENDED_GAMES.stream()
-        .filter(recommendedGame -> recommendedGame.recommendationCount >= recommendationCountThreshold)
-        .sorted((o1, o2) -> Integer.compare(o2.recommendationCount, o1.recommendationCount))
-        .collect(Collectors.toList());
-
-    return collect;
-  }
-
-  public static void fetchThumbnails(final List<RecommendedGame> recommendedGames) {
-    for (RecommendedGame recommendedGame : recommendedGames) {
-      for (Integer recommendingGameId : recommendedGame.recommendingGameIds) {
-        recommendedGame.addRecommendedByThumbnail(BoardGameGeekInMemoryDatabase.getByIdOrFetch(recommendingGameId).thumbnail);
+    for (BoardGame boardGame : boardGames) {
+      if (boardGame.myRating != null && boardGame.myRating >= minimumScore) {
+        List<Integer> recommendedGameIdsForGame = TryTheseGamesClient.getRecommendedGameIdsForGame(boardGame.id);
+        if (recommendedGameIdsForGame != null) {
+          if (recommendedGameIdsForGame.size() > RECOMMENDATION_ADJACENCY_LIMIT) {
+            recommendedGameIdsForGame = recommendedGameIdsForGame.subList(0, RECOMMENDATION_ADJACENCY_LIMIT);
+          }
+          recommendedGameIdsForGame = recommendedGameIdsForGame.subList(0, RECOMMENDATION_ADJACENCY_LIMIT);
+          for (int i = 0; i < recommendedGameIdsForGame.size(); i++) {
+            BoardGame bg = allBoardGames.get(recommendedGameIdsForGame.get(i));
+            if (bg == null) {
+              BoardGame newBoardGame = new BoardGame();
+              newBoardGame.id = recommendedGameIdsForGame.get(i);
+              newBoardGame.linkedGames.add(boardGame);
+              newBoardGame.linkedGamesStrengths.add(i);
+              boardGamesCopy.add(newBoardGame);
+              allBoardGames.put(recommendedGameIdsForGame.get(i), newBoardGame);
+            }
+            else {
+              bg.linkedGames.add(boardGame);
+              bg.linkedGamesStrengths.add(i);
+            }
+          }
+        }
       }
     }
+
+    return boardGamesCopy;
   }
 }

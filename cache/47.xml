@@ -1,0 +1,396 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="47">
+         <thumbnail>https://cf.geekdo-images.com/o23NBqu_LBRAtRaVoOBBhQ__thumb/img/VEXGKhNHkULY2hJ41r4Agob5RvE=/fit-in/200x150/filters:strip_icc()/pic403442.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/o23NBqu_LBRAtRaVoOBBhQ__original/img/csj-VB0pfmq8KNUxwTYdDC2gxB4=/0x0/filters:format(jpeg)/pic403442.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Chinatown" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="ไชน่าทาวน์" />
+			    				
+				<name type="alternate" sortindex="1" value="차이나타운" />
+			
+						               													<description>This is a negotiation game in the truest sense of the word. In it, players acquire ownership of sections of city blocks then place tiles, representing businesses, onto the block-sections.  At the end of each turn, each tile you've laid gives you some sort of payout, but completed businesses (formed of three to six connected tiles of the same type) pay quite a bit better.  All these resources are dealt to the players randomly, however, so players must trade to get matching businesses and adjacent locations.&amp;#10;&amp;#10;This game is #2 in the Alea big box series.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1999" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="208">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="131" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="135" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="78" />
+					<result value="Not Recommended" numvotes="84" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="75" />
+					<result value="Recommended" numvotes="106" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="150" />
+					<result value="Recommended" numvotes="35" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="90" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 4–5 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="35">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="5" />
+					<result value="10" numvotes="13" />
+					<result value="12" numvotes="14" />
+					<result value="14" numvotes="3" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="43">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="37" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="5" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2902" value="Income" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2910" value="Investment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2915" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2874" value="Victory Points as a Resource" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="13111" value="Cities: New York (New York, USA)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18192" value="Decades: The 1960&#039;s" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81590" value="Occupation: Architect" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58" value="Series: Alea Big Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6963" value="Series: Filosofia Reprints" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="396618" value="Waterfall Park" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="37" value="Karsten Hartwig" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12107" value="Mathieu Leyssenne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11883" value="Franz Vohwinkel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9" value="alea" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3320" value="(Unknown)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30006" value="Buzzy Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4335" value="Competo / Marektoy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="264" value="Heidelberger Spieleverlag" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30521" value="Mandoo Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4696" value="Quined White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33998" value="Siam Board Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="11800" />
+			<average value="7.4351" />
+			<bayesaverage value="7.10885" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="369" bayesaverage="7.10885" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="256" bayesaverage="7.16439" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="79" bayesaverage="7.18125" />
+												</ranks>
+
+			<stddev value="1.35015" />
+			<median value="0" />
+			<owned value="14612" />
+			<trading value="233" />
+			<wanting value="816" />
+			<wishing value="3966" />
+			<numcomments value="2943" />
+			<numweights value="562" />
+			<averageweight value="2.2349" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

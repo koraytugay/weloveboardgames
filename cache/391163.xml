@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="391163">
+         <thumbnail>https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__thumb/img/Xq8TNBmMl3Z7DoynvbUXchFAztc=/fit-in/200x150/filters:strip_icc()/pic7578350.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__original/img/GcBtTHjdPXagHE-IOCpQ0he6rN4=/0x0/filters:format(jpeg)/pic7578350.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Forest Shuffle" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Embosca&#039;t" />
+			    				
+				<name type="alternate" sortindex="4" value="Az erdő" />
+			    				
+				<name type="alternate" sortindex="1" value="Forest Shuffle: Το Δάσος" />
+			    				
+				<name type="alternate" sortindex="1" value="Forêt Mixte" />
+			    				
+				<name type="alternate" sortindex="1" value="Leśne rozdanie" />
+			    				
+				<name type="alternate" sortindex="1" value="Metsas" />
+			    				
+				<name type="alternate" sortindex="1" value="Mežā" />
+			    				
+				<name type="alternate" sortindex="1" value="Mischwald" />
+			    				
+				<name type="alternate" sortindex="1" value="Miške" />
+			    				
+				<name type="alternate" sortindex="1" value="Smíšený les" />
+			    				
+				<name type="alternate" sortindex="1" value="Šumski svet" />
+			    				
+				<name type="alternate" sortindex="1" value="Vida na Floresta" />
+			    				
+				<name type="alternate" sortindex="1" value="Горска бъркотевица" />
+			    				
+				<name type="alternate" sortindex="1" value="Лісова Метушня" />
+			    				
+				<name type="alternate" sortindex="1" value="Смешанный лес" />
+			    				
+				<name type="alternate" sortindex="1" value="ฟอเรสต์ ชัฟเฟิ่ล" />
+			    				
+				<name type="alternate" sortindex="1" value="フォレストシャッフル" />
+			    				
+				<name type="alternate" sortindex="1" value="森森不息" />
+			    				
+				<name type="alternate" sortindex="1" value="포레스트 셔플" />
+			
+						               													<description>In Forest Shuffle, players compete to gather the most valuable trees, then attract species to these trees, thus creating an ecologically balanced habitat for flora and fauna.&amp;#10;&amp;#10;To start, each player has six cards in hand, with cards depicting either a particular type of tree or two forest dwellers (animal, plant, mushroom, etc.), with these latter cards being divided in half, whether vertically or horizontally, with one dweller in each card half.&amp;#10;&amp;#10;On a turn, either draw two cards &amp;mdash; whether face down from the deck or face up from the clearing &amp;mdash; and add them to your hand, or play a card from your hand by paying the cost, then putting it into play.&amp;#10;&amp;#10;During set-up, three winter cards were placed into the bottom third of the deck. When the third winter card is drawn, the game ends immediately, then players tally their points based on the trees and dwellers in their forest. Whoever scores the most points wins.&amp;#10;&amp;#10;Forest Shuffle is the first in a line of Lookout games sporting the Lookout Greenline label, produced on FSC certified paper and avoiding plastic completely.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="312">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="128" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="186" />
+					<result value="Recommended" numvotes="75" />
+					<result value="Not Recommended" numvotes="28" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="94" />
+					<result value="Recommended" numvotes="157" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="36" />
+					<result value="Recommended" numvotes="142" />
+					<result value="Not Recommended" numvotes="62" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="51" />
+					<result value="Not Recommended" numvotes="138" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="131" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="40" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="48">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="20" />
+					<result value="12" numvotes="23" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="19">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="14" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="3" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1094" value="Educational" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1084" value="Environmental" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3001" value="Layering" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3099" value="Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3100" value="Tags" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="45672" value="Animals: Birds" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24439" value="Card Games: Draw and Discard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="106865" value="Game: Forest Shuffle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65208" value="Mechanism: Partially overlapping cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57181" value="Theme: Trees and Forests" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="436009" value="Embosca&#039;t: Geneta / Teixó Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="412576" value="Forest Shuffle: Alpine" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="426338" value="Forest Shuffle: Cardinal / Say&#039;s Firefly Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="433138" value="Forest Shuffle: Cerro Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="426441" value="Forest Shuffle: Elk / Troll Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="438231" value="Forest Shuffle: Exploration" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="403910" value="Forest Shuffle: Hobby Next Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="430636" value="Forest Shuffle: Maretak / Bostulp Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="422468" value="Forest Shuffle: Robin / Water Vole Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="434388" value="Forest Shuffle: Sheep / Robber Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="424129" value="Forest Shuffle: Woodland Edge" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="416452" value="Forêt Mixte: Palmier Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="426428" value="Leśne Rozdanie: Żubr / Bocian biały Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="402910" value="Mischwald: Dürer-Fledermaus / Feldhase Promokarte" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="426442" value="Mischwald: Kuckuck / Chanterelle Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="430070" value="Mischwald: Meeps / Frischling Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="434248" value="Mischwald: Oh Tannenbaum Promo Card" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="438797" value="Forest Shuffle: Eurohell Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="434186" value="Forest Shuffle: reDrewno Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="142835" value="Kosch" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="154199" value="Toni Llobet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="160002" value="Judit Piella" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50565" value="Bluebird Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7162" value="Brain Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50696" value="CoolPlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46500" value="Lord of Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38392" value="MEBO Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="53618" value="Well Designed Game" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="11776" />
+			<average value="7.69747" />
+			<bayesaverage value="7.30424" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="228" bayesaverage="7.30424" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="163" bayesaverage="7.35771" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="37" bayesaverage="7.38856" />
+												</ranks>
+
+			<stddev value="1.26286" />
+			<median value="0" />
+			<owned value="21170" />
+			<trading value="78" />
+			<wanting value="534" />
+			<wishing value="5238" />
+			<numcomments value="1743" />
+			<numweights value="309" />
+			<averageweight value="2.1974" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

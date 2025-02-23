@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="372559">
+<thumbnail>https://cf.geekdo-images.com/TCBUzmSNUYw_yqJAXGWnNQ__thumb/img/BgniZvPRJVenqn7XHd4TQtsSuwI=/fit-in/200x150/filters:strip_icc()/pic7592453.png</thumbnail>
+<image>https://cf.geekdo-images.com/TCBUzmSNUYw_yqJAXGWnNQ__original/img/GklWmrbqMips7ref85Pa-X5eNQQ=/0x0/filters:format(png)/pic7592453.png</image>
+<name type="primary" sortindex="1" value="Spots" />
+<name type="alternate" sortindex="1" value="Ciapki" />
+<name type="alternate" sortindex="1" value="Kuce" />
+<name type="alternate" sortindex="1" value="Manchas" />
+<name type="alternate" sortindex="1" value="Pöttyök" />
+<name type="alternate" sortindex="1" value="Spots ou Encore!" />
+<name type="alternate" sortindex="1" value="Косточки" />
+<name type="alternate" sortindex="1" value="Крапки" />
+<name type="alternate" sortindex="1" value="狗运当骰" />
+<name type="alternate" sortindex="1" value="점박이" />
+<description>Spots is a casual push your luck game from CMYK. On your turn, you'll be rolling and placing dice onto dog cards. Dice you can't place get buried in your yard. Bury too many dice and you bust. Complete 6 dogs and you win!&amp;#10;&amp;#10;-description from designer&amp;#10;&amp;#10;</description>
+<yearpublished value="2022" />
+<minplayers value="1" />
+<maxplayers value="4" />
+<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="91">
+	<results numplayers="1">		
+		<result value="Best" numvotes="0" />
+		<result value="Recommended" numvotes="25" />
+		<result value="Not Recommended" numvotes="31" />
+	</results>					
+	<results numplayers="2">		
+		<result value="Best" numvotes="40" />
+		<result value="Recommended" numvotes="34" />
+		<result value="Not Recommended" numvotes="2" />
+	</results>					
+	<results numplayers="3">		
+		<result value="Best" numvotes="35" />
+		<result value="Recommended" numvotes="31" />
+		<result value="Not Recommended" numvotes="3" />
+	</results>					
+	<results numplayers="4">		
+		<result value="Best" numvotes="14" />
+		<result value="Recommended" numvotes="43" />
+		<result value="Not Recommended" numvotes="9" />
+	</results>					
+	<results numplayers="4+">		
+		<result value="Best" numvotes="1" />
+		<result value="Recommended" numvotes="1" />
+		<result value="Not Recommended" numvotes="34" />
+	</results>					
+</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+	<result name="bestwith" value="Best with 2–3 players" />
+	<result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+<minplaytime value="25" />
+<maxplaytime value="30" />
+<minage value="10" />
+<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="19">
+	<results>		
+		<result value="2" numvotes="0" />
+		<result value="3" numvotes="0" />
+		<result value="4" numvotes="1" />
+		<result value="5" numvotes="4" />
+		<result value="6" numvotes="7" />
+		<result value="8" numvotes="6" />
+		<result value="10" numvotes="1" />
+		<result value="12" numvotes="0" />
+		<result value="14" numvotes="0" />
+		<result value="16" numvotes="0" />
+		<result value="18" numvotes="0" />
+		<result value="21 and up" numvotes="0" />
+	</results>					
+</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+<results>		
+	<result level="1" value="No necessary in-game text" numvotes="0" />
+	<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+	<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="3" />
+	<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+	<result level="5" value="Unplayable in another language" numvotes="0" />
+</results>					
+</poll> 			      			 			      				
+<link type="boardgamecategory" id="1089" value="Animals" />
+<link type="boardgamecategory" id="1017" value="Dice" />
+<link type="boardgamemechanic" id="2838" value="Action Drafting" />
+<link type="boardgamemechanic" id="2912" value="Contracts" />
+<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+<link type="boardgamemechanic" id="2876" value="Race" />
+<link type="boardgamemechanic" id="2870" value="Re-rolling and Locking" />
+<link type="boardgamemechanic" id="2004" value="Set Collection" />
+<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+<link type="boardgamefamily" id="7349" value="Animals: Dogs" />
+<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+<link type="boardgamedesigner" id="74071" value="Alex Hague" />
+<link type="boardgamedesigner" id="73364" value="Jon Perry" />
+<link type="boardgamedesigner" id="74072" value="Justin Vickers" />
+<link type="boardgameartist" id="148641" value="John Bond" />
+<link type="boardgamepublisher" id="46474" value="CMYK" />
+<link type="boardgamepublisher" id="49480" value="Choo Choo Games" />
+<link type="boardgamepublisher" id="50696" value="CoolPlay" />
+<link type="boardgamepublisher" id="2366" value="Devir" />
+<link type="boardgamepublisher" id="12540" value="Game Harbor" />
+<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+<link type="boardgamepublisher" id="8923" value="IELLO" />
+<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+<statistics page="1">
+	<ratings >
+		<usersrated value="5125" />
+		<average value="7.15893" />
+		<bayesaverage value="6.63101" />
+		<ranks>
+			<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="991" bayesaverage="6.63101" />
+			<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="272" bayesaverage="6.72859" />
+		</ranks>
+		<stddev value="1.30439" />
+		<median value="0" />
+		<owned value="9333" />
+		<trading value="66" />
+		<wanting value="233" />
+		<wishing value="1995" />
+		<numcomments value="825" />
+		<numweights value="105" />
+		<averageweight value="1.2952" />
+	</ratings>
+</statistics>
+</item>
+</items>

@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="503">
+         <thumbnail>https://cf.geekdo-images.com/Rq_hJIAO7jDgIpAW943hJA__thumb/img/blKEV5US-j7v3VDceGF1CIUb-lE=/fit-in/200x150/filters:strip_icc()/pic7697747.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Rq_hJIAO7jDgIpAW943hJA__original/img/9lIQGNwBYmAlsgXOI6Iw2Q2CIkA=/0x0/filters:format(jpeg)/pic7697747.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Through the Desert" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="A través del desierto" />
+			    				
+				<name type="alternate" sortindex="1" value="Aavikon Karavaanit" />
+			    				
+				<name type="alternate" sortindex="1" value="Át a sivatagon" />
+			    				
+				<name type="alternate" sortindex="1" value="Durch die Wüste" />
+			    				
+				<name type="alternate" sortindex="1" value="Heersers der Woestijn" />
+			    				
+				<name type="alternate" sortindex="1" value="Nel Deserto" />
+			    				
+				<name type="alternate" sortindex="1" value="Przez Pustynię" />
+			    				
+				<name type="alternate" sortindex="4" value="La traversée du désert" />
+			    				
+				<name type="alternate" sortindex="1" value="Καραβάνια της Ερήμου" />
+			    				
+				<name type="alternate" sortindex="1" value="דרך המדבר" />
+			    				
+				<name type="alternate" sortindex="1" value="砂漠を越えて" />
+			    				
+				<name type="alternate" sortindex="1" value="穿越荒漠" />
+			
+						               													<description>Each player attempts to score the most points by snaking caravan routes through the desert, trying to reach oases and blocking off sections of the desert. Many people feel that it is reminiscent of Go.&amp;#10;&amp;#10;Publisher's Description&amp;#10;From the award-winning game designer Reiner Knizia comes a game of strategy, patience, and cool plastic camels! The desert is still treacherous, mysterious, and without mercy. But for those willing to risk the dangers of the shifting, sun-baked sands, the desert holds riches beyond compare.&amp;#10; In Through the Desert, two to five players each control a tribe of nomads vying for control of the desert. By establishing caravans and taking over oases, the players gain points as their tribes increase in power.&amp;#10; Strategy is essential in deciding how and where to build your tribe's caravans. There are multiple ways to gain points and several ways to win. Should you try to build the longest caravan? Or should you dominate the desert's oases? Don't forget to keep an eye on your opponents' caravans, or you may find your own tribe cut off from valuable water holes.&amp;#10;&amp;#10;Through the Desert is part of the so called Knizia tile-laying trilogy.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="1998" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="268">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="141" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="76" />
+					<result value="Recommended" numvotes="139" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="149" />
+					<result value="Recommended" numvotes="79" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="83" />
+					<result value="Recommended" numvotes="122" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="106" />
+					<result value="Not Recommended" numvotes="66" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="123" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="50">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="4" />
+					<result value="6" numvotes="7" />
+					<result value="8" numvotes="24" />
+					<result value="10" numvotes="10" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="53">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="53" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1052" value="Arabian" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2956" value="Chaining" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2043" value="Enclosure" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2987" value="Hidden Victory Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6480" value="Animals: Camels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="26432" value="Category: Combinatorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64990" value="Components: Meeples (Animal) / Animeeples" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7345" value="Mechanism: Connection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="105030" value="Misc: Dice Tower Hall of Fame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59608" value="Region: Middle East" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59607" value="Region: North Africa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="60111" value="Series: Euro Classics (Reiner Knizia)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3400" value="Series: Fantasy Flight Silver Line" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="42" value="Series: Tile-Laying Trilogy (Reiner Knizia)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="13265" value="Theme: Deserts" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="399973" value="Through the Desert: Bazaar" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="406384" value="Through the Desert: Deluxe Meeples" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12508" value="John Gravato" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="80022" value="Atha Kanaani" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="38179" value="Damien Mammoliti" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12017" value="Scott Nicely" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11989" value="Brian Schomburg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11902" value="Claus Stephan" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="53065" value="Allplay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2973" value="Edge Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4617" value="Galakta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2962" value="PS-Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8266" value="Silver Stars Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8759" value="Wargames Club Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="15055" />
+			<average value="7.1459" />
+			<bayesaverage value="6.92817" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="559" bayesaverage="6.92817" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="21" bayesaverage="7.1004" />
+											<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="398" bayesaverage="6.97117" />
+												</ranks>
+
+			<stddev value="1.22583" />
+			<median value="0" />
+			<owned value="18248" />
+			<trading value="439" />
+			<wanting value="708" />
+			<wishing value="3215" />
+			<numcomments value="4473" />
+			<numweights value="1475" />
+			<averageweight value="2.1661" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

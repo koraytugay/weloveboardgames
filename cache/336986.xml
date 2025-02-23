@@ -1,0 +1,602 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="336986">
+         <thumbnail>https://cf.geekdo-images.com/EvGtnsBDcfnKiqSiXHothQ__thumb/img/bQcyvzYRdMFFvcdQkFVnIRiCPjE=/fit-in/200x150/filters:strip_icc()/pic6605448.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/EvGtnsBDcfnKiqSiXHothQ__original/img/7yj8nA0ObuZ1w5AYCThEOK6meWA=/0x0/filters:format(jpeg)/pic6605448.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Flamecraft" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Draci v práci" />
+			    				
+				<name type="alternate" sortindex="1" value="Lángművesek" />
+			    				
+				<name type="alternate" sortindex="1" value="Вогнетвір" />
+			    				
+				<name type="alternate" sortindex="1" value="Мастера пламени" />
+			    				
+				<name type="alternate" sortindex="1" value="เฟลมคราฟต์" />
+			    				
+				<name type="alternate" sortindex="1" value="フレイムクラフト" />
+			    				
+				<name type="alternate" sortindex="1" value="龍焰魔法鎮" />
+			    				
+				<name type="alternate" sortindex="1" value="龙焰魔法镇" />
+			    				
+				<name type="alternate" sortindex="1" value="플레임크래프트" />
+			
+						               													<description>Artisan dragons, the smaller and magically talented versions of their larger (and destructive) cousins, are sought by shopkeepers so that they may delight customers with their flamecraft. You are a Flamekeeper, skilled in the art of conversing with dragons, placing them in their ideal home and using enchantments to entice them to produce wondrous things. Your reputation will grow as you aid the dragons and shopkeepers, and the Flamekeeper with the most reputation will be known as the Master of Flamecraft.&amp;#10;&amp;#10;In Flamecraft, 1-5 players take on the role of Flamekeepers, gathering items, placing dragons and casting enchantments to enhance the shops of the town. Dragons are specialized (bread, meat, iron, crystal, plant and potion) and the Flamekeepers know which shops are the best home for each. Visit a shop to gain items and a favor from one of the dragons there.  Gathered items can be used to enchant a shop, gaining reputation and the favors of all the dragons in the shop. If you are fortunate enough to attract fancy dragons then you will have opportunities to secure even more reputation.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="253">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="75" />
+					<result value="Not Recommended" numvotes="50" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="32" />
+					<result value="Recommended" numvotes="136" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="135" />
+					<result value="Recommended" numvotes="58" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="75" />
+					<result value="Recommended" numvotes="96" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="88" />
+					<result value="Not Recommended" numvotes="76" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="111" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–5 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="75">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="5" />
+					<result value="8" numvotes="41" />
+					<result value="10" numvotes="26" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="13">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="0" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="13" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48877" value="Components: Game Trayz Inside" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7005" value="Creatures: Dragons" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65774" value="Theme: Anthropomorphic Animals" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="388742" value="Flamecraft: Alternate Starter Shop Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="397440" value="Flamecraft: Cosmic Scale" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="406050" value="Flamecraft: Dice Tower Crew Artisan Dragons Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="397458" value="Flamecraft: Lucky Lake" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="428074" value="Flamecraft: Space Craft" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="405273" value="Flamecraft: Stuff the Magic Dragon" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="400846" value="Flamecraft: The Rare Medium" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="355201" value="Flamecraft: The Spice Tower and Flamestarter Statue" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="373587" value="Flamecraft: Artisan Dragon Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="411869" value="Flamecraft: Dragon Minatures Series 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367784" value="Flamecraft: Fancy Dragon Miniature" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="377659" value="Flamecraft: GGG Insert/Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="420416" value="Flamecraft: JUMBO Wooden Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="403078" value="Flamecraft: LaserLand Acrylic Goods Token Upgrades" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="373586" value="Flamecraft: Metal Coins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="411870" value="Flamecraft: Metal Coins Series 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="425173" value="Flamecraft: Pink Dragon Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="437321" value="Flamecraft: reDrewno Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="373588" value="Flamecraft: Wooden Tokens" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="20646" value="Manny Vega" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="36620" value="Sandara Tang" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46569" value="Cardboard Alchemy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7162" value="Brain Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34522" value="CrowD Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47851" value="Gameology (Gameology Romania)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="51614" value="MIPL" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38777" value="Outland" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50269" value="Salta da Caixa" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39774" value="Tower Tactic Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="53509" value="ToyRock Oy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="16825" />
+			<average value="7.41188" />
+			<bayesaverage value="7.09985" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="376" bayesaverage="7.09985" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="329" bayesaverage="7.07419" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="92" bayesaverage="7.13285" />
+												</ranks>
+
+			<stddev value="1.33319" />
+			<median value="0" />
+			<owned value="35712" />
+			<trading value="297" />
+			<wanting value="434" />
+			<wishing value="5973" />
+			<numcomments value="2661" />
+			<numweights value="464" />
+			<averageweight value="2.1897" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

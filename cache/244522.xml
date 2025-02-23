@@ -1,0 +1,497 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="244522">
+         <thumbnail>https://cf.geekdo-images.com/u1EZSUC5n8k4g4OFPkn3ow__thumb/img/mOfaidSnvnq2gHEQuAsYTLyIQQQ=/fit-in/200x150/filters:strip_icc()/pic8014078.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/u1EZSUC5n8k4g4OFPkn3ow__original/img/e4QJiofBkd18ZffIURPyqNWrhxk=/0x0/filters:format(jpeg)/pic8014078.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="That&#039;s Pretty Clever!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Clever" />
+			    				
+				<name type="alternate" sortindex="1" value="Ganz Schön Clever" />
+			    				
+				<name type="alternate" sortindex="1" value="Optimus" />
+			    				
+				<name type="alternate" sortindex="1" value="Pretty Clever (Έξυπνο;)" />
+			    				
+				<name type="alternate" sortindex="1" value="Rzuć na Tacę" />
+			    				
+				<name type="alternate" sortindex="1" value="That&#039;s Pretty Clever" />
+			    				
+				<name type="alternate" sortindex="1" value="Très Futé!" />
+			    				
+				<name type="alternate" sortindex="1" value="Влучний хід" />
+			    				
+				<name type="alternate" sortindex="1" value="Хитрый ход" />
+			    				
+				<name type="alternate" sortindex="1" value="ガンツ・シェーン・クレバー" />
+			    				
+				<name type="alternate" sortindex="1" value="絕頂聰明" />
+			    				
+				<name type="alternate" sortindex="1" value="영리한 여우" />
+			
+						               													<description>Choose your dice cleverly in Ganz sch&amp;ouml;n clever (German for &amp;quot;That's Pretty Clever&amp;quot;) to enter them into the matching colored areas on your score sheet, putting together tricky chain-scoring opportunities, and racking up the points! The dice you don't use are as important as those you do, because every die with a lower value than the chosen one can be used by the other players, keeping everyone in the game at all times.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="411">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="92" />
+					<result value="Recommended" numvotes="206" />
+					<result value="Not Recommended" numvotes="32" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="257" />
+					<result value="Recommended" numvotes="106" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="96" />
+					<result value="Recommended" numvotes="205" />
+					<result value="Not Recommended" numvotes="25" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="42" />
+					<result value="Recommended" numvotes="178" />
+					<result value="Not Recommended" numvotes="90" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="191" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="81">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="8" />
+					<result value="8" numvotes="45" />
+					<result value="10" numvotes="23" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="35">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="35" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2889" value="Highest-Lowest Scoring" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2870" value="Re-rolling and Locking" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="101985" value="Category: Color" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76458" value="Digital Implementations: BrettspielWelt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78432" value="Digital Implementations: Google Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65163" value="Mechanism: Dice Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41222" value="Mechanism: Roll-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="105880" value="Series: Ganz Schön Clever" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50841" value="Series: Klein &amp; Fein (Schmidt Spiele)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="287988" value="Ganz Schön Clever: Challenge I" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="288200" value="Ganz Schön Rolf (fan expansion for Ganz Schön Clever)" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="316558" value="That&#039;s Pretty Clever!: Replacement Pad" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamecompilation" id="407180" value="Ganz schön clever: Deluxe" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="366162" value="Clever 4Ever" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="316546" value="Clever Cubed" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="354892" value="That&#039;s Pretty Clever! Kids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="269210" value="Twice as Clever!" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="80162" value="Wolfgang Warsch" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="110338" value="Leon Schiffer" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7162" value="Brain Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46474" value="CMYK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14813" value="Compaya.hu: Gamer Café Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8845" value="G3" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34801" value="Lavka Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11652" value="Stronghold Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9234" value="Swan Panasia Co., Ltd." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="14078" value="Vennerød Forlag AS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44340" value="YellowBOX" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="25767" />
+			<average value="7.56307" />
+			<bayesaverage value="7.37366" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="193" bayesaverage="7.37366" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="28" bayesaverage="7.41942" />
+												</ranks>
+
+			<stddev value="1.1296" />
+			<median value="0" />
+			<owned value="42350" />
+			<trading value="288" />
+			<wanting value="348" />
+			<wishing value="3227" />
+			<numcomments value="3497" />
+			<numweights value="599" />
+			<averageweight value="1.8631" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
