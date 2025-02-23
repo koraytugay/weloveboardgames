@@ -27,20 +27,21 @@ public class App
 
   public static int RECOMMENDATION_ADJACENCY_LIMIT = 50;
 
-  public static int MINIMUM_AGE_UPPER_LIMIT = 8;
+  public static int MINIMUM_AGE_LOWER_LIMIT = 6;
 
-  public static int MINIMUM_AGE_LOWER_LIMIT = 18;
+  public static int MINIMUM_AGE_UPPER_LIMIT = 18;
 
   public void run() throws TemplateException, IOException {
     FileReader reader = new FileReader("config.properties");
     Properties prop = new Properties();
     prop.load(reader);
 
+    USER_NAME = prop.getProperty("bbg.username");
     MINIMUM_SCORE = Integer.parseInt(prop.getProperty("min.score"));
     RECOMMENDATION_COUNT_THRESHOLD = Integer.parseInt(prop.getProperty("recommendation.count.threshold"));
     RECOMMENDATION_ADJACENCY_LIMIT = Integer.parseInt(prop.getProperty("recommendation.adjacency.limit"));
-    MINIMUM_AGE_UPPER_LIMIT = Integer.parseInt(prop.getProperty("minimum.age.upper.limit"));
     MINIMUM_AGE_LOWER_LIMIT = Integer.parseInt(prop.getProperty("minimum.age.lower.limit"));
+    MINIMUM_AGE_UPPER_LIMIT = Integer.parseInt(prop.getProperty("minimum.age.upper.limit"));
 
     List<BoardGame> boardGames = BoardGameGeekClient.fetchMyBoardGamesByUsername(USER_NAME);
 
@@ -60,8 +61,8 @@ public class App
       }
     }
 
+    boardGames = boardGames.stream().filter(boardGame -> Integer.parseInt(boardGame.minimumAge) >= MINIMUM_AGE_LOWER_LIMIT).collect(Collectors.toList());
     boardGames = boardGames.stream().filter(boardGame -> Integer.parseInt(boardGame.minimumAge) <= MINIMUM_AGE_UPPER_LIMIT).collect(Collectors.toList());
-    boardGames = boardGames.stream().filter(boardGame -> MINIMUM_AGE_LOWER_LIMIT >= Integer.parseInt(boardGame.minimumAge)).collect(Collectors.toList());
     boardGames.sort((o1, o2) -> Double.compare(o2.getLinkScore(), o1.getLinkScore()));
 
     for (BoardGame boardGame : boardGames) {
