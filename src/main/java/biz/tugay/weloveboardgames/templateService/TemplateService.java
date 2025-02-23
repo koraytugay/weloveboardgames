@@ -20,6 +20,6 @@ public class TemplateService
     Configuration configuration = new Configuration(Configuration.VERSION_2_3_0);
     Template temp = configuration.getTemplate(Paths.get("dist", "mytemplate.ftl").toString());
 
-    temp.process(templateData, new FileWriter(Paths.get("dist", "index.html").toString()));
+    temp.process(templateData, new FileWriter(Paths.get("index.html").toString()));
   }
 }
