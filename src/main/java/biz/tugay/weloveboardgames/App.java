@@ -4,6 +4,8 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.Comparator;
 import java.util.List;
 import java.util.Properties;
 import java.util.stream.Collectors;
@@ -69,6 +71,20 @@ public class App
       for (BoardGame linkedGame : boardGame.linkedGames) {
         linkedGame.linkedGames.clear();
       }
+    }
+
+    // Sort the linked games based on how strongly they recommend this particular game
+    for (BoardGame boardGame : boardGames) {
+      List<BoardGame> sortedBoardGames = new ArrayList<>();
+      List<Integer> indices = new ArrayList<>();
+      for (int i = 0; i < boardGame.linkedGames.size(); i++) {
+        indices.add(i);
+      }
+      indices.sort(Comparator.comparingInt(boardGame.linkedGamesStrengths::get));
+      for (int index : indices) {
+        sortedBoardGames.add(boardGame.linkedGames.get(index));
+      }
+      boardGame.linkedGames = sortedBoardGames;
     }
 
     String jsonOutput = new GsonBuilder().setPrettyPrinting().create().toJson(boardGames);
