@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="352695">
+         <thumbnail>https://cf.geekdo-images.com/NTNhldVlXHY-EncaJAm-wA__thumb/img/3_S3OdKZ27F1fod8VHrCaAWaxq8=/fit-in/200x150/filters:strip_icc()/pic6683325.png</thumbnail>
+      <image>https://cf.geekdo-images.com/NTNhldVlXHY-EncaJAm-wA__original/img/bHLkQhE6NVlKEgrwty4fqtkd_2k=/0x0/filters:format(png)/pic6683325.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Oranienburger Kanal" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="オラニエンブルガー運河" />
+			    				
+				<name type="alternate" sortindex="1" value="奥拉宁堡运河" />
+			
+						               													<description>The Oranienburg canal, which gave this game its name, was built between 1832 and 1837 in Brandenburg. The Havel River was difficult to navigate near the Oranienburg mills, so a canal was built from the Havel that crossed the older Ruppin canal, thereby forming the Oranienburg canal cross. During the industrialization in the 19th century, lots of companies and businesses were formed at this important waterway. Moreover, additional streets and railways were built.&amp;#10;&amp;#10;In Oranienburger Kanal, you erect new industries and shape the infrastructure by building pathways, streets, railways, and canals. Most important of all are bridges that connect buildings. To do all of this, you have access to various actions that you select in the right moments.&amp;#10;&amp;#10;At the end of the game, the player with the best industrial area and the best infrastructure wins.&amp;#10;&amp;#10;Oranienburger Kanal also includes a solo game!&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="2" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="60">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="41" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="29" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 1–2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–2 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="6">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1088" value="Industry / Manufacturing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2914" value="Increase Value of Unchosen Resources" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2900" value="Market" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10643" value="Country: Germany" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66292" value="Crowdfunding: Gamefound" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75791" value="Region: Brandenburg (Germany)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66445" value="Theme: Canals" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="403361" value="Oranienburger Kanal: Café am Kanal Promo Card" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="361937" value="Oranienburger Kanal: Expansion I" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="361938" value="Oranienburger Kanal: Expansion II" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="438018" value="Kanal" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4959" value="Harald Lieske" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15108" value="Spielworxx" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="35928" value="Banana Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22609" value="テンデイズゲームズ(TendaysGames)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1125" />
+			<average value="7.97435" />
+			<bayesaverage value="6.33687" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1650" bayesaverage="6.33687" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="772" bayesaverage="6.55053" />
+												</ranks>
+
+			<stddev value="1.24935" />
+			<median value="0" />
+			<owned value="2074" />
+			<trading value="18" />
+			<wanting value="382" />
+			<wishing value="1507" />
+			<numcomments value="314" />
+			<numweights value="59" />
+			<averageweight value="3.1864" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,318 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="325810">
+         <thumbnail>https://cf.geekdo-images.com/WAVSY1esA_LxaQ1bSOYItA__thumb/img/sE95S6P4r8Ewc9w3K7zulTUXdHQ=/fit-in/200x150/filters:strip_icc()/pic6276455.png</thumbnail>
+      <image>https://cf.geekdo-images.com/WAVSY1esA_LxaQ1bSOYItA__original/img/9UhDaL6TjFRcp4guqq1I6Px_1Zg=/0x0/filters:format(png)/pic6276455.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Ascension: 10 Year Anniversary Edition" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Ascension: Czwarta edycja" />
+			    				
+				<name type="alternate" sortindex="1" value="Ascension: Edição de 10° Aniversário" />
+			    				
+				<name type="alternate" sortindex="1" value="Ascensión: Edición 10 Aniversario" />
+			    				
+				<name type="alternate" sortindex="1" value="Ascension: Fourth Edition" />
+			    				
+				<name type="alternate" sortindex="1" value="Ascension: Четвёртая редакция" />
+			    				
+				<name type="alternate" sortindex="1" value="어센션: 10주년 기념판" />
+			
+						               													<description>Originally offered as an add-on during the  Ascension Tactics: The Deckbuilding Miniatures Game Kickstarter campaign.&amp;#10;&amp;#10;Ascension: 10 Year Anniversary Edition features:&amp;#10;&amp;#10;     Remastered cards for improved gameplay&amp;#10;     New art featuring Ascensions most iconic characters&amp;#10;     All new premium 10th anniversary game board&amp;#10;&amp;#10;&amp;#10;and contains:&amp;#10;&amp;#10;     181 cards (compared to 200 in the original)&amp;#10;     Honor tokens&amp;#10;     The board&amp;#10;     A rule book&amp;#10;&amp;#10;&amp;#10;&amp;mdash;description from the Kickstarter campaign&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="20">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="17" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="1" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="9974" value="Game: Ascension Deck Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="69789" value="Ascension: Deckbuilding Game" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10381" value="John Fiorillo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10138" value="Justin Gary" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="8727" value="Brian M. Kibler" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12106" value="Stone Blade Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42325" value="Grok Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8923" value="IELLO" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38448" value="TCG Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26236" value="Ultra PRO" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="888" />
+			<average value="7.76566" />
+			<bayesaverage value="6.1201" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2426" bayesaverage="6.1201" />
+																				<rank type="family" id="4667" name="cgs" friendlyname="Customizable Rank" value="65" bayesaverage="6.76719" />
+											<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1146" bayesaverage="6.25628" />
+												</ranks>
+
+			<stddev value="1.18558" />
+			<median value="0" />
+			<owned value="1964" />
+			<trading value="15" />
+			<wanting value="39" />
+			<wishing value="301" />
+			<numcomments value="147" />
+			<numweights value="28" />
+			<averageweight value="1.7857" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

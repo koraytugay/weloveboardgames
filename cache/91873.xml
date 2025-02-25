@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="91873">
+         <thumbnail>https://cf.geekdo-images.com/5aTSIE4Ayv8K6I6XeJKvug__thumb/img/2KjaZpz3F9_ToDvJmstbIPjjkyQ=/fit-in/200x150/filters:strip_icc()/pic951192.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/5aTSIE4Ayv8K6I6XeJKvug__original/img/K9nuxBB07rEjTT5I8x1_NBAcOss=/0x0/filters:format(jpeg)/pic951192.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Strasbourg" />
+			
+						                           
+						               													<description>Strasbourg in the 15th century - the political skills of the city are heavily influenced by the craftsmen guilds .&amp;#10;&amp;#10;In this time, players take on the lead of ascending families of the city. It is your goal to place your family members in the different guilds. Only the clever usage of influence points makes it possible to be accommodated as apprentice, assistant or even master craftsman - provided you can pay the admission fee. But don't underestimate the power of the church or the nobility.&amp;#10;&amp;#10;Strasbourg is a easy to learn strategy game with inventive mechanisms, that provide the player with lots of room for decisions. But only those that also keep an eye on the plans of the other players will earn the highest fame in the end.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2011" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="68">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="33" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="30" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="21" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="32" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="46" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="23" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–5 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="9">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="6" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="16">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="15" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2012" value="Auction / Bidding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2923" value="Auction: Once Around" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64786" value="Cities: Strasbourg (Alsace, France)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11006" value="Country: France" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57872" value="Region: Alsace (France)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="430614" value="Valencia" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4958" value="Stefan Feld" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12123" value="Alexander Jung" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="12674" value="Hans-Georg Schneider" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2784" />
+			<average value="7.1652" />
+			<bayesaverage value="6.43818" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1387" bayesaverage="6.43818" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="728" bayesaverage="6.58795" />
+												</ranks>
+
+			<stddev value="1.18043" />
+			<median value="0" />
+			<owned value="2900" />
+			<trading value="56" />
+			<wanting value="306" />
+			<wishing value="799" />
+			<numcomments value="632" />
+			<numweights value="191" />
+			<averageweight value="2.733" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -27,7 +27,6 @@ public class RecommendedGameService
           if (recommendedGameIdsForGame.size() > RECOMMENDATION_ADJACENCY_LIMIT) {
             recommendedGameIdsForGame = recommendedGameIdsForGame.subList(0, RECOMMENDATION_ADJACENCY_LIMIT);
           }
-          recommendedGameIdsForGame = recommendedGameIdsForGame.subList(0, RECOMMENDATION_ADJACENCY_LIMIT);
           for (int i = 0; i < recommendedGameIdsForGame.size(); i++) {
             BoardGame bg = allBoardGames.get(recommendedGameIdsForGame.get(i));
             if (bg == null) {

@@ -1,0 +1,379 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="420805">
+         <thumbnail>https://cf.geekdo-images.com/zyc92pV4Mn2G6HCegMGPWQ__thumb/img/eBQt7m5f9RtsZfBgCNhJER6f5CA=/fit-in/200x150/filters:strip_icc()/pic8194217.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/zyc92pV4Mn2G6HCegMGPWQ__original/img/39E8tEi-2NbBcXmduY5XHF1GeBU=/0x0/filters:format(jpeg)/pic8194217.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Black Forest" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Czarny las" />
+			    				
+				<name type="alternate" sortindex="1" value="Selva negra" />
+			    				
+				<name type="alternate" sortindex="1" value="ブラックフォレスト" />
+			    				
+				<name type="alternate" sortindex="1" value="翠光密林" />
+			    				
+				<name type="alternate" sortindex="1" value="블랙 포레스트" />
+			
+						               													<description>In Black Forest, you start out with a small domain in need of new buildings and livestock. You&amp;rsquo;ll travel from village to village, to enlist the aid of the best specialists.  Exploiting the abilities of these specialists lets you collect resources, lay out new landscape tiles (e.g. ponds and fields), and build a variety of buildings, which come in four types. Choose the right buildings, place landscapes, fire up your glass production, and expand your domain.&amp;#10;&amp;#10;Uwe Rosenberg&amp;rsquo;s resource wheels, made famous in Glass Road (2013), return in Black Forest. Two resource wheels on your tableau help you keep track of your resources and production. Black Forest continues the story - as the name suggests &amp;mdash; in the Black Forest. Among others, the main difference between the two games is the use of worker placement in Black Forest  instead of simultaneous action selection.&amp;#10;&amp;#10;A wide selection of buildings and their different effects offer many different paths to victory.&amp;#10;&amp;#10;&amp;mdash;description from publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="52">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="23" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="27" />
+					<result value="Recommended" numvotes="15" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 1, 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="120" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1088" value="Industry / Manufacturing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1035" value="Medieval" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2903" value="Automatic Resource Growth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2846" value="Once-Per-Game Abilities" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46916" value="Game: Glass Road" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75802" value="Mountains: Black Forest (Baden-Württemberg, Germany)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75789" value="Region: Baden-Württemberg (Germany)" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="143693" value="Glass Road" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="100760" value="Tido Lorenz" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="105660" value="Lukas Siegmon" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22380" value="Feuerland Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30958" value="Capstone Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="10768" value="Cranio Creations" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12540" value="Game Harbor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46431" value="MTS Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29409" value="Super Meeple" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22609" value="テンデイズゲームズ(TendaysGames)" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1365" />
+			<average value="7.65964" />
+			<bayesaverage value="6.31779" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1698" bayesaverage="6.31779" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="833" bayesaverage="6.49997" />
+												</ranks>
+
+			<stddev value="1.24644" />
+			<median value="0" />
+			<owned value="3185" />
+			<trading value="17" />
+			<wanting value="328" />
+			<wishing value="2517" />
+			<numcomments value="289" />
+			<numweights value="84" />
+			<averageweight value="3.2143" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

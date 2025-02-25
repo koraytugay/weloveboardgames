@@ -39,7 +39,9 @@ public class BoardGame
     BoardGame boardGame = new BoardGame();
     boardGame.id = item.objectId;
     boardGame.name = item.name.get(0).value;
-    boardGame.yearPublished = item.yearPublished.value;
+    if (item.yearPublished != null) {
+      boardGame.yearPublished = item.yearPublished.value;
+    }
     boardGame.imageUrl = item.image;
     boardGame.thumbnailUrl = item.thumbnail;
     boardGame.isOwned = item.status.own == 1;

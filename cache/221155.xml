@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="221155">
+         <thumbnail>https://cf.geekdo-images.com/clQ2OFjwNdsL_ME7fthl3Q__thumb/img/y4qv-DZL91qXR9yvf4TMz7qpbQs=/fit-in/200x150/filters:strip_icc()/pic3476501.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/clQ2OFjwNdsL_ME7fthl3Q__original/img/camo8aDcQSF2BAWrJ0v9dTQxEig=/0x0/filters:format(jpeg)/pic3476501.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Donning the Purple" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="紫袍加身" />
+			
+						               													<description>It is the year 193 AD. The Roman Empire is not as great as it once was. Hordes of enemies are crossing the borders, famine spreads throughout the provinces and the political intrigues are tearing the empire apart from within. The previous emperor was killed by his own Praetorian bodyguard and has left a power vacuum that the powerful families in Rome are trying to fill. Are you ready to don the purple yourself and take on the stressful job as emperor? If you fail, the other families are ready to take over at a moment's notice. While they wait for your doom, they won't hesitate to backstab or undermine you as much as they can. However you all have to work together as the fall of the Roman Empire is closing in.&amp;#10;&amp;#10;Donning the Purple is an asymmetrical king of the hill game with a bit of worker placement. Each player leads a powerful family in ancient Rome, trying to get the most victory points during 4 rounds. If your family member becomes the emperor and manages to hold the position he can earn lots of points. However he will also become the target of the other players as they will try to dethrone him and become the new emperor themselves.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="3" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="31">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3+">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–3 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="70" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="3" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="0" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1050" value="Ancient" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1015" value="Civilization" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1001" value="Political" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2820" value="Semi-Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2686" value="Take That" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5606" value="Ancient: Rome" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58534" value="History: Roman Empire" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="278416" value="Donning the Purple: Votes &amp; Virtue expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="90780" value="Petter Schanke Olsen" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="99073" value="Daniël Hasenbos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="99074" value="Joeri Lefevre" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34969" value="Tompet Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="24883" value="Ediciones MasQueOca" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="43864" value="Treetato Studio" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="693" />
+			<average value="7.07621" />
+			<bayesaverage value="5.86237" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3947" bayesaverage="5.86237" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1623" bayesaverage="5.9661" />
+												</ranks>
+
+			<stddev value="1.50136" />
+			<median value="0" />
+			<owned value="1170" />
+			<trading value="38" />
+			<wanting value="100" />
+			<wishing value="428" />
+			<numcomments value="204" />
+			<numweights value="36" />
+			<averageweight value="2.9444" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
