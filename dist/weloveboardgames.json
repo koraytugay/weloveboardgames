@@ -2589,6 +2589,7 @@
     "name": "Parade",
     "yearPublished": "2007",
     "imageUrl": "https://cf.geekdo-images.com/lmRNihICb4mklj0ec1vj6g__original/img/FA-gxYbwNAZl_jwzPjU9n_0Nwbo\u003d/0x0/filters:format(jpeg)/pic2239001.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/lmRNihICb4mklj0ec1vj6g__thumb/img/UYkr4MpEZv5QiLWW5ef9RUm3gm0\u003d/fit-in/200x150/filters:strip_icc()/pic2239001.jpg",
     "minimumNumberOfPlayers": "2",
     "maximumNumberOfPlayers": "6",
     "bestNumberOfPlayers": "Best with 4 players",
@@ -2739,75 +2740,6 @@
       24,
       38,
       20
-    ],
-    "isOwned": false,
-    "isDontBuy": false
-  },
-  {
-    "id": 16992,
-    "name": "Tsuro",
-    "yearPublished": "2005",
-    "imageUrl": "https://cf.geekdo-images.com/2V3d4ryhxkS3RoPtDrvpUw__original/img/TP5U-O2eujPBK9IVmmifdfkWwdQ\u003d/0x0/filters:format(jpeg)/pic875761.jpg",
-    "minimumNumberOfPlayers": "2",
-    "maximumNumberOfPlayers": "8",
-    "bestNumberOfPlayers": "Best with 4, 6 players",
-    "minimumAge": "8",
-    "linkedGames": [
-      {
-        "id": 191925,
-        "name": "Bandido",
-        "yearPublished": "2016",
-        "imageUrl": "https://cf.geekdo-images.com/3kHEzcYV6QdaFjzWXkBMyQ__original/img/HAfLC_HWpmRAEELun54DRNpCnnw\u003d/0x0/filters:format(jpeg)/pic3118226.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/3kHEzcYV6QdaFjzWXkBMyQ__thumb/img/vjbf859H2KDp-AksdEQdOdSZOQ4\u003d/fit-in/200x150/filters:strip_icc()/pic3118226.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "6",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          9
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
-      },
-      {
-        "id": 1219,
-        "name": "Labyrinth",
-        "yearPublished": "1986",
-        "imageUrl": "https://cf.geekdo-images.com/qpL225YNN5iKRPotB7Q7MA__original/img/5ZGo501PquASeGxpQLBIglcVSYs\u003d/0x0/filters:format(jpeg)/pic6173371.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/qpL225YNN5iKRPotB7Q7MA__thumb/img/JZR5MVC8xYrboBrYMsZmWtjJTu0\u003d/fit-in/200x150/filters:strip_icc()/pic6173371.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 4 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      },
-      {
-        "id": 216439,
-        "name": "Trash Pandas",
-        "yearPublished": "2017",
-        "imageUrl": "https://cf.geekdo-images.com/y4ysd5L5XvfUysv7gkIbdg__original/img/bkxrMNyahRh4pqR2Jj6tgk4rdTU\u003d/0x0/filters:format(jpeg)/pic3989423.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/y4ysd5L5XvfUysv7gkIbdg__thumb/img/7zg5-sdRuVXYS3MB8wyHm40S2to\u003d/fit-in/200x150/filters:strip_icc()/pic3989423.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 3–4 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      }
-    ],
-    "linkedGamesStrengths": [
-      4,
-      7,
-      30
     ],
     "isOwned": false,
     "isDontBuy": false
