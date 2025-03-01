@@ -1,0 +1,430 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="407318">
+         <thumbnail>https://cf.geekdo-images.com/UvdyFCLA0LEddVA7o2gmpg__thumb/img/g7qCqrGZiPh0cdgxN-msWC7WMx0=/fit-in/200x150/filters:strip_icc()/pic7880984.png</thumbnail>
+      <image>https://cf.geekdo-images.com/UvdyFCLA0LEddVA7o2gmpg__original/img/YQiLJxkDjb9k5l6TN1Y_ZzbbDDk=/0x0/filters:format(png)/pic7880984.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Cascadia: Rolling Rivers" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Cascadia: Gördülő folyók" />
+			    				
+				<name type="alternate" sortindex="1" value="Kaskadia: Rzeki" />
+			    				
+				<name type="alternate" sortindex="1" value="卡斯卡迪亚之旅-滚滚河流" />
+			
+						               													<description>Cascadia: Rolling is a series of puzzly flip-and-roll-and-write games featuring the habitats and wildlife of the Pacific Northwest! Simultaneously roll dice, collect wildlife, and complete habitat cards to fill in different environments in Cascadia. Use special actions to manipulate your dice, and dynamic completion cards to unlock powerful combos!&amp;#10;&amp;#10;There are two versions of Cascadia: Rolling. Cascadia: Rolling Rivers features unique content specific to the riverine environments of Cascadia! Each version features unique content - get both versions to play 1-8 players on 8 different maps!:&amp;#10;&amp;#10;&amp;#10;     A Central Special Die that changes the way each round plays out. &amp;#10;     4 Environment Sheets, based on a different region of Cascadia, each with its own special gameplay elements. &amp;#10;     30 Habitat Cards with breathtaking art by Beth Sobel.&amp;#10;     8 Advanced Completion cards for unique ways to combo discounts and bonuses each round!&amp;#10;     A mini-expansion that introduces completely new gameplay elements like end game scoring bonuses and competitive objectives to ramp up the competition!&amp;#10;&amp;#10;&amp;#10;Roll your dice, collect wildlife and Nature Tokens, complete Habitat Cards, and fill in the puzzle on your personal Environment Sheet to create the most harmonious ecosystem in Cascadia! Although the core rules are simple, each unique Environment Sheet has its own twist so no two games of Cascadia: Rolling will play out the same!&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="10">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 1–2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="2">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="0" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="2" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1055" value="American West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1084" value="Environmental" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2039" value="Line Drawing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2900" value="Market" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2965" value="Multiple Maps" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66143" value="Mechanism: Flip-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109040" value="Series: Cascadia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63122" value="Versions &amp; Editions: Roll- or Flip-and-Write Versions of Non-Writing Games" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="427134" value="Cascadia: Rolling Hills – 2024 Big Game Night Promo Environment Sheet Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="425651" value="Cascadia: Rolling Hills – Summits Mini-Expansion" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="425652" value="Cascadia: Rolling Rivers – Forces of Nature Mini-Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="407317" value="Cascadia: Rolling Hills" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="122804" value="Randy Flynn" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="71164" value="Beth Sobel" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42733" value="Flatout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="396" value="Alderac Entertainment Group" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37" value="KOSMOS" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44898" value="Little Rocket Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4932" value="White Goblin Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="832" />
+			<average value="7.30054" />
+			<bayesaverage value="5.98358" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3095" bayesaverage="5.98358" />
+												</ranks>
+
+			<stddev value="1.2396" />
+			<median value="0" />
+			<owned value="4035" />
+			<trading value="31" />
+			<wanting value="46" />
+			<wishing value="441" />
+			<numcomments value="233" />
+			<numweights value="17" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
