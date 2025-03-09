@@ -1,0 +1,1081 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="162886">
+         <thumbnail>https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__thumb/img/aUlIih2_R7P8IYKeyNl2heLQbu8=/fit-in/200x150/filters:strip_icc()/pic7013651.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/kjCm4ZvPjIZxS-mYgSPy1g__original/img/9uLd9C3XAvInLCLhAoXqKVk56zs=/0x0/filters:format(jpeg)/pic7013651.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Spirit Island" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Duchové ostrova" />
+			    				
+				<name type="alternate" sortindex="1" value="Szellemek Szigete" />
+			    				
+				<name type="alternate" sortindex="1" value="Острів духів" />
+			    				
+				<name type="alternate" sortindex="1" value="Остров духов" />
+			    				
+				<name type="alternate" sortindex="1" value="เกาะภูติพิทักษ์" />
+			    				
+				<name type="alternate" sortindex="1" value="スピリット・アイランド" />
+			    				
+				<name type="alternate" sortindex="1" value="灵迹岛" />
+			    				
+				<name type="alternate" sortindex="1" value="정령섬" />
+			
+						               													<description>In the most distant reaches of the world, magic still exists, embodied by spirits of the land, of the sky, and of every natural thing. As the great powers of Europe stretch their colonial empires further and further, they will inevitably lay claim to a place where spirits still hold power - and when they do, the land itself will fight back alongside the islanders who live there.&amp;#10;&amp;#10;Spirit Island is a complex and thematic co-operative game about defending your island home from colonizing Invaders. Players are different spirits of the land, each with its own unique elemental powers. Every turn, players simultaneously choose which of their power cards to play, paying energy to do so. Using combinations of power cards that match a spirit's elemental affinities can grant free bonus effects. Faster powers take effect immediately, before the Invaders spread and ravage, but other magics are slower, requiring forethought and planning to use effectively. In the Spirit phase, spirits gain energy, and choose how / whether to Grow: to reclaim used power cards, to seek new power, or to spread their presence into new areas of the island.&amp;#10;&amp;#10;The Invaders expand across the island map in a semi-predictable fashion. Each turn they explore into some lands (portions of the island); the next turn, they build in those lands, forming towns and cities. The turn after that, they ravage there, bringing blight to the land and attacking any native islanders present. The islanders fight back against the Invaders when attacked, and lend the spirits some other aid, but may not always do so exactly as you'd hoped. Some Powers work through the islanders, helping them, for example, to drive out the Invaders or clean the land of blight.&amp;#10;&amp;#10;The game escalates as it progresses: spirits spread their presence to new parts of the island and seek out new and more potent powers, while the Invaders step up their colonization efforts. Each turn represents 1-3 years of alternate history. At game start, winning requires destroying every last explorer, town and city on the board - but as you frighten the Invaders more and more, victory becomes easier: they'll run away even if explorers or even towns and cities remain. Defeat comes if any spirit is destroyed, if the island is overrun by blight, or if the Invader deck is depleted before achieving victory.&amp;#10;&amp;#10;The game includes different adversaries to fight against (eg., a Swedish Mining Colony, or a Remote British Colony). Each changes play in different ways, and offers a different path of difficulty boosts to keep the game challenging as you gain skill.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2017" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="1930">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="505" />
+					<result value="Recommended" numvotes="1012" />
+					<result value="Not Recommended" numvotes="112" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="1262" />
+					<result value="Recommended" numvotes="513" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="578" />
+					<result value="Recommended" numvotes="909" />
+					<result value="Not Recommended" numvotes="101" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="156" />
+					<result value="Recommended" numvotes="738" />
+					<result value="Not Recommended" numvotes="597" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="16" />
+					<result value="Recommended" numvotes="126" />
+					<result value="Not Recommended" numvotes="971" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="120" />
+						               				<minplaytime value="90" />
+						               				<maxplaytime value="120" />
+						               				<minage value="13" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="311">
+			<results>		
+					<result value="2" numvotes="1" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="24" />
+					<result value="12" numvotes="84" />
+					<result value="14" numvotes="149" />
+					<result value="16" numvotes="46" />
+					<result value="18" numvotes="1" />
+					<result value="21 and up" numvotes="1" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="84">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="9" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="60" />
+					<result level="5" value="Unplayable in another language" numvotes="15" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1084" value="Environmental" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1010" value="Fantasy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1046" value="Fighting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1082" value="Mythology" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1086" value="Territory Building" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2839" value="Action Retrieval" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2080" value="Area Majority / Influence" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2903" value="Automatic Resource Growth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2018" value="Campaign / Battle Card Driven" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3100" value="Tags" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77906" value="Category: Dized Tutorial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66553" value="Components: Control Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="25158" value="Components: Miniatures" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62884" value="Components: Official Music Soundtrack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78432" value="Digital Implementations: Google Play" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="46174" value="Game: Spirit Island" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="79690" value="Islands: Fictional" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21622" value="Theme: Colonial" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="18319" value="Theme: Tropical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="51732" value="Theme: Tropical Islands" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="401141" value="Spirit Island: Bodenloser Schlamm der Sümpfe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="193065" value="Spirit Island: Branch &amp; Claw" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="245664" value="Spirit Island: Champions of the Dahan Token Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="244827" value="Spirit Island: Expansion Playmat" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="356510" value="Spirit Island: Feather &amp; Flame" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="346618" value="Spirit Island: Finder unsichtbarer Wege" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="262722" value="Spirit Island: Jagged Earth" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="378849" value="Spirit Island: Nation Schottland, Szenarien und Kartenerweiterung Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="365137" value="Spirit Island: Nature Incarnate" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="232394" value="Spirit Island: Promo Pack 1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="263778" value="Spirit Island: Promo Pack 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="292800" value="Spirit Island: Seele des Flächenbrands" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="401144" value="Spirit Island: Sonnenheller Wirbelwind" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="368827" value="Spirit Island: Sturzregen durchnässt die Welt" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="275756" value="Spirit Island: Unter der Insel schlummernde Schlange" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="401139" value="Spirit Island: Unterirdisch lauernde Reißzähne" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="401140" value="Spirit Island: Wachende Augen in Bäumen" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="401143" value="Spirit Island: Zunehmende Hitze in Stein und Sand" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="273036" value="Spirit Island: Basically Wooden Organiser" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="434378" value="Spirit Island: Branch &amp; Claw – Polandgames Token Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="372965" value="Spirit Island: Branch and Claw – Premium Foil Spirit Panels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="314281" value="Spirit Island: Broken Token Game Crate" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="314280" value="Spirit Island: Broken Token Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="356604" value="Spirit Island: Deluxe Invader Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="309476" value="Spirit Island: e-Raptor Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271287" value="Spirit Island: Errata Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="372971" value="Spirit Island: Feather and Flame – Premium Foil Spirit Panels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="268243" value="Spirit Island: Folded Space Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="326361" value="Spirit Island: Folded Space Insert (Second edition)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="439515" value="Spirit Island: InMyBox Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271950" value="Spirit Island: Insert Here Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="434379" value="Spirit Island: Jagged Earth – Polandgames Token Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="372968" value="Spirit Island: Jagged Earth – Premium Foil Spirit Panels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="367225" value="Spirit Island: Laserox Crate" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="344501" value="Spirit Island: Laserox Spirit Expansion Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="344500" value="Spirit Island: Laserox Spirit Organizer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="399366" value="Spirit Island: Moedas &amp; Co. Metal Coins and Token Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="372975" value="Spirit Island: Nature Incarnate – Premium Foil Spirit Panels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="434377" value="Spirit Island: Polandgames Token Set" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="372964" value="Spirit Island: Premium Foil Spirit Panels" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271283" value="Spirit Island: Premium Token Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="374891" value="Spirit Island: Premium Token Pack 2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="401879" value="Spirit Island: Schatzkiste" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="382563" value="Spirit Island: Sloyca Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="289436" value="Spirit Island: Spirit Energy Tokens (32 tokens)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="300708" value="Spirit Island: Spirit Guide" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="348652" value="Spirit Island: The GiftForge Insert" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="271394" value="Spirit Island: Tower Rex Organizer" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="367498" value="Horizons of Spirit Island" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="16615" value="R. Eric Reuss" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="19565" value="Jason Behnke" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="88873" value="Loïc Berger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="11462" value="Loïc Billiau" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="86024" value="Kat G Birmelin" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="97260" value="Cari Corene" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="73895" value="Lucas Durham" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="85924" value="Rocky Hammer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="85925" value="Sydni Kruger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="60615" value="Nolan Nasser" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="81097" value="Jorge Ramos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="50243" value="Adam Rebottaro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="85926" value="Moro Rogers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="58547" value="Graham Sternberg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="47197" value="Shane Tyree" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74441" value="Joshua Wright (I)" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17543" value="Greater Than Games, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28062" value="Ace Studios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36401" value="Arrakis Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25074" value="BoardM Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39390" value="Engames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50454" value="Fabled Nexus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33710" value="Fox in the Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48438" value="Games7Days" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5380" value="Intrafin Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5812" value="Lacerta" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30552" value="One Moment Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21053" value="REXhry" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33998" value="Siam Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="56162" />
+			<average value="8.33911" />
+			<bayesaverage value="8.14114" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="10" bayesaverage="8.14114" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="10" bayesaverage="8.12297" />
+												</ranks>
+
+			<stddev value="1.51795" />
+			<median value="0" />
+			<owned value="85868" />
+			<trading value="636" />
+			<wanting value="1783" />
+			<wishing value="23024" />
+			<numcomments value="8692" />
+			<numweights value="3062" />
+			<averageweight value="4.0722" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
