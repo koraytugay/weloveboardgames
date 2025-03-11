@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="305682">
+         <thumbnail>https://cf.geekdo-images.com/5TZ5YfDo_r9vNNvWTl_pzw__thumb/img/oKM1pAH4fCa7LCNluCqr9qNOq4M=/fit-in/200x150/filters:strip_icc()/pic6313647.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/5TZ5YfDo_r9vNNvWTl_pzw__original/img/YxcHzKCiiRq68K7Fd3qsUp-xhaE=/0x0/filters:format(jpeg)/pic6313647.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Rolling Realms" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Gördülő Birodalmak" />
+			    				
+				<name type="alternate" sortindex="1" value="Gördülő Birodalmak" />
+			    				
+				<name type="alternate" sortindex="1" value="Reinos Rodados" />
+			    				
+				<name type="alternate" sortindex="1" value="Würfelwelten" />
+			    				
+				<name type="alternate" sortindex="1" value="Грани миров" />
+			    				
+				<name type="alternate" sortindex="1" value="롤링 렐름" />
+			
+						               													<description>In the early days of the coronavirus, a time of self-isolation for many people, Jamey decided to create an infinitely scaling roll-and-write game to teach and play with people around the world via Facebook Live.&amp;#10;&amp;#10;In Rolling Realms, players compete to earn the most stars in a series of minigames over 3 rounds. This is a roll-and-write game, meaning that players will write on the game components using dry-erase markers.&amp;#10;&amp;#10;Each turn, one player rolls 2 dice, and all players use the dice results on their realm cards to generate resources and earn stars. After 3 rounds, the player with the most stars wins!&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2021" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="68">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="44" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="36" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="14" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="22" />
+					<result value="Not Recommended" numvotes="10" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 1–2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–6+ players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="16">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="7" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="3" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2999" value="Bingo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63161" value="Components: Dry Erase Markers / Dry Erase Surfaces" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="77349" value="Digital Implementations: Steam" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41222" value="Mechanism: Roll-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="58901" value="Misc: Self-Referential Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="72487" value="Organizations: Automa Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61999" value="Theme: Boardgaming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="371096" value="Rolling Realms: A Feast For Odin Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="402710" value="Rolling Realms: Apiary Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="375747" value="Rolling Realms: Architects of the West Kingdom Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="375755" value="Rolling Realms: Ark Nova Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="388378" value="Rolling Realms: Beyond the Realmiverse" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="383194" value="Rolling Realms: Biddy &amp; Walter Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="407524" value="Rolling Realms: Boonlake Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="428187" value="Rolling Realms: Brass Birmingham Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="407525" value="Rolling Realms: Can&#039;t Stop Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="413476" value="Rolling Realms: Crusaders Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="420094" value="Rolling Realms: Dice Throne Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="425426" value="Rolling Realms: Dinosaur Island Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="420096" value="Rolling Realms: Eminent Domain Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="379642" value="Rolling Realms: Expedition Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="437819" value="Rolling Realms: Finspan Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="407526" value="Rolling Realms: Fleet – The Dice Game Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="428188" value="Rolling Realms: Genotype Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="402707" value="Rolling Realms: Gùgōng Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="407527" value="Rolling Realms: Hokkaido Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="371097" value="Rolling Realms: Honey Buzz Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="358255" value="Rolling Realms: Libertalia Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="397211" value="Rolling Realms: Lost Ruins of Arnak Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="375757" value="Rolling Realms: Micro Dojo Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="397213" value="Rolling Realms: Millennium Blades Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="383195" value="Rolling Realms: Minigolf Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="425424" value="Rolling Realms: Momiji Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="413477" value="Rolling Realms: Obsession Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="402708" value="Rolling Realms: Onirim Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="388379" value="Rolling Realms: Parks Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="407528" value="Rolling Realms: Potion Explosion Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="407529" value="Rolling Realms: Praga Caput Regni Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="397214" value="Rolling Realms: Risky Rewards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="397212" value="Rolling Realms: Roll Player Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="354212" value="Rolling Realms: Rolling Realms Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="407530" value="Rolling Realms: Skoventyr Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="388380" value="Rolling Realms: Skulk Hollow Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="402709" value="Rolling Realms: Sleeping Gods Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="371098" value="Rolling Realms: Smitten Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="425425" value="Rolling Realms: Space Base Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="428189" value="Rolling Realms: Stamp Swap Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="349155" value="Rolling Realms: Terra Mystica Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="420095" value="Rolling Realms: Terraforming Mars Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="383196" value="Rolling Realms: The Isle Of Cats Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="388381" value="Rolling Realms: Trickerion Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="407531" value="Rolling Realms: Underwater Cities Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="413478" value="Rolling Realms: Wyrmspan Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="403527" value="Würfelwelten: Promo-Pack" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="360255" value="Rolling Realms: 35mm Epic Dice (Pair of 2)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="393892" value="Rolling Realms Redux" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="62640" value="Jamey Stegmaier" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="133349" value="Miles Bensky" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="137729" value="Marius Petrescu" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23202" value="Stonemaier Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46544" value="Dice Realm" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="22380" value="Feuerland Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34801" value="Lavka Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4439" />
+			<average value="7.13527" />
+			<bayesaverage value="6.57747" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1085" bayesaverage="6.57747" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="286" bayesaverage="6.69921" />
+												</ranks>
+
+			<stddev value="1.28665" />
+			<median value="0" />
+			<owned value="10829" />
+			<trading value="186" />
+			<wanting value="107" />
+			<wishing value="1076" />
+			<numcomments value="794" />
+			<numweights value="102" />
+			<averageweight value="1.9608" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
