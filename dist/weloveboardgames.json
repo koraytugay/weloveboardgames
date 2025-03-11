@@ -9940,60 +9940,6 @@
     "isDontBuy": false
   },
   {
-    "id": 352697,
-    "name": "Resist!",
-    "yearPublished": "2022",
-    "imageUrl": "https://cf.geekdo-images.com/ICDi4yEj-mbEcx9QkW7_3A__original/img/Vj4VOFt3tsS07apDHfDqDfO4IMI\u003d/0x0/filters:format(jpeg)/pic6711822.jpg",
-    "minimumNumberOfPlayers": "1",
-    "maximumNumberOfPlayers": "1",
-    "bestNumberOfPlayers": "Best with 1 players",
-    "minimumAge": "10",
-    "linkedGames": [
-      {
-        "id": 342562,
-        "name": "ROVE: Results-Oriented Versatile Explorer",
-        "yearPublished": "2021",
-        "imageUrl": "https://cf.geekdo-images.com/-BTMmbHaR16DRt0OEh5arA__original/img/COMPKUG73b0TGpzmtES2Rl8PmCk\u003d/0x0/filters:format(png)/pic6494257.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/-BTMmbHaR16DRt0OEh5arA__thumb/img/TVgsZurNXBPCHcx73pMRtfJMsXY\u003d/fit-in/200x150/filters:strip_icc()/pic6494257.png",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "1",
-        "bestNumberOfPlayers": "Best with 1 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          20
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
-      },
-      {
-        "id": 257614,
-        "name": "Tussie Mussie",
-        "yearPublished": "2019",
-        "imageUrl": "https://cf.geekdo-images.com/bOTxzLrmwptfbAre3JnS3w__original/img/jLs695KU9eJ9iZHiILRMty52Upk\u003d/0x0/filters:format(png)/pic5456717.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/bOTxzLrmwptfbAre3JnS3w__thumb/img/IrDl-OdPhX04kz6oNGcl-FzRivw\u003d/fit-in/200x150/filters:strip_icc()/pic5456717.png",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          43
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      }
-    ],
-    "linkedGamesStrengths": [
-      48,
-      49
-    ],
-    "isOwned": false,
-    "isDontBuy": false
-  },
-  {
     "id": 328565,
     "name": "Caper: Europe",
     "yearPublished": "2022",
