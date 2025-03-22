@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="251412">
+         <thumbnail>https://cf.geekdo-images.com/EGpkuw3B0B708kurJe7XRw__thumb/img/4YtDxVNAdVZ_fS2A4uqwX73J9U4=/fit-in/200x150/filters:strip_icc()/pic6973178.png</thumbnail>
+      <image>https://cf.geekdo-images.com/EGpkuw3B0B708kurJe7XRw__original/img/xc5MgtTmc0cOO6oBEn6HrDGeCX8=/0x0/filters:format(png)/pic6973178.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="On Tour" />
+			
+						                           
+						               													<description>You're living the dream. You're in a band and they&amp;rsquo;re about to go on tour. It's your job to schedule the band's stops over your 100-day tour, visiting as many states as possible.&amp;#10;&amp;#10;Each turn in On Tour, two ten-sided dice are rolled to make two two-digit numbers. For example, a roll of 3 and 7 creates the numbers 37 and 73. All players write each of those numbers in a state on their map. The regions they can write in are restricted by three cards turned up in the middle of the table.&amp;#10;&amp;#10;At the end of the game, each player draws a route on their map, starting with a low number and visiting adjacent states with higher and higher numbers. Players get a point for every state they visit.&amp;#10;&amp;#10;There are also some bonus points available, a way to get wilds, and a variable set-up step that makes every game different.&amp;#10;&amp;#10;Note: The second edition supports 8 players out of the box and the map boards are double sided featuring the US map on one side (the one from the first edition) and On Tour: European Expansion of the other side.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="71">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="22" />
+					<result value="Recommended" numvotes="39" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="20" />
+					<result value="Recommended" numvotes="38" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="31" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="25" />
+					<result value="Not Recommended" numvotes="11" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="11" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2, 4 players" />
+  <result name="recommmendedwith" value="Recommended with 1–8+ players" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="7" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="22">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="5" />
+					<result value="8" numvotes="10" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="36" value="No necessary in-game text" numvotes="10" />
+					<result level="37" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="38" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="39" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="40" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1054" value="Music" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1097" value="Travel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2999" value="Bingo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2039" value="Line Drawing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2661" value="Push Your Luck" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2020" value="Simultaneous Action Selection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66140" value="Components: Polyhedral (not D6) dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="50153" value="Continents: Europe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14835" value="Country: USA" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41222" value="Mechanism: Roll-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="28718" value="Theme: Music Making &amp; Makers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="300075" value="On Tour: European Expansion" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="297608" value="On Tour: Extra Player Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="371834" value="On Tour: Rock Star Dice" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="360706" value="On Tour: Paris and New York" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="108731" value="Chad DeShon" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="108732" value="Anca Gavril" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39164" value="BoardGameTables.com" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5550" />
+			<average value="6.85158" />
+			<bayesaverage value="6.45092" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1369" bayesaverage="6.45092" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="417" bayesaverage="6.53943" />
+												</ranks>
+
+			<stddev value="1.33105" />
+			<median value="0" />
+			<owned value="8675" />
+			<trading value="215" />
+			<wanting value="189" />
+			<wishing value="1644" />
+			<numcomments value="1170" />
+			<numweights value="100" />
+			<averageweight value="1.39" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

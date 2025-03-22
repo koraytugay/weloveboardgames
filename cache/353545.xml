@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="353545">
+         <thumbnail>https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__thumb/img/Zjg7k92wAJyj9q4KWORbnWBSStI=/fit-in/200x150/filters:strip_icc()/pic6622999.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__original/img/z7oBkzeFcQLFBlYB5GGO0FFRJ5g=/0x0/filters:format(jpeg)/pic6622999.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Next Station: London" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Következő megálló: London" />
+			    				
+				<name type="alternate" sortindex="1" value="Następna stacja: Londyn" />
+			    				
+				<name type="alternate" sortindex="1" value="Příští stanice Londýn" />
+			    				
+				<name type="alternate" sortindex="1" value="Próxima Estação: Londres" />
+			    				
+				<name type="alternate" sortindex="1" value="Próxima Estacion: Londres" />
+			    				
+				<name type="alternate" sortindex="1" value="Наступна станція Лондон" />
+			    				
+				<name type="alternate" sortindex="1" value="Следующая станция: Лондон" />
+			    				
+				<name type="alternate" sortindex="1" value="下一站 倫敦" />
+			    				
+				<name type="alternate" sortindex="1" value="넥스트스테이션: 런던" />
+			
+						               													<description>The city of London has commissioned you to redesign its underground network! Optimise connections, serve as many sights as possible and exploit the tunnels that pass under the Thames. Be careful to respect the specifications set by the city.&amp;#10;&amp;#10;&amp;#10;     Reveal the next Station card.&amp;#10;     Draw a new section&amp;#10;     Optimise the 4 tube lines&amp;#10;&amp;#10;&amp;#10;Who will be the best project manager?&amp;#10;&amp;#10;Which of you will be the best project manager?&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="99">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="24" />
+					<result value="Recommended" numvotes="42" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="54" />
+					<result value="Recommended" numvotes="33" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="37" />
+					<result value="Recommended" numvotes="34" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="50" />
+					<result value="Recommended" numvotes="23" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="32" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2–4 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="25" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="26">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="5" />
+					<result value="8" numvotes="12" />
+					<result value="10" numvotes="9" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="11">
+			
+		<results>		
+					<result level="61" value="No necessary in-game text" numvotes="11" />
+					<result level="62" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="63" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="64" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="65" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2039" value="Line Drawing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17446" value="Cities: London (England, UK)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66143" value="Mechanism: Flip-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="99694" value="Series: Next Station (Blue Orange)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="372324" value="Next Station: London – Open Day" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="427103" value="Next Station: London – LaserLand dry erase boards + pens" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="403116" value="Next Station: Paris" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="380165" value="Next Station: Tokyo" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="69007" value="Matthew Dunstan" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="128606" value="Maxime Morin" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5022" value="Blue Orange (EU)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="491" value="Blue Orange Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44144" value="Buró" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36981" value="Feelindigo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33618" value="Fractal Juegos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18021" value="HCM Kinzel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33626" value="Lucky Duck Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38392" value="MEBO Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46431" value="MTS Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="32581" value="PaperGames (III)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33998" value="Siam Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5930" />
+			<average value="7.44109" />
+			<bayesaverage value="6.89861" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="594" bayesaverage="6.89861" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="126" bayesaverage="7.02374" />
+												</ranks>
+
+			<stddev value="1.11077" />
+			<median value="0" />
+			<owned value="10582" />
+			<trading value="53" />
+			<wanting value="136" />
+			<wishing value="1363" />
+			<numcomments value="734" />
+			<numweights value="147" />
+			<averageweight value="1.4626" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

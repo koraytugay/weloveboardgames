@@ -1,0 +1,459 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="415147">
+         <thumbnail>https://cf.geekdo-images.com/u94yxoPLSFHaVUaFQ5Rigg__thumb/img/3P40v8VuHA4P9RH8TBnjlKJyvLU=/fit-in/200x150/filters:strip_icc()/pic8046770.png</thumbnail>
+      <image>https://cf.geekdo-images.com/u94yxoPLSFHaVUaFQ5Rigg__original/img/Kj43C2Ob4ZK1FgMwgIoG7T58Qcs=/0x0/filters:format(png)/pic8046770.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Spectacular" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Заповедник: Исчезающие виды" />
+			    				
+				<name type="alternate" sortindex="1" value="스펙타큘러" />
+			
+						               													<description>In Spectacular, you are creating and developing your own animal park for vulnerable species. In order to preserve the species, you must ensure breeding within each habitat.&amp;#10;&amp;#10;During the game, you select animal tiles and dice, where the dice represent food for the animals. The color of the dice must match the habitat color of the animal tiles. Each turn provides crucial decision-making where you need to consider whether to draft a die of a certain value or ensure an animal tile which may not be available again.&amp;#10;&amp;#10;At game end, for each area of connected tiles of the same habitat, you score points for the sum of your dice of that color. However, points are only awarded if dice values of 1 or 2 are placed on certain &amp;ldquo;family&amp;rdquo; tiles within the habitat! Over the course of the game, you will also build watchtowers, which will score you points for all three dice adjacent to them. To make your park even more spectacular, you also aim to collect as many different species as possible, with increasing points awarded for greater variety. Finally, the player with the most points wins the game.&amp;#10;&amp;#10;After a few plays, you may challenge yourself by playing with three (of 18) mission tiles. While they offer the potential for a higher score, they also raise the difficulty level of the puzzle.&amp;#10;&amp;#10;Spectacular provides simultaneous play and ensures interaction between the players, as your opponents&amp;rsquo; decisions will affect which tiles and dice are available for you. The game also comes with asymmetric player boards (on their backs).&amp;#10;&amp;#10;Spectacular offers simple rules, quick set-up, short playing time, engaging puzzles, and can be played by 1 to 6 players with little downtime, even with higher player count.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="27">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="8" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="12" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–6 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="3">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="3" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1028" value="Puzzle" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2026" value="Hexagon Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7543" value="Animals: Alligators / Crocodiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7178" value="Animals: Apes / Monkeys" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="45672" value="Animals: Birds" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17634" value="Animals: Dolphins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6979" value="Animals: Elephants" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7544" value="Animals: Foxes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17170" value="Animals: Giraffes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7834" value="Animals: Lions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="20718" value="Animals: Pandas" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7488" value="Animals: Penguins" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7972" value="Animals: Tigers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="7366" value="Animals: Turtles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67874" value="Components: Hexagonal Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76250" value="Theme: Environmental Protection / Degradation / Pollution" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="76846" value="Theme: Zoos, Aquaria, Safari Parks" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9637" value="Eilif Svensson" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="134281" value="Åsmund Svensson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="76491" value="Gjermund Bohne" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46761" value="Chilifox Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34522" value="CrowD Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30155" value="GateOnGames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47476" value="Geronimo Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50478" value="Ludofun" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="55187" value="Old Dawg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45845" value="Strohmann Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30091" value="Tranjis Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50075" value="Yellowstar Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="825" />
+			<average value="7.31372" />
+			<bayesaverage value="5.99786" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3024" bayesaverage="5.99786" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="77" bayesaverage="6.63787" />
+											<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1336" bayesaverage="6.13415" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="890" bayesaverage="6.1479" />
+												</ranks>
+
+			<stddev value="1.19685" />
+			<median value="0" />
+			<owned value="1493" />
+			<trading value="19" />
+			<wanting value="218" />
+			<wishing value="1441" />
+			<numcomments value="179" />
+			<numweights value="21" />
+			<averageweight value="2.2381" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

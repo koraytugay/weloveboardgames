@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="403116">
+         <thumbnail>https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__thumb/img/3pZrQZwUS8_Y6q-Y1UBrYRY0hS8=/fit-in/200x150/filters:strip_icc()/pic8049686.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__original/img/9VQ5zrxaNZ1CvOHbR6bq0v8BpjI=/0x0/filters:format(jpeg)/pic8049686.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Next Station: Paris" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Következő megálló: Párizs" />
+			    				
+				<name type="alternate" sortindex="1" value="Příští stanice: Paříž" />
+			    				
+				<name type="alternate" sortindex="1" value="Próxima Estação: Paris" />
+			    				
+				<name type="alternate" sortindex="1" value="Próxima Estacion: Paris" />
+			    				
+				<name type="alternate" sortindex="1" value="下一站：巴黎" />
+			    				
+				<name type="alternate" sortindex="1" value="넥스트스테이션: 파리" />
+			
+						               													<description>Next Station Paris&amp;#10;&amp;#10;As the 2024 Summer Olympic games begin, purchase your metro ticket and join us in Paris... the new addition to our Next Station series welcomes you to the City of Light! Next Station Paris combines familiar play elements found in Next Station London and Next Station Tokyo while also offering additional twists. Players will continue to flip station cards and draw subway lines on their maps, but now they will need to utilize bridge crossings, visit the French capital's iconic monuments, all while taking advantage of the central platform, the busiest station on the network! Who will be the best designer of the Parisian metro? Optimize your four sketched subway lines over all Paris districts in order to win!&amp;#10;&amp;#10;Contents:&amp;#10;&amp;#10;200 Sheets Scorepad&amp;#10;24 Cards&amp;#10;4 Color Pencils&amp;#10;Illustrated Rules&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="25" />
+						               				<maxplaytime value="30" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="4">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="3">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="3" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1029" value="City Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2999" value="Bingo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2883" value="Connections" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2039" value="Line Drawing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="22783" value="Admin: Better Description Needed!" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="17520" value="Cities: Paris (France)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66143" value="Mechanism: Flip-and-Write" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="99694" value="Series: Next Station (Blue Orange)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="420869" value="Next Station: Paris – Sports" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="353545" value="Next Station: London" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="380165" value="Next Station: Tokyo" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="69007" value="Matthew Dunstan" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="128606" value="Maxime Morin" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5022" value="Blue Orange (EU)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="491" value="Blue Orange Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33618" value="Fractal Juegos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18021" value="HCM Kinzel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38392" value="MEBO Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46431" value="MTS Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1040" />
+			<average value="7.3234" />
+			<bayesaverage value="6.09191" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2562" bayesaverage="6.09191" />
+												</ranks>
+
+			<stddev value="1.11576" />
+			<median value="0" />
+			<owned value="1890" />
+			<trading value="5" />
+			<wanting value="26" />
+			<wishing value="262" />
+			<numcomments value="141" />
+			<numweights value="26" />
+			<averageweight value="1.7308" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

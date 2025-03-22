@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="352418">
+         <thumbnail>https://cf.geekdo-images.com/IeFNM8pY6qBIMRONuJ9Irg__thumb/img/uRBbKObz0E1-7K0o-ZulmLC1ayk=/fit-in/200x150/filters:strip_icc()/pic7318155.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/IeFNM8pY6qBIMRONuJ9Irg__original/img/VovCirukPgK3modEBZx-f1tMsD8=/0x0/filters:format(jpeg)/pic7318155.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Fliptown" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Покертаун" />
+			    				
+				<name type="alternate" sortindex="1" value="勇闯牌皇镇" />
+			    				
+				<name type="alternate" sortindex="1" value="플립타운" />
+			
+						               													<description>Fliptown is a flip-and-write game in which you are trying to earn stars by exploring a wild west town. The game uses a standard poker deck to drive an open world-style of game play, along with dry erase boards that serve as each player's map.&amp;#10;&amp;#10;Each turn, flip over three cards, assigning one card to represent your suit, one card to represent your value, and one card to represent your poker card. The suit dictates which of four regions you activate, the value dictates which site within that region you get to circle, and the poker card goes toward a five-card poker hand that is resolved at the end of each round. Each of the four regions &amp;mdash; Trail, Badlands, Mine, and Town &amp;mdash; offers a different puzzle to master, while each site within a region provides a unique reward such as cash, gold, helpful items like guns, horses and tools, or bonus actions to create powerful combinations.&amp;#10;&amp;#10;For solo play, you can play to achieve a high score or compete against one of four &amp;quot;cowbot&amp;quot; robot opponents, each with its own motivation.&amp;#10;&amp;#10;For multiplayer play, players use &amp;quot;community cards&amp;quot; in the center of play, with players resolving each turn simultaneously. Additionally, bounty cards add competitive goals that players are racing to achieve.&amp;#10;&amp;#10;In addition to the standard game, you can play as one of 14 wild west characters. Each character has a unique set of starting resources and a unique special ability.&amp;#10;&amp;#10;&amp;mdash;description from designer&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="46">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="19" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="18" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 1 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="7">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="5">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="4" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1055" value="American West" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2055" value="Paper-and-Pencil" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2849" value="Tech Trees / Tech Tracks" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="98" value="Components: Traditional Playing Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66143" value="Mechanism: Flip-and-Write" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="425027" value="Fliptown: The Lone Gun" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="371806" value="Fliptown: The Outskirts – Mini-Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="73472" value="Steven Aramini" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="109189" value="Naomi Ferrall" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50464" value="Write Stuff Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="52210" value="Bad Boom Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38209" value="Gameland 游戏大陆" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="55324" value="HIT Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34801" value="Lavka Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44349" value="Mosaico Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="55187" value="Old Dawg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45845" value="Strohmann Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1749" />
+			<average value="7.76496" />
+			<bayesaverage value="6.49086" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1271" bayesaverage="6.49086" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="656" bayesaverage="6.66347" />
+												</ranks>
+
+			<stddev value="1.07158" />
+			<median value="0" />
+			<owned value="4312" />
+			<trading value="34" />
+			<wanting value="237" />
+			<wishing value="1504" />
+			<numcomments value="388" />
+			<numweights value="48" />
+			<averageweight value="2.4167" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
