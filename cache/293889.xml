@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="293889">
+         <thumbnail>https://cf.geekdo-images.com/JgTKT2j61ctBjhtzg_vZ-A__thumb/img/eW0qcRRQV9ho86Pl8aUDr8Hrxyc=/fit-in/200x150/filters:strip_icc()/pic5055378.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/JgTKT2j61ctBjhtzg_vZ-A__original/img/3KP-OIw2Sv1oqNXyXNYnHZafcng=/0x0/filters:format(jpeg)/pic5055378.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Fallout Shelter: The Board Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Fallout Shelter: A társasjáték" />
+			    				
+				<name type="alternate" sortindex="1" value="Fallout Shelter: Das Brettspiel" />
+			    				
+				<name type="alternate" sortindex="1" value="Fallout Shelter: Desková hra" />
+			    				
+				<name type="alternate" sortindex="1" value="Fallout Shelter: El Juego de Tablero" />
+			    				
+				<name type="alternate" sortindex="1" value="Fallout Shelter: Gra planszowa" />
+			    				
+				<name type="alternate" sortindex="1" value="Fallout Shelter: Il Gioco da Tavolo" />
+			    				
+				<name type="alternate" sortindex="1" value="Fallout Shelter: le jeu de plateau" />
+			    				
+				<name type="alternate" sortindex="1" value="Fallout Shelter: Настольная игра" />
+			    				
+				<name type="alternate" sortindex="1" value="ฟอลเอาท์ เชลเตอร์" />
+			    				
+				<name type="alternate" sortindex="1" value="フォールアウト：シェルター ボードゲーム" />
+			
+						               													<description>Build a better future underground in Fallout Shelter: The Board Game, a post-nuclear worker-placement board game for two to four players. Based on the hit mobile game from Bethesda Softworks, Fallout Shelter sees you take on the role of a vault officer fostering happiness among the citizens of your vault. With the election of a new Overseer looming, the officer who can gain the most happiness among the dwellers is sure to lock up the election and attain victory.&amp;#10;&amp;#10;As an officer, you'll have to direct your dwellers to where they'll spend their time in the vault, whether it's spending some time relaxing in the lounge, gathering vital resources like food in the community gardens, or battling a radroach infestation in the game room. The choice is always yours, but remember, you'll have to balance happiness and efficiency to lead your people to a brighter future underground!&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="57">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="29" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="31" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="12" />
+					<result value="Recommended" numvotes="24" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="25" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="18">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="3" />
+					<result value="10" numvotes="12" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="0" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="8" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1101" value="Video Game Theme" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3001" value="Layering" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2011" value="Modular Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2829" value="Turn Order: Claim Action" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2082" value="Worker Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2933" value="Worker Placement, Different Worker Types" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65206" value="Components: Transparent Elements" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109935" value="Containers: Tin/Metal Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="43107" value="Game: Fallout" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="41799" value="Theme: Post-Apocalyptic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71573" value="Theme: Retro" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="293932" value="Fallout Shelter: Game Mat" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="94053" value="Andrew Fischer" />
+		
+									
+			
+
+			      			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17" value="Fantasy Flight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6194" value="Delta Vision Publishing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33998" value="Siam Board Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3731" />
+			<average value="7.2321" />
+			<bayesaverage value="6.54417" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1158" bayesaverage="6.54417" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="319" bayesaverage="6.66096" />
+												</ranks>
+
+			<stddev value="1.14053" />
+			<median value="0" />
+			<owned value="7412" />
+			<trading value="81" />
+			<wanting value="227" />
+			<wishing value="1593" />
+			<numcomments value="593" />
+			<numweights value="97" />
+			<averageweight value="2.0309" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
