@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="367662">
+         <thumbnail>https://cf.geekdo-images.com/jAzKc8Wj3lZIey9_XfKCaQ__thumb/img/SWcrs1VAAFxeeD-NXjG5RJ9oDC4=/fit-in/200x150/filters:strip_icc()/pic7648379.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/jAzKc8Wj3lZIey9_XfKCaQ__original/img/X86GAnuJybpFYkYX3-5EyZh0CL8=/0x0/filters:format(jpeg)/pic7648379.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Applejack" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="애플잭" />
+			
+						               													<description>A clever tile placement game by Uwe Rosenberg&amp;#10;&amp;#10;A wide orchard lies in front of Applejack's cottage. &amp;#10;Help him and his daughter plant apple trees and harvest the juicy apples. Don't forget to set up the beehives between the trees. Because at the end of this game, whoever gets the most honey wins!&amp;#10;&amp;#10;On their turn players choose 1 tree tile from the harvest board in the middle of the table. This tile shows a combination of types of apples and apple blossoms as well as beehives. The beehives show the cost for the tile in honey.&amp;#10;&amp;#10;The tree tile will be placed on the players orchard. The beehives need to be placed next to other beehives on tiles already in play in order to get the players honey tiles.&amp;#10;&amp;#10;When the Applejack die on the harvest board comes across an apple icon this type of apple will be harvested - again gaining the players honey tokens. But only if they arranged the apples in a meaningful way.&amp;#10;&amp;#10;After 19 turns each players orchard is filled and the final scoring takes place. Apples, apple blossoms and collected honey will be scored. Whoever has the highest score will win a game of Applejack!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="36">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="23" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="20" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="2" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="18" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="17">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="11" />
+					<result value="10" numvotes="5" />
+					<result value="12" numvotes="1" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="7">
+			
+		<results>		
+					<result level="11" value="No necessary in-game text" numvotes="7" />
+					<result level="12" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="13" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="14" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="15" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67874" value="Components: Hexagonal Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71212" value="Food &amp; Drink: Fruit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="69363" value="Occupation: Farmer" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57181" value="Theme: Trees and Forests" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="10" value="Uwe Rosenberg" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="105660" value="Lukas Siegmon" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="48933" value="The Game Builders" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46724" value="HANALL M&amp;C" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46507" value="Happy Meeple Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="11652" value="Stronghold Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="54406" value="微妙游戏（WeimiaoGames）" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1546" />
+			<average value="6.77797" />
+			<bayesaverage value="6.00664" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2985" bayesaverage="6.00664" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="947" bayesaverage="6.12044" />
+												</ranks>
+
+			<stddev value="1.41306" />
+			<median value="0" />
+			<owned value="1624" />
+			<trading value="25" />
+			<wanting value="72" />
+			<wishing value="522" />
+			<numcomments value="281" />
+			<numweights value="52" />
+			<averageweight value="2" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

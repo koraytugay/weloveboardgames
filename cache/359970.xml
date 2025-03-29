@@ -1,0 +1,428 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="359970">
+         <thumbnail>https://cf.geekdo-images.com/GtLESZ4ZjqikK12bjBTmig__thumb/img/66Emb1wn1JD_5_9XdsYY2DgMVMA=/fit-in/200x150/filters:strip_icc()/pic7040521.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/GtLESZ4ZjqikK12bjBTmig__original/img/CHUtcmSXFs8LYKRHyUaeio2ra4U=/0x0/filters:format(jpeg)/pic7040521.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Challengers!" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Challengers! Drużyna marzeń" />
+			    				
+				<name type="alternate" sortindex="1" value="Challengers! Vyzyvatelé" />
+			    				
+				<name type="alternate" sortindex="1" value="Challengers! Команда мечты" />
+			    				
+				<name type="alternate" sortindex="1" value="Szupercsapat!" />
+			    				
+				<name type="alternate" sortindex="1" value="ศึกชิงธง!" />
+			    				
+				<name type="alternate" sortindex="1" value="チャレンジャーズ！" />
+			    				
+				<name type="alternate" sortindex="1" value="冠军挑战者！" />
+			    				
+				<name type="alternate" sortindex="1" value="夢幻小隊" />
+			    				
+				<name type="alternate" sortindex="1" value="오토배틀 챌린저스!" />
+			
+						               													<description>Challengers! is an interactive deck-management game for 1-8 players that plays in about 45 minutes independent of player count. With the tournament gameplay style, you meet another opponent every round.&amp;#10;&amp;#10;In the Deck Phase, you choose new members and add them to your deck, which might consist of a wizard, alien, cat, gangster and kraken. 75 distinct characters with more than 40 exciting effects create a unique experience every game. Choose from six different sets and discover new strategies and synergies every game.&amp;#10;&amp;#10;In the Match Phase, stay in flag possession to win the trophy of that round. Try to get the most fans and trophies over the course of seven rounds to be able to qualify for the final. If you can best your opponent in the final, you win Challengers!&amp;#10;&amp;#10;(If you think that all sounds a lot like a board game adaption of a digital Autobattler, we are proud to tell you that this is the first of its kind!)&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2022" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="8" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="181">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="29" />
+					<result value="Not Recommended" numvotes="93" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="68" />
+					<result value="Not Recommended" numvotes="54" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="38" />
+					<result value="Not Recommended" numvotes="94" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="82" />
+					<result value="Recommended" numvotes="62" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="60" />
+					<result value="Not Recommended" numvotes="66" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="111" />
+					<result value="Recommended" numvotes="37" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="55" />
+					<result value="Not Recommended" numvotes="66" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="112" />
+					<result value="Recommended" numvotes="36" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="8+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="86" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4, 6, 8 players" />
+  <result name="recommmendedwith" value="Recommended with 2, 4, 6, 8 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="39">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="1" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="17" />
+					<result value="10" numvotes="15" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="14">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="13" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1038" value="Sports" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3004" value="Deck Construction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2885" value="Finale Ending" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78198" value="Misc: Watch It Played How To Videos" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="403909" value="Challengers! Lucky Coins! Bonus Tokens" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="396443" value="Challengers!: Bonus Card Pack #1" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="432654" value="Challengers!: Cruise Ship Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="377199" value="Challengers!: Winter Park Playmat + Blue Token" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="390340" value="Challengers! Beach Cup" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="42380" value="Johannes Krenner" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="110904" value="Markus Slawitscheck" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="105069" value="Jeff Harvey" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="43879" value="1 More Time Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="49480" value="Choo Choo Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12540" value="Game Harbor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28415" value="GoKids 玩樂小子" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46500" value="Lord of Boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39774" value="Tower Tactic Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="6578" />
+			<average value="7.09177" />
+			<bayesaverage value="6.65179" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="967" bayesaverage="6.65179" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="52" bayesaverage="6.83438" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="266" bayesaverage="6.74165" />
+												</ranks>
+
+			<stddev value="1.56336" />
+			<median value="0" />
+			<owned value="9075" />
+			<trading value="122" />
+			<wanting value="204" />
+			<wishing value="1839" />
+			<numcomments value="968" />
+			<numweights value="206" />
+			<averageweight value="1.7913" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
