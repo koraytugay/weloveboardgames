@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="396542">
+         <thumbnail>https://cf.geekdo-images.com/R7GZPK79bMdsCZFamu7Z7A__thumb/img/YedpMxJGgeYiywHl4wW9_JlPtfM=/fit-in/200x150/filters:strip_icc()/pic7653476.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/R7GZPK79bMdsCZFamu7Z7A__original/img/4nFW02x2VogCfuoGk6Zv9H7X9hI=/0x0/filters:format(jpeg)/pic7653476.jpg</image>
+                                     				
+				<name type="primary" sortindex="5" value="The Same Game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Mismamente" />
+			    				
+				<name type="alternate" sortindex="1" value="ザ・セイムゲーム" />
+			
+						               													<description>Is a microwave more important to humanity than diapers? How differently does a rocking horse move compared to a windshield wiper? And don't a pizza cutter and a unicycle look similar in some way?&amp;#10;&amp;#10;Your goal in The Same Game is to help your fellow players avoid falling into a trap. To set up, choose a difficulty level (1-4), then randomly choose the 6-9 category cards (e.g., length, material, price, movement, duration of use, etc.) and lay them on the table. Each player secretly draws a number tile from the bag &amp;mdash; from 1 up to the number of categories &amp;mdash; returns this tile to the bag, then writes this number on their player board. (More than one player might have this number.) Finally, place a number tile next to each category and deal each player a face-down object card.&amp;#10;&amp;#10;After looking at your object card, think of an object that's as similar to your card as possible in your trap category, that is, the category next to the number you wrote down. If your trap category is price, for example, you want to write down an object that costs the same as the object on your card, but is as different as possible in every other way.&amp;#10;&amp;#10;Players then take turns being the active player. When you're active, you reveal your object card and written word...then say and do nothing. Everyone else then discusses which categories to reveal one by one. The more categories they reveal without hitting your trap category, the more the team scores!&amp;#10;&amp;#10;After everyone has been active player once (or twice with 3-4 players), the game ends. How well did you score as a team?&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2023" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="6" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="15">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="4" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="6+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4–5 players" />
+  <result name="recommmendedwith" value="Recommended with 3–6+ players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="45" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="5">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="1" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="2" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="2">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="1" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63161" value="Components: Dry Erase Markers / Dry Erase Surfaces" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66334" value="Mechanism: Give a Clue / Get a Clue" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="80162" value="Wolfgang Warsch" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="106626" value="Christian Schupp" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33419" value="Edition Spielwiese" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6760" value="Blackrock Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="33010" value="SD Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="604" />
+			<average value="7.18352" />
+			<bayesaverage value="5.86118" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3961" bayesaverage="5.86118" />
+												</ranks>
+
+			<stddev value="1.29527" />
+			<median value="0" />
+			<owned value="1052" />
+			<trading value="15" />
+			<wanting value="64" />
+			<wishing value="441" />
+			<numcomments value="108" />
+			<numweights value="16" />
+			<averageweight value="1.375" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
