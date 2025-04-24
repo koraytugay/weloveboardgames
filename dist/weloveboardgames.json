@@ -59,6 +59,7 @@
           12,
           3,
           10,
+          20,
           17,
           16,
           48,
@@ -101,6 +102,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           46,
+          42,
           3,
           1,
           38,
@@ -259,6 +261,7 @@
           12,
           3,
           10,
+          20,
           17,
           16,
           48,
@@ -442,6 +445,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           46,
+          42,
           3,
           1,
           38,
@@ -495,263 +499,6 @@
       11,
       38,
       3
-    ],
-    "isOwned": false,
-    "isDontBuy": false
-  },
-  {
-    "id": 416851,
-    "name": "Castle Combo",
-    "yearPublished": "2024",
-    "imageUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__original/img/XtVFdYXLAxdGOjQOGCkrms-hLUU\u003d/0x0/filters:format(png)/pic8250341.png",
-    "thumbnailUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__thumb/img/DnptKBxT6l_W2B3jGXdnEDEkDM0\u003d/fit-in/200x150/filters:strip_icc()/pic8250341.png",
-    "minimumNumberOfPlayers": "2",
-    "maximumNumberOfPlayers": "5",
-    "bestNumberOfPlayers": "Best with 2 players",
-    "minimumAge": "10",
-    "linkedGames": [
-      {
-        "id": 393325,
-        "name": "Captain Flip",
-        "yearPublished": "2024",
-        "imageUrl": "https://cf.geekdo-images.com/7vSkMR7exNsU7ZfRgJKodQ__original/img/CEF2zr_yUhqZrc0NP6NnBoXGGPc\u003d/0x0/filters:format(png)/pic7784394.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/7vSkMR7exNsU7ZfRgJKodQ__thumb/img/SzzzJKDO1wvj9YWfCg-mOnjC_lQ\u003d/fit-in/200x150/filters:strip_icc()/pic7784394.png",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "5",
-        "bestNumberOfPlayers": "Best with 2–3 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          47,
-          25,
-          22
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 8
-      },
-      {
-        "id": 223040,
-        "name": "Fantasy Realms",
-        "yearPublished": "2017",
-        "imageUrl": "https://cf.geekdo-images.com/A7IOpPt-lHrMYsbRmxXWdQ__original/img/kaYIVoFZkbWe0z80bvcqJdFCNlo\u003d/0x0/filters:format(jpeg)/pic6177962.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/A7IOpPt-lHrMYsbRmxXWdQ__thumb/img/XoD3fXgApfY7-dfYyFeE6FVkbfY\u003d/fit-in/200x150/filters:strip_icc()/pic6177962.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "6",
-        "bestNumberOfPlayers": "Best with 2–3 players",
-        "minimumAge": "14",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          36,
-          33,
-          21,
-          40,
-          31,
-          36,
-          20,
-          12,
-          42,
-          41
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 8
-      },
-      {
-        "id": 359152,
-        "name": "Marvel: Remix",
-        "yearPublished": "2022",
-        "imageUrl": "https://cf.geekdo-images.com/1EilwFEoi4ZLKX7aqw2mmQ__original/img/6WBhVvFaJ17bkDv605GQUuQLNGk\u003d/0x0/filters:format(jpeg)/pic6778570.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/1EilwFEoi4ZLKX7aqw2mmQ__thumb/img/M93SM3m3ekHA_p-UKMJ8d7bpuRA\u003d/fit-in/200x150/filters:strip_icc()/pic6778570.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "6",
-        "bestNumberOfPlayers": "Best with 3 players",
-        "minimumAge": "12",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          17,
-          10,
-          0,
-          46,
-          27,
-          37,
-          27,
-          9,
-          49
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      },
-      {
-        "id": 411875,
-        "name": "Pixies",
-        "yearPublished": "2024",
-        "imageUrl": "https://cf.geekdo-images.com/HzOXZ-dmxkD0ZJoHF49_vA__original/img/kGlcHoV6DViw14Nxo8_QydXl1RU\u003d/0x0/filters:format(jpeg)/pic7975645.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/HzOXZ-dmxkD0ZJoHF49_vA__thumb/img/S4swCbvBHeQBOJk9Ah2-d-Ybr4k\u003d/fit-in/200x150/filters:strip_icc()/pic7975645.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "5",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          38,
-          40,
-          43,
-          43,
-          0,
-          28
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
-      },
-      {
-        "id": 391163,
-        "name": "Forest Shuffle",
-        "yearPublished": "2023",
-        "imageUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__original/img/GcBtTHjdPXagHE-IOCpQ0he6rN4\u003d/0x0/filters:format(jpeg)/pic7578350.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__thumb/img/Xq8TNBmMl3Z7DoynvbUXchFAztc\u003d/fit-in/200x150/filters:strip_icc()/pic7578350.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "5",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          17,
-          17,
-          6,
-          36
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      },
-      {
-        "id": 367220,
-        "name": "Sea Salt \u0026 Paper",
-        "yearPublished": "2022",
-        "imageUrl": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__original/img/AX2wyHhWFgVh5OArXAjVHY-nFZg\u003d/0x0/filters:format(jpeg)/pic6973911.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__thumb/img/Jh6NjibuHeYrZtSsAUXq82B1fTQ\u003d/fit-in/200x150/filters:strip_icc()/pic6973911.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          0,
-          7
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 9
-      },
-      {
-        "id": 216497,
-        "name": "District Noir",
-        "yearPublished": "2016",
-        "imageUrl": "https://cf.geekdo-images.com/NyOyd9UXdzWAuLkrDPDUnA__original/img/sZ8hMZlwyasKwl3Rc0lqCehG1nw\u003d/0x0/filters:format(jpeg)/pic6954556.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/NyOyd9UXdzWAuLkrDPDUnA__thumb/img/XIZUXR0d7oXGsaoVUe7S0AlbiiE\u003d/fit-in/200x150/filters:strip_icc()/pic6954556.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "2",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          27,
-          23
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      },
-      {
-        "id": 295947,
-        "name": "Cascadia",
-        "yearPublished": "2021",
-        "imageUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__original/img/B374C04Eip7fmQBGJzgiOTp-jyQ\u003d/0x0/filters:format(jpeg)/pic5100691.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__thumb/img/tVSFjSxYEcw7sKj3unIIQV8kxoc\u003d/fit-in/200x150/filters:strip_icc()/pic5100691.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2–3 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          12,
-          3,
-          10,
-          17,
-          16,
-          48,
-          7,
-          2,
-          8,
-          20,
-          34
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      },
-      {
-        "id": 274960,
-        "name": "Point Salad",
-        "yearPublished": "2019",
-        "imageUrl": "https://cf.geekdo-images.com/Xy0W9NtEpX0EVjwgxO3IEA__original/img/WdLBZcryNqysYsyC3PNF9FeaPWQ\u003d/0x0/filters:format(png)/pic4621571.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/Xy0W9NtEpX0EVjwgxO3IEA__thumb/img/1gKeE2_50dXcL03gH3cEU-Ixj6c\u003d/fit-in/200x150/filters:strip_icc()/pic4621571.png",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "6",
-        "bestNumberOfPlayers": "Best with 3 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          46,
-          3,
-          1,
-          38,
-          40,
-          17,
-          40,
-          2,
-          35,
-          0,
-          36,
-          15,
-          8,
-          43
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 8
-      },
-      {
-        "id": 353545,
-        "name": "Next Station: London",
-        "yearPublished": "2022",
-        "imageUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__original/img/z7oBkzeFcQLFBlYB5GGO0FFRJ5g\u003d/0x0/filters:format(jpeg)/pic6622999.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__thumb/img/Zjg7k92wAJyj9q4KWORbnWBSStI\u003d/fit-in/200x150/filters:strip_icc()/pic6622999.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2–4 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
-      }
-    ],
-    "linkedGamesStrengths": [
-      1,
-      39,
-      34,
-      1,
-      17,
-      14,
-      48,
-      16,
-      46,
-      28
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -818,6 +565,7 @@
         "minimumAge": "8",
         "linkedGames": [],
         "linkedGamesStrengths": [
+          13,
           47,
           25,
           22
@@ -872,6 +620,33 @@
         "myRating": 6
       },
       {
+        "id": 416851,
+        "name": "Castle Combo",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__original/img/XtVFdYXLAxdGOjQOGCkrms-hLUU\u003d/0x0/filters:format(png)/pic8250341.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__thumb/img/DnptKBxT6l_W2B3jGXdnEDEkDM0\u003d/fit-in/200x150/filters:strip_icc()/pic8250341.png",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          1,
+          39,
+          34,
+          1,
+          17,
+          14,
+          48,
+          16,
+          46,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
         "id": 329954,
         "name": "Carcassonne: 20th Anniversary Edition",
         "yearPublished": "2021",
@@ -891,6 +666,7 @@
     "linkedGamesStrengths": [
       14,
       48,
+      39,
       3,
       8,
       14,
@@ -944,6 +720,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           46,
+          42,
           3,
           1,
           38,
@@ -1356,6 +1133,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           46,
+          42,
           3,
           1,
           38,
@@ -1479,6 +1257,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           46,
+          42,
           3,
           1,
           38,
@@ -1700,6 +1479,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -1776,6 +1556,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           36,
+          19,
           33,
           21,
           40,
@@ -1798,6 +1579,149 @@
       19,
       9,
       32
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
+    "id": 200853,
+    "name": "Habitats",
+    "yearPublished": "2016",
+    "imageUrl": "https://cf.geekdo-images.com/39mkNd_LX2-LUAs5cx1udg__original/img/uny73Ybwci03aMANXY5EOCIjBTU\u003d/0x0/filters:format(jpeg)/pic7227554.jpg",
+    "minimumNumberOfPlayers": "1",
+    "maximumNumberOfPlayers": "5",
+    "bestNumberOfPlayers": "Best with 3 players",
+    "minimumAge": "10",
+    "linkedGames": [
+      {
+        "id": 263918,
+        "name": "Cartographers",
+        "yearPublished": "2019",
+        "imageUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__original/img/YzJORdIDNza8kmrY6KEU_h2p2Wo\u003d/0x0/filters:format(png)/pic4397932.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__thumb/img/TTxZzwbna07hMcPQ0xaFtT10egE\u003d/fit-in/200x150/filters:strip_icc()/pic4397932.png",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "100",
+        "bestNumberOfPlayers": "Best with 3–4 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          20,
+          11,
+          33,
+          11,
+          0
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 8
+      },
+      {
+        "id": 295947,
+        "name": "Cascadia",
+        "yearPublished": "2021",
+        "imageUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__original/img/B374C04Eip7fmQBGJzgiOTp-jyQ\u003d/0x0/filters:format(jpeg)/pic5100691.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__thumb/img/tVSFjSxYEcw7sKj3unIIQV8kxoc\u003d/fit-in/200x150/filters:strip_icc()/pic5100691.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2–3 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          12,
+          3,
+          10,
+          20,
+          17,
+          16,
+          48,
+          7,
+          2,
+          8,
+          20,
+          34
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 416851,
+        "name": "Castle Combo",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__original/img/XtVFdYXLAxdGOjQOGCkrms-hLUU\u003d/0x0/filters:format(png)/pic8250341.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__thumb/img/DnptKBxT6l_W2B3jGXdnEDEkDM0\u003d/fit-in/200x150/filters:strip_icc()/pic8250341.png",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          1,
+          39,
+          34,
+          1,
+          17,
+          14,
+          48,
+          16,
+          46,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 391163,
+        "name": "Forest Shuffle",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__original/img/GcBtTHjdPXagHE-IOCpQ0he6rN4\u003d/0x0/filters:format(jpeg)/pic7578350.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__thumb/img/Xq8TNBmMl3Z7DoynvbUXchFAztc\u003d/fit-in/200x150/filters:strip_icc()/pic7578350.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          17,
+          17,
+          6,
+          36
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 411875,
+        "name": "Pixies",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/HzOXZ-dmxkD0ZJoHF49_vA__original/img/kGlcHoV6DViw14Nxo8_QydXl1RU\u003d/0x0/filters:format(jpeg)/pic7975645.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/HzOXZ-dmxkD0ZJoHF49_vA__thumb/img/S4swCbvBHeQBOJk9Ah2-d-Ybr4k\u003d/fit-in/200x150/filters:strip_icc()/pic7975645.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          38,
+          40,
+          43,
+          43,
+          0,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      }
+    ],
+    "linkedGamesStrengths": [
+      4,
+      8,
+      10,
+      18,
+      46
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -1884,6 +1808,7 @@
           12,
           3,
           10,
+          20,
           17,
           16,
           48,
@@ -1997,6 +1922,7 @@
           12,
           3,
           10,
+          20,
           17,
           16,
           48,
@@ -2340,6 +2266,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           17,
+          27,
           10,
           0,
           46,
@@ -2429,6 +2356,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -2528,6 +2456,164 @@
     "isDontBuy": false
   },
   {
+    "id": 353150,
+    "name": "FYFE",
+    "yearPublished": "2022",
+    "imageUrl": "https://cf.geekdo-images.com/8sbztp4-rrCs4mXhLAPgvg__original/img/axPk6UYlGtmRuT18IKEWwbXf4cA\u003d/0x0/filters:format(jpeg)/pic6573334.jpg",
+    "minimumNumberOfPlayers": "2",
+    "maximumNumberOfPlayers": "5",
+    "bestNumberOfPlayers": "Best with 2, 4 players",
+    "minimumAge": "10",
+    "linkedGames": [
+      {
+        "id": 295947,
+        "name": "Cascadia",
+        "yearPublished": "2021",
+        "imageUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__original/img/B374C04Eip7fmQBGJzgiOTp-jyQ\u003d/0x0/filters:format(jpeg)/pic5100691.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__thumb/img/tVSFjSxYEcw7sKj3unIIQV8kxoc\u003d/fit-in/200x150/filters:strip_icc()/pic5100691.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2–3 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          12,
+          3,
+          10,
+          20,
+          17,
+          16,
+          48,
+          7,
+          2,
+          8,
+          20,
+          34
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 391163,
+        "name": "Forest Shuffle",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__original/img/GcBtTHjdPXagHE-IOCpQ0he6rN4\u003d/0x0/filters:format(jpeg)/pic7578350.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__thumb/img/Xq8TNBmMl3Z7DoynvbUXchFAztc\u003d/fit-in/200x150/filters:strip_icc()/pic7578350.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          17,
+          17,
+          6,
+          36
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 416851,
+        "name": "Castle Combo",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__original/img/XtVFdYXLAxdGOjQOGCkrms-hLUU\u003d/0x0/filters:format(png)/pic8250341.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__thumb/img/DnptKBxT6l_W2B3jGXdnEDEkDM0\u003d/fit-in/200x150/filters:strip_icc()/pic8250341.png",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          1,
+          39,
+          34,
+          1,
+          17,
+          14,
+          48,
+          16,
+          46,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 274960,
+        "name": "Point Salad",
+        "yearPublished": "2019",
+        "imageUrl": "https://cf.geekdo-images.com/Xy0W9NtEpX0EVjwgxO3IEA__original/img/WdLBZcryNqysYsyC3PNF9FeaPWQ\u003d/0x0/filters:format(png)/pic4621571.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/Xy0W9NtEpX0EVjwgxO3IEA__thumb/img/1gKeE2_50dXcL03gH3cEU-Ixj6c\u003d/fit-in/200x150/filters:strip_icc()/pic4621571.png",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "6",
+        "bestNumberOfPlayers": "Best with 3 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          46,
+          42,
+          3,
+          1,
+          38,
+          40,
+          17,
+          40,
+          2,
+          35,
+          0,
+          36,
+          15,
+          8,
+          43
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 8
+      },
+      {
+        "id": 50,
+        "name": "Lost Cities",
+        "yearPublished": "1999",
+        "imageUrl": "https://cf.geekdo-images.com/AL5D-dXabY-Lk3PqIFk_0g__original/img/PdGBQ7xc0GA9ndKnnInx_sQwvl4\u003d/0x0/filters:format(jpeg)/pic4597095.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/AL5D-dXabY-Lk3PqIFk_0g__thumb/img/Q-76aN92M3OveMp26t7b0i7V-i4\u003d/fit-in/200x150/filters:strip_icc()/pic4597095.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "2",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          44,
+          21,
+          1,
+          18,
+          0,
+          3,
+          14,
+          34,
+          6,
+          29,
+          5
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      }
+    ],
+    "linkedGamesStrengths": [
+      4,
+      24,
+      7,
+      34,
+      32
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
     "id": 192291,
     "name": "Sushi Go Party!",
     "yearPublished": "2016",
@@ -2584,6 +2670,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           46,
+          42,
           3,
           1,
           38,
@@ -2635,6 +2722,121 @@
     "isDontBuy": false
   },
   {
+    "id": 394889,
+    "name": "Cabanga!",
+    "yearPublished": "2023",
+    "imageUrl": "https://cf.geekdo-images.com/nbGlxygT3CGhM7L-9_1gkQ__original/img/gOKpNlUbsbc8AXDqKLcSMa5xFTA\u003d/0x0/filters:format(jpeg)/pic7655903.jpg",
+    "minimumNumberOfPlayers": "3",
+    "maximumNumberOfPlayers": "6",
+    "bestNumberOfPlayers": "Best with 4–5 players",
+    "minimumAge": "8",
+    "linkedGames": [
+      {
+        "id": 393325,
+        "name": "Captain Flip",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/7vSkMR7exNsU7ZfRgJKodQ__original/img/CEF2zr_yUhqZrc0NP6NnBoXGGPc\u003d/0x0/filters:format(png)/pic7784394.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/7vSkMR7exNsU7ZfRgJKodQ__thumb/img/SzzzJKDO1wvj9YWfCg-mOnjC_lQ\u003d/fit-in/200x150/filters:strip_icc()/pic7784394.png",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2–3 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          13,
+          47,
+          25,
+          22
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 8
+      },
+      {
+        "id": 416851,
+        "name": "Castle Combo",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__original/img/XtVFdYXLAxdGOjQOGCkrms-hLUU\u003d/0x0/filters:format(png)/pic8250341.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__thumb/img/DnptKBxT6l_W2B3jGXdnEDEkDM0\u003d/fit-in/200x150/filters:strip_icc()/pic8250341.png",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          1,
+          39,
+          34,
+          1,
+          17,
+          14,
+          48,
+          16,
+          46,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 54043,
+        "name": "Jaipur",
+        "yearPublished": "2009",
+        "imageUrl": "https://cf.geekdo-images.com/_LTujSe_o16nvjDC-J0seA__original/img/zUnAdsgt4dCxvtoRDc_9DHbic0M\u003d/0x0/filters:format(jpeg)/pic5100947.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/_LTujSe_o16nvjDC-J0seA__thumb/img/82vhODfpxIT03BzW4NkisJ5Unzs\u003d/fit-in/200x150/filters:strip_icc()/pic5100947.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "2",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          2,
+          8,
+          30,
+          5,
+          10,
+          22,
+          6,
+          12
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 204583,
+        "name": "Kingdomino",
+        "yearPublished": "2016",
+        "imageUrl": "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__original/img/HT6NQPT0cSFcZXjSewtjTO_NBAE\u003d/0x0/filters:format(png)/pic8443569.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__thumb/img/4p4Xydg0tze9UFcd6oUbCnVyxCw\u003d/fit-in/200x150/filters:strip_icc()/pic8443569.png",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2, 4 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          45,
+          7,
+          42,
+          43,
+          43
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      }
+    ],
+    "linkedGamesStrengths": [
+      8,
+      11,
+      22,
+      23
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
     "id": 234260,
     "name": "Prey Another Day",
     "yearPublished": "2023",
@@ -2657,6 +2859,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -2695,6 +2898,7 @@
         "minimumAge": "8",
         "linkedGames": [],
         "linkedGamesStrengths": [
+          13,
           47,
           25,
           22
@@ -2739,6 +2943,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           17,
+          27,
           10,
           0,
           46,
@@ -2803,6 +3008,7 @@
         "minimumAge": "8",
         "linkedGames": [],
         "linkedGamesStrengths": [
+          13,
           47,
           25,
           22
@@ -2973,120 +3179,6 @@
     "isDontBuy": false
   },
   {
-    "id": 200853,
-    "name": "Habitats",
-    "yearPublished": "2016",
-    "imageUrl": "https://cf.geekdo-images.com/39mkNd_LX2-LUAs5cx1udg__original/img/uny73Ybwci03aMANXY5EOCIjBTU\u003d/0x0/filters:format(jpeg)/pic7227554.jpg",
-    "minimumNumberOfPlayers": "1",
-    "maximumNumberOfPlayers": "5",
-    "bestNumberOfPlayers": "Best with 3 players",
-    "minimumAge": "10",
-    "linkedGames": [
-      {
-        "id": 263918,
-        "name": "Cartographers",
-        "yearPublished": "2019",
-        "imageUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__original/img/YzJORdIDNza8kmrY6KEU_h2p2Wo\u003d/0x0/filters:format(png)/pic4397932.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__thumb/img/TTxZzwbna07hMcPQ0xaFtT10egE\u003d/fit-in/200x150/filters:strip_icc()/pic4397932.png",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "100",
-        "bestNumberOfPlayers": "Best with 3–4 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          20,
-          11,
-          33,
-          11,
-          0
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 8
-      },
-      {
-        "id": 295947,
-        "name": "Cascadia",
-        "yearPublished": "2021",
-        "imageUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__original/img/B374C04Eip7fmQBGJzgiOTp-jyQ\u003d/0x0/filters:format(jpeg)/pic5100691.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__thumb/img/tVSFjSxYEcw7sKj3unIIQV8kxoc\u003d/fit-in/200x150/filters:strip_icc()/pic5100691.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2–3 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          12,
-          3,
-          10,
-          17,
-          16,
-          48,
-          7,
-          2,
-          8,
-          20,
-          34
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      },
-      {
-        "id": 391163,
-        "name": "Forest Shuffle",
-        "yearPublished": "2023",
-        "imageUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__original/img/GcBtTHjdPXagHE-IOCpQ0he6rN4\u003d/0x0/filters:format(jpeg)/pic7578350.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__thumb/img/Xq8TNBmMl3Z7DoynvbUXchFAztc\u003d/fit-in/200x150/filters:strip_icc()/pic7578350.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "5",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          17,
-          17,
-          6,
-          36
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      },
-      {
-        "id": 411875,
-        "name": "Pixies",
-        "yearPublished": "2024",
-        "imageUrl": "https://cf.geekdo-images.com/HzOXZ-dmxkD0ZJoHF49_vA__original/img/kGlcHoV6DViw14Nxo8_QydXl1RU\u003d/0x0/filters:format(jpeg)/pic7975645.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/HzOXZ-dmxkD0ZJoHF49_vA__thumb/img/S4swCbvBHeQBOJk9Ah2-d-Ybr4k\u003d/fit-in/200x150/filters:strip_icc()/pic7975645.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "5",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          38,
-          40,
-          43,
-          43,
-          0,
-          28
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
-      }
-    ],
-    "linkedGamesStrengths": [
-      4,
-      8,
-      18,
-      46
-    ],
-    "isOwned": false,
-    "isDontBuy": false
-  },
-  {
     "id": 271869,
     "name": "Sushi Roll",
     "yearPublished": "2019",
@@ -3109,6 +3201,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           17,
+          27,
           10,
           0,
           46,
@@ -3313,6 +3406,7 @@
         "minimumAge": "8",
         "linkedGames": [],
         "linkedGamesStrengths": [
+          13,
           47,
           25,
           22
@@ -3562,6 +3656,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -3665,6 +3760,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -3683,6 +3779,7 @@
         "minimumAge": "8",
         "linkedGames": [],
         "linkedGamesStrengths": [
+          13,
           47,
           25,
           22
@@ -3769,6 +3866,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           46,
+          42,
           3,
           1,
           38,
@@ -3895,129 +3993,123 @@
     "isDontBuy": false
   },
   {
-    "id": 353150,
-    "name": "FYFE",
+    "id": 361241,
+    "name": "Vaalbara",
     "yearPublished": "2022",
-    "imageUrl": "https://cf.geekdo-images.com/8sbztp4-rrCs4mXhLAPgvg__original/img/axPk6UYlGtmRuT18IKEWwbXf4cA\u003d/0x0/filters:format(jpeg)/pic6573334.jpg",
+    "imageUrl": "https://cf.geekdo-images.com/gj5MfNZhfF9ucAiA2GcKQg__original/img/4P6GhY5-90zoD9OZ71Q9Qtuj5fI\u003d/0x0/filters:format(jpeg)/pic7561038.jpg",
     "minimumNumberOfPlayers": "2",
     "maximumNumberOfPlayers": "5",
-    "bestNumberOfPlayers": "Best with 2, 4 players",
+    "bestNumberOfPlayers": "Best with 4 players",
     "minimumAge": "10",
     "linkedGames": [
       {
-        "id": 295947,
-        "name": "Cascadia",
-        "yearPublished": "2021",
-        "imageUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__original/img/B374C04Eip7fmQBGJzgiOTp-jyQ\u003d/0x0/filters:format(jpeg)/pic5100691.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__thumb/img/tVSFjSxYEcw7sKj3unIIQV8kxoc\u003d/fit-in/200x150/filters:strip_icc()/pic5100691.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2–3 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          12,
-          3,
-          10,
-          17,
-          16,
-          48,
-          7,
-          2,
-          8,
-          20,
-          34
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      },
-      {
-        "id": 391163,
-        "name": "Forest Shuffle",
-        "yearPublished": "2023",
-        "imageUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__original/img/GcBtTHjdPXagHE-IOCpQ0he6rN4\u003d/0x0/filters:format(jpeg)/pic7578350.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__thumb/img/Xq8TNBmMl3Z7DoynvbUXchFAztc\u003d/fit-in/200x150/filters:strip_icc()/pic7578350.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "5",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          17,
-          17,
-          6,
-          36
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      },
-      {
-        "id": 274960,
-        "name": "Point Salad",
-        "yearPublished": "2019",
-        "imageUrl": "https://cf.geekdo-images.com/Xy0W9NtEpX0EVjwgxO3IEA__original/img/WdLBZcryNqysYsyC3PNF9FeaPWQ\u003d/0x0/filters:format(png)/pic4621571.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/Xy0W9NtEpX0EVjwgxO3IEA__thumb/img/1gKeE2_50dXcL03gH3cEU-Ixj6c\u003d/fit-in/200x150/filters:strip_icc()/pic4621571.png",
+        "id": 223040,
+        "name": "Fantasy Realms",
+        "yearPublished": "2017",
+        "imageUrl": "https://cf.geekdo-images.com/A7IOpPt-lHrMYsbRmxXWdQ__original/img/kaYIVoFZkbWe0z80bvcqJdFCNlo\u003d/0x0/filters:format(jpeg)/pic6177962.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/A7IOpPt-lHrMYsbRmxXWdQ__thumb/img/XoD3fXgApfY7-dfYyFeE6FVkbfY\u003d/fit-in/200x150/filters:strip_icc()/pic6177962.jpg",
         "minimumNumberOfPlayers": "2",
         "maximumNumberOfPlayers": "6",
-        "bestNumberOfPlayers": "Best with 3 players",
-        "minimumAge": "10",
+        "bestNumberOfPlayers": "Best with 2–3 players",
+        "minimumAge": "14",
         "linkedGames": [],
         "linkedGamesStrengths": [
-          46,
-          3,
-          1,
-          38,
-          40,
-          17,
-          40,
-          2,
-          35,
-          0,
           36,
-          15,
-          8,
-          43
+          19,
+          33,
+          21,
+          40,
+          31,
+          36,
+          20,
+          12,
+          42,
+          41
         ],
         "isOwned": true,
         "isDontBuy": false,
         "myRating": 8
       },
       {
-        "id": 50,
-        "name": "Lost Cities",
-        "yearPublished": "1999",
-        "imageUrl": "https://cf.geekdo-images.com/AL5D-dXabY-Lk3PqIFk_0g__original/img/PdGBQ7xc0GA9ndKnnInx_sQwvl4\u003d/0x0/filters:format(jpeg)/pic4597095.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/AL5D-dXabY-Lk3PqIFk_0g__thumb/img/Q-76aN92M3OveMp26t7b0i7V-i4\u003d/fit-in/200x150/filters:strip_icc()/pic4597095.jpg",
+        "id": 216497,
+        "name": "District Noir",
+        "yearPublished": "2016",
+        "imageUrl": "https://cf.geekdo-images.com/NyOyd9UXdzWAuLkrDPDUnA__original/img/sZ8hMZlwyasKwl3Rc0lqCehG1nw\u003d/0x0/filters:format(jpeg)/pic6954556.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/NyOyd9UXdzWAuLkrDPDUnA__thumb/img/XIZUXR0d7oXGsaoVUe7S0AlbiiE\u003d/fit-in/200x150/filters:strip_icc()/pic6954556.jpg",
         "minimumNumberOfPlayers": "2",
         "maximumNumberOfPlayers": "2",
         "bestNumberOfPlayers": "Best with 2 players",
         "minimumAge": "10",
         "linkedGames": [],
         "linkedGamesStrengths": [
-          44,
-          21,
-          1,
-          18,
-          0,
-          3,
-          14,
-          34,
-          6,
-          29,
-          5
+          27,
+          33,
+          23
         ],
         "isOwned": true,
         "isDontBuy": false,
         "myRating": 7
+      },
+      {
+        "id": 359152,
+        "name": "Marvel: Remix",
+        "yearPublished": "2022",
+        "imageUrl": "https://cf.geekdo-images.com/1EilwFEoi4ZLKX7aqw2mmQ__original/img/6WBhVvFaJ17bkDv605GQUuQLNGk\u003d/0x0/filters:format(jpeg)/pic6778570.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/1EilwFEoi4ZLKX7aqw2mmQ__thumb/img/M93SM3m3ekHA_p-UKMJ8d7bpuRA\u003d/fit-in/200x150/filters:strip_icc()/pic6778570.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "6",
+        "bestNumberOfPlayers": "Best with 3 players",
+        "minimumAge": "12",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          17,
+          27,
+          10,
+          0,
+          46,
+          27,
+          37,
+          27,
+          9,
+          49
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 416851,
+        "name": "Castle Combo",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__original/img/XtVFdYXLAxdGOjQOGCkrms-hLUU\u003d/0x0/filters:format(png)/pic8250341.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__thumb/img/DnptKBxT6l_W2B3jGXdnEDEkDM0\u003d/fit-in/200x150/filters:strip_icc()/pic8250341.png",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          1,
+          39,
+          34,
+          1,
+          17,
+          14,
+          48,
+          16,
+          46,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
       }
     ],
     "linkedGamesStrengths": [
-      4,
-      7,
-      34,
-      32
+      29,
+      13,
+      11,
+      25
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -4218,6 +4310,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -4421,6 +4514,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           17,
+          27,
           10,
           0,
           46,
@@ -4681,92 +4775,6 @@
     "isDontBuy": false
   },
   {
-    "id": 394889,
-    "name": "Cabanga!",
-    "yearPublished": "2023",
-    "imageUrl": "https://cf.geekdo-images.com/nbGlxygT3CGhM7L-9_1gkQ__original/img/gOKpNlUbsbc8AXDqKLcSMa5xFTA\u003d/0x0/filters:format(jpeg)/pic7655903.jpg",
-    "minimumNumberOfPlayers": "3",
-    "maximumNumberOfPlayers": "6",
-    "bestNumberOfPlayers": "Best with 4–5 players",
-    "minimumAge": "8",
-    "linkedGames": [
-      {
-        "id": 393325,
-        "name": "Captain Flip",
-        "yearPublished": "2024",
-        "imageUrl": "https://cf.geekdo-images.com/7vSkMR7exNsU7ZfRgJKodQ__original/img/CEF2zr_yUhqZrc0NP6NnBoXGGPc\u003d/0x0/filters:format(png)/pic7784394.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/7vSkMR7exNsU7ZfRgJKodQ__thumb/img/SzzzJKDO1wvj9YWfCg-mOnjC_lQ\u003d/fit-in/200x150/filters:strip_icc()/pic7784394.png",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "5",
-        "bestNumberOfPlayers": "Best with 2–3 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          47,
-          25,
-          22
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 8
-      },
-      {
-        "id": 54043,
-        "name": "Jaipur",
-        "yearPublished": "2009",
-        "imageUrl": "https://cf.geekdo-images.com/_LTujSe_o16nvjDC-J0seA__original/img/zUnAdsgt4dCxvtoRDc_9DHbic0M\u003d/0x0/filters:format(jpeg)/pic5100947.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/_LTujSe_o16nvjDC-J0seA__thumb/img/82vhODfpxIT03BzW4NkisJ5Unzs\u003d/fit-in/200x150/filters:strip_icc()/pic5100947.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "2",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          2,
-          8,
-          30,
-          5,
-          10,
-          22,
-          6,
-          12
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      },
-      {
-        "id": 204583,
-        "name": "Kingdomino",
-        "yearPublished": "2016",
-        "imageUrl": "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__original/img/HT6NQPT0cSFcZXjSewtjTO_NBAE\u003d/0x0/filters:format(png)/pic8443569.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/c0m3gwZTcfKoLI63ASio8g__thumb/img/4p4Xydg0tze9UFcd6oUbCnVyxCw\u003d/fit-in/200x150/filters:strip_icc()/pic8443569.png",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2, 4 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          45,
-          7,
-          42,
-          43,
-          43
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      }
-    ],
-    "linkedGamesStrengths": [
-      8,
-      22,
-      23
-    ],
-    "isOwned": false,
-    "isDontBuy": false
-  },
-  {
     "id": 169426,
     "name": "Roll Player",
     "yearPublished": "2016",
@@ -4811,6 +4819,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           17,
+          27,
           10,
           0,
           46,
@@ -4976,6 +4985,7 @@
           12,
           3,
           10,
+          20,
           17,
           16,
           48,
@@ -5322,6 +5332,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           17,
+          27,
           10,
           0,
           46,
@@ -5346,82 +5357,82 @@
     "isDontBuy": false
   },
   {
-    "id": 361241,
-    "name": "Vaalbara",
-    "yearPublished": "2022",
-    "imageUrl": "https://cf.geekdo-images.com/gj5MfNZhfF9ucAiA2GcKQg__original/img/4P6GhY5-90zoD9OZ71Q9Qtuj5fI\u003d/0x0/filters:format(jpeg)/pic7561038.jpg",
-    "minimumNumberOfPlayers": "2",
-    "maximumNumberOfPlayers": "5",
-    "bestNumberOfPlayers": "Best with 4 players",
+    "id": 415147,
+    "name": "Spectacular",
+    "yearPublished": "2024",
+    "imageUrl": "https://cf.geekdo-images.com/u94yxoPLSFHaVUaFQ5Rigg__original/img/Kj43C2Ob4ZK1FgMwgIoG7T58Qcs\u003d/0x0/filters:format(png)/pic8046770.png",
+    "minimumNumberOfPlayers": "1",
+    "maximumNumberOfPlayers": "6",
+    "bestNumberOfPlayers": "Best with 2 players",
     "minimumAge": "10",
     "linkedGames": [
       {
-        "id": 223040,
-        "name": "Fantasy Realms",
-        "yearPublished": "2017",
-        "imageUrl": "https://cf.geekdo-images.com/A7IOpPt-lHrMYsbRmxXWdQ__original/img/kaYIVoFZkbWe0z80bvcqJdFCNlo\u003d/0x0/filters:format(jpeg)/pic6177962.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/A7IOpPt-lHrMYsbRmxXWdQ__thumb/img/XoD3fXgApfY7-dfYyFeE6FVkbfY\u003d/fit-in/200x150/filters:strip_icc()/pic6177962.jpg",
+        "id": 416851,
+        "name": "Castle Combo",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__original/img/XtVFdYXLAxdGOjQOGCkrms-hLUU\u003d/0x0/filters:format(png)/pic8250341.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__thumb/img/DnptKBxT6l_W2B3jGXdnEDEkDM0\u003d/fit-in/200x150/filters:strip_icc()/pic8250341.png",
         "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "6",
-        "bestNumberOfPlayers": "Best with 2–3 players",
-        "minimumAge": "14",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          36,
-          33,
-          21,
-          40,
-          31,
-          36,
-          20,
-          12,
-          42,
-          41
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 8
-      },
-      {
-        "id": 216497,
-        "name": "District Noir",
-        "yearPublished": "2016",
-        "imageUrl": "https://cf.geekdo-images.com/NyOyd9UXdzWAuLkrDPDUnA__original/img/sZ8hMZlwyasKwl3Rc0lqCehG1nw\u003d/0x0/filters:format(jpeg)/pic6954556.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/NyOyd9UXdzWAuLkrDPDUnA__thumb/img/XIZUXR0d7oXGsaoVUe7S0AlbiiE\u003d/fit-in/200x150/filters:strip_icc()/pic6954556.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
         "bestNumberOfPlayers": "Best with 2 players",
         "minimumAge": "10",
         "linkedGames": [],
         "linkedGamesStrengths": [
-          27,
-          23
+          1,
+          39,
+          34,
+          1,
+          17,
+          14,
+          48,
+          16,
+          46,
+          28
         ],
         "isOwned": true,
         "isDontBuy": false,
-        "myRating": 7
+        "myRating": 6
       },
       {
-        "id": 359152,
-        "name": "Marvel: Remix",
+        "id": 353545,
+        "name": "Next Station: London",
         "yearPublished": "2022",
-        "imageUrl": "https://cf.geekdo-images.com/1EilwFEoi4ZLKX7aqw2mmQ__original/img/6WBhVvFaJ17bkDv605GQUuQLNGk\u003d/0x0/filters:format(jpeg)/pic6778570.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/1EilwFEoi4ZLKX7aqw2mmQ__thumb/img/M93SM3m3ekHA_p-UKMJ8d7bpuRA\u003d/fit-in/200x150/filters:strip_icc()/pic6778570.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "6",
-        "bestNumberOfPlayers": "Best with 3 players",
-        "minimumAge": "12",
+        "imageUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__original/img/z7oBkzeFcQLFBlYB5GGO0FFRJ5g\u003d/0x0/filters:format(jpeg)/pic6622999.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__thumb/img/Zjg7k92wAJyj9q4KWORbnWBSStI\u003d/fit-in/200x150/filters:strip_icc()/pic6622999.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2–4 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 295947,
+        "name": "Cascadia",
+        "yearPublished": "2021",
+        "imageUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__original/img/B374C04Eip7fmQBGJzgiOTp-jyQ\u003d/0x0/filters:format(jpeg)/pic5100691.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__thumb/img/tVSFjSxYEcw7sKj3unIIQV8kxoc\u003d/fit-in/200x150/filters:strip_icc()/pic5100691.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2–3 players",
+        "minimumAge": "10",
         "linkedGames": [],
         "linkedGamesStrengths": [
-          17,
+          12,
+          3,
           10,
-          0,
-          46,
-          27,
-          37,
-          27,
-          9,
-          49
+          20,
+          17,
+          16,
+          48,
+          7,
+          2,
+          8,
+          20,
+          34
         ],
         "isOwned": true,
         "isDontBuy": false,
@@ -5429,9 +5440,9 @@
       }
     ],
     "linkedGamesStrengths": [
-      13,
-      11,
-      25
+      15,
+      4,
+      5
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -5598,6 +5609,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -5609,6 +5621,118 @@
       19,
       43,
       16
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
+    "id": 296167,
+    "name": "Boomerang: Australia",
+    "yearPublished": "2020",
+    "imageUrl": "https://cf.geekdo-images.com/dhFW0s-IilUusfRPHWcXXg__original/img/z6fRs7hEOuSlt9iSQ8biYIBjzMQ\u003d/0x0/filters:format(jpeg)/pic5106800.jpg",
+    "minimumNumberOfPlayers": "2",
+    "maximumNumberOfPlayers": "4",
+    "bestNumberOfPlayers": "Best with 4 players",
+    "minimumAge": "8",
+    "linkedGames": [
+      {
+        "id": 416851,
+        "name": "Castle Combo",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__original/img/XtVFdYXLAxdGOjQOGCkrms-hLUU\u003d/0x0/filters:format(png)/pic8250341.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__thumb/img/DnptKBxT6l_W2B3jGXdnEDEkDM0\u003d/fit-in/200x150/filters:strip_icc()/pic8250341.png",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          1,
+          39,
+          34,
+          1,
+          17,
+          14,
+          48,
+          16,
+          46,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 318556,
+        "name": "Tucano",
+        "yearPublished": "2021",
+        "imageUrl": "https://cf.geekdo-images.com/eXwFMfsSOUNMDy9itigbPw__original/img/IxnyL_VpY64a0AHzyFtSnLNQ140\u003d/0x0/filters:format(jpeg)/pic5854467.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/eXwFMfsSOUNMDy9itigbPw__thumb/img/47Z34m411bFevui9Dr5Q8_MGj98\u003d/fit-in/200x150/filters:strip_icc()/pic5854467.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "6",
+        "linkedGames": [],
+        "linkedGamesStrengths": [],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 391163,
+        "name": "Forest Shuffle",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__original/img/GcBtTHjdPXagHE-IOCpQ0he6rN4\u003d/0x0/filters:format(jpeg)/pic7578350.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__thumb/img/Xq8TNBmMl3Z7DoynvbUXchFAztc\u003d/fit-in/200x150/filters:strip_icc()/pic7578350.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          17,
+          17,
+          6,
+          36
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 223040,
+        "name": "Fantasy Realms",
+        "yearPublished": "2017",
+        "imageUrl": "https://cf.geekdo-images.com/A7IOpPt-lHrMYsbRmxXWdQ__original/img/kaYIVoFZkbWe0z80bvcqJdFCNlo\u003d/0x0/filters:format(jpeg)/pic6177962.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/A7IOpPt-lHrMYsbRmxXWdQ__thumb/img/XoD3fXgApfY7-dfYyFeE6FVkbfY\u003d/fit-in/200x150/filters:strip_icc()/pic6177962.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "6",
+        "bestNumberOfPlayers": "Best with 2–3 players",
+        "minimumAge": "14",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          36,
+          19,
+          33,
+          21,
+          40,
+          31,
+          36,
+          20,
+          12,
+          42,
+          41
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 8
+      }
+    ],
+    "linkedGamesStrengths": [
+      18,
+      36,
+      26,
+      19
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -5757,6 +5881,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           46,
+          42,
           3,
           1,
           38,
@@ -5981,6 +6106,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -6319,6 +6445,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -6590,6 +6717,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           46,
+          42,
           3,
           1,
           38,
@@ -6655,6 +6783,7 @@
         "minimumAge": "8",
         "linkedGames": [],
         "linkedGamesStrengths": [
+          13,
           47,
           25,
           22
@@ -6695,6 +6824,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           46,
+          42,
           3,
           1,
           38,
@@ -6948,6 +7078,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -7077,6 +7208,7 @@
           12,
           3,
           10,
+          20,
           17,
           16,
           48,
@@ -7454,6 +7586,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           17,
+          27,
           10,
           0,
           46,
@@ -7580,6 +7713,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           46,
+          42,
           3,
           1,
           38,
@@ -7757,6 +7891,70 @@
       27,
       48,
       49
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
+    "id": 394887,
+    "name": "Surfosaurus MAX",
+    "yearPublished": "2023",
+    "imageUrl": "https://cf.geekdo-images.com/_oIGFfPMAa0gHWNy7kJp7g__original/img/p96DvDrI5EBJNcZ-Wr6Gc95cVl4\u003d/0x0/filters:format(jpeg)/pic7618281.jpg",
+    "minimumNumberOfPlayers": "2",
+    "maximumNumberOfPlayers": "6",
+    "bestNumberOfPlayers": "Best with 3 players",
+    "minimumAge": "10",
+    "linkedGames": [
+      {
+        "id": 416851,
+        "name": "Castle Combo",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__original/img/XtVFdYXLAxdGOjQOGCkrms-hLUU\u003d/0x0/filters:format(png)/pic8250341.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__thumb/img/DnptKBxT6l_W2B3jGXdnEDEkDM0\u003d/fit-in/200x150/filters:strip_icc()/pic8250341.png",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          1,
+          39,
+          34,
+          1,
+          17,
+          14,
+          48,
+          16,
+          46,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 367220,
+        "name": "Sea Salt \u0026 Paper",
+        "yearPublished": "2022",
+        "imageUrl": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__original/img/AX2wyHhWFgVh5OArXAjVHY-nFZg\u003d/0x0/filters:format(jpeg)/pic6973911.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/CIh_rXKoRw9z8K0PJxT8nQ__thumb/img/Jh6NjibuHeYrZtSsAUXq82B1fTQ\u003d/fit-in/200x150/filters:strip_icc()/pic6973911.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          0,
+          7
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 9
+      }
+    ],
+    "linkedGamesStrengths": [
+      5,
+      17
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -8144,6 +8342,7 @@
           12,
           3,
           10,
+          20,
           17,
           16,
           48,
@@ -8212,6 +8411,7 @@
           12,
           3,
           10,
+          20,
           17,
           16,
           48,
@@ -8361,6 +8561,7 @@
         "minimumAge": "8",
         "linkedGames": [],
         "linkedGamesStrengths": [
+          13,
           47,
           25,
           22
@@ -8400,6 +8601,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           46,
+          42,
           3,
           1,
           38,
@@ -8458,6 +8660,7 @@
           12,
           3,
           10,
+          20,
           17,
           16,
           48,
@@ -8531,151 +8734,6 @@
     "linkedGamesStrengths": [
       15,
       8
-    ],
-    "isOwned": false,
-    "isDontBuy": false
-  },
-  {
-    "id": 415147,
-    "name": "Spectacular",
-    "yearPublished": "2024",
-    "imageUrl": "https://cf.geekdo-images.com/u94yxoPLSFHaVUaFQ5Rigg__original/img/Kj43C2Ob4ZK1FgMwgIoG7T58Qcs\u003d/0x0/filters:format(png)/pic8046770.png",
-    "minimumNumberOfPlayers": "1",
-    "maximumNumberOfPlayers": "6",
-    "bestNumberOfPlayers": "Best with 2 players",
-    "minimumAge": "10",
-    "linkedGames": [
-      {
-        "id": 353545,
-        "name": "Next Station: London",
-        "yearPublished": "2022",
-        "imageUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__original/img/z7oBkzeFcQLFBlYB5GGO0FFRJ5g\u003d/0x0/filters:format(jpeg)/pic6622999.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__thumb/img/Zjg7k92wAJyj9q4KWORbnWBSStI\u003d/fit-in/200x150/filters:strip_icc()/pic6622999.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2–4 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
-      },
-      {
-        "id": 295947,
-        "name": "Cascadia",
-        "yearPublished": "2021",
-        "imageUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__original/img/B374C04Eip7fmQBGJzgiOTp-jyQ\u003d/0x0/filters:format(jpeg)/pic5100691.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__thumb/img/tVSFjSxYEcw7sKj3unIIQV8kxoc\u003d/fit-in/200x150/filters:strip_icc()/pic5100691.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2–3 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          12,
-          3,
-          10,
-          17,
-          16,
-          48,
-          7,
-          2,
-          8,
-          20,
-          34
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      }
-    ],
-    "linkedGamesStrengths": [
-      15,
-      5
-    ],
-    "isOwned": false,
-    "isDontBuy": false
-  },
-  {
-    "id": 296167,
-    "name": "Boomerang: Australia",
-    "yearPublished": "2020",
-    "imageUrl": "https://cf.geekdo-images.com/dhFW0s-IilUusfRPHWcXXg__original/img/z6fRs7hEOuSlt9iSQ8biYIBjzMQ\u003d/0x0/filters:format(jpeg)/pic5106800.jpg",
-    "minimumNumberOfPlayers": "2",
-    "maximumNumberOfPlayers": "4",
-    "bestNumberOfPlayers": "Best with 4 players",
-    "minimumAge": "8",
-    "linkedGames": [
-      {
-        "id": 318556,
-        "name": "Tucano",
-        "yearPublished": "2021",
-        "imageUrl": "https://cf.geekdo-images.com/eXwFMfsSOUNMDy9itigbPw__original/img/IxnyL_VpY64a0AHzyFtSnLNQ140\u003d/0x0/filters:format(jpeg)/pic5854467.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/eXwFMfsSOUNMDy9itigbPw__thumb/img/47Z34m411bFevui9Dr5Q8_MGj98\u003d/fit-in/200x150/filters:strip_icc()/pic5854467.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "6",
-        "linkedGames": [],
-        "linkedGamesStrengths": [],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      },
-      {
-        "id": 391163,
-        "name": "Forest Shuffle",
-        "yearPublished": "2023",
-        "imageUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__original/img/GcBtTHjdPXagHE-IOCpQ0he6rN4\u003d/0x0/filters:format(jpeg)/pic7578350.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__thumb/img/Xq8TNBmMl3Z7DoynvbUXchFAztc\u003d/fit-in/200x150/filters:strip_icc()/pic7578350.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "5",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          17,
-          17,
-          6,
-          36
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      },
-      {
-        "id": 223040,
-        "name": "Fantasy Realms",
-        "yearPublished": "2017",
-        "imageUrl": "https://cf.geekdo-images.com/A7IOpPt-lHrMYsbRmxXWdQ__original/img/kaYIVoFZkbWe0z80bvcqJdFCNlo\u003d/0x0/filters:format(jpeg)/pic6177962.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/A7IOpPt-lHrMYsbRmxXWdQ__thumb/img/XoD3fXgApfY7-dfYyFeE6FVkbfY\u003d/fit-in/200x150/filters:strip_icc()/pic6177962.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "6",
-        "bestNumberOfPlayers": "Best with 2–3 players",
-        "minimumAge": "14",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          36,
-          33,
-          21,
-          40,
-          31,
-          36,
-          20,
-          12,
-          42,
-          41
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 8
-      }
-    ],
-    "linkedGamesStrengths": [
-      36,
-      26,
-      19
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -8898,6 +8956,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -8994,6 +9053,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -9069,6 +9129,92 @@
     "isDontBuy": false
   },
   {
+    "id": 285533,
+    "name": "Miyabi",
+    "yearPublished": "2019",
+    "imageUrl": "https://cf.geekdo-images.com/J8joN18TM0gLZfIj6lYIog__original/img/-8lVCUQlqJjZ4-FEKQl_mCOihUU\u003d/0x0/filters:format(jpeg)/pic4886005.jpg",
+    "minimumNumberOfPlayers": "2",
+    "maximumNumberOfPlayers": "4",
+    "bestNumberOfPlayers": "Best with 2–3 players",
+    "minimumAge": "8",
+    "linkedGames": [
+      {
+        "id": 163412,
+        "name": "Patchwork",
+        "yearPublished": "2014",
+        "imageUrl": "https://cf.geekdo-images.com/RDOwMRBnIb3Ehl6GyXj9xg__original/img/iVl8KAZ8JMmDXsnBqQecFRkOhK8\u003d/0x0/filters:format(jpeg)/pic8669620.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/RDOwMRBnIb3Ehl6GyXj9xg__thumb/img/nxex9ASN99exPLXEc9E4s08qZzc\u003d/fit-in/200x150/filters:strip_icc()/pic8669620.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "2",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          14,
+          11,
+          7,
+          14
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 416851,
+        "name": "Castle Combo",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__original/img/XtVFdYXLAxdGOjQOGCkrms-hLUU\u003d/0x0/filters:format(png)/pic8250341.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__thumb/img/DnptKBxT6l_W2B3jGXdnEDEkDM0\u003d/fit-in/200x150/filters:strip_icc()/pic8250341.png",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          1,
+          39,
+          34,
+          1,
+          17,
+          14,
+          48,
+          16,
+          46,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 251658,
+        "name": "Sprawlopolis",
+        "yearPublished": "2018",
+        "imageUrl": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__original/img/70LwdlP8ezNxe00B48mSmzFfStU\u003d/0x0/filters:format(png)/pic4654146.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__thumb/img/8IMkDRysr2XJafkJGGWoWRcj3e0\u003d/fit-in/200x150/filters:strip_icc()/pic4654146.png",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 1 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          43,
+          1
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      }
+    ],
+    "linkedGamesStrengths": [
+      40,
+      15,
+      42
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
     "id": 88126,
     "name": "Time\u0027s Up! Family",
     "yearPublished": "2010",
@@ -9091,6 +9237,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           36,
+          19,
           33,
           21,
           40,
@@ -9174,6 +9321,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           36,
+          19,
           33,
           21,
           40,
@@ -9368,6 +9516,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           17,
+          27,
           10,
           0,
           46,
@@ -9521,6 +9670,7 @@
         "minimumAge": "8",
         "linkedGames": [],
         "linkedGamesStrengths": [
+          13,
           47,
           25,
           22
@@ -9608,6 +9758,7 @@
           12,
           3,
           10,
+          20,
           17,
           16,
           48,
@@ -9652,6 +9803,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -9857,6 +10009,7 @@
         "minimumAge": "8",
         "linkedGames": [],
         "linkedGamesStrengths": [
+          13,
           47,
           25,
           22
@@ -9914,6 +10067,7 @@
           12,
           3,
           10,
+          20,
           17,
           16,
           48,
@@ -10109,6 +10263,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           36,
+          19,
           33,
           21,
           40,
@@ -10136,6 +10291,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           46,
+          42,
           3,
           1,
           38,
@@ -10395,6 +10551,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           36,
+          19,
           33,
           21,
           40,
@@ -10422,6 +10579,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           17,
+          27,
           10,
           0,
           46,
@@ -10539,6 +10697,7 @@
           12,
           3,
           10,
+          20,
           17,
           16,
           48,
@@ -10819,6 +10978,70 @@
     "isDontBuy": false
   },
   {
+    "id": 256320,
+    "name": "Fertility",
+    "yearPublished": "2018",
+    "imageUrl": "https://cf.geekdo-images.com/fZ93TcOYV4IFW61gzzLXFA__original/img/LA_5risAR9LuiEMoba97vLBx_Zg\u003d/0x0/filters:format(jpeg)/pic4261953.jpg",
+    "minimumNumberOfPlayers": "2",
+    "maximumNumberOfPlayers": "4",
+    "bestNumberOfPlayers": "Best with 2–3 players",
+    "minimumAge": "10",
+    "linkedGames": [
+      {
+        "id": 416851,
+        "name": "Castle Combo",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__original/img/XtVFdYXLAxdGOjQOGCkrms-hLUU\u003d/0x0/filters:format(png)/pic8250341.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__thumb/img/DnptKBxT6l_W2B3jGXdnEDEkDM0\u003d/fit-in/200x150/filters:strip_icc()/pic8250341.png",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          1,
+          39,
+          34,
+          1,
+          17,
+          14,
+          48,
+          16,
+          46,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 228504,
+        "name": "Cat Lady",
+        "yearPublished": "2017",
+        "imageUrl": "https://cf.geekdo-images.com/tnx6ExxyUmIlga9tFSrR6g__original/img/RvwGz70uylQGeBYErRTWwP1Gr9M\u003d/0x0/filters:format(jpeg)/pic3864115.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/tnx6ExxyUmIlga9tFSrR6g__thumb/img/jHvb__-N4QCSB8rhTKXzCxWOWcU\u003d/fit-in/200x150/filters:strip_icc()/pic3864115.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          27,
+          17
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      }
+    ],
+    "linkedGamesStrengths": [
+      7,
+      33
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
     "id": 315767,
     "name": "Cartographers Heroes",
     "yearPublished": "2021",
@@ -10918,6 +11141,7 @@
           12,
           3,
           10,
+          20,
           17,
           16,
           48,
@@ -10960,6 +11184,173 @@
     "isDontBuy": false
   },
   {
+    "id": 340677,
+    "name": "Bad Company",
+    "yearPublished": "2021",
+    "imageUrl": "https://cf.geekdo-images.com/rL9n8DhlZiC9CL3mZ9pYGA__original/img/V95tb8NJksi5xZg4-rPb_lCze_o\u003d/0x0/filters:format(jpeg)/pic7245173.jpg",
+    "minimumNumberOfPlayers": "1",
+    "maximumNumberOfPlayers": "6",
+    "bestNumberOfPlayers": "Best with 3–4 players",
+    "minimumAge": "8",
+    "linkedGames": [
+      {
+        "id": 416851,
+        "name": "Castle Combo",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__original/img/XtVFdYXLAxdGOjQOGCkrms-hLUU\u003d/0x0/filters:format(png)/pic8250341.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__thumb/img/DnptKBxT6l_W2B3jGXdnEDEkDM0\u003d/fit-in/200x150/filters:strip_icc()/pic8250341.png",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          1,
+          39,
+          34,
+          1,
+          17,
+          14,
+          48,
+          16,
+          46,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 353288,
+        "name": "Trekking Through History",
+        "yearPublished": "2022",
+        "imageUrl": "https://cf.geekdo-images.com/v9mg1nwp7I6DBPveHSumPA__original/img/EMx7ANS4LvolbOXmwJh-wT0UXPQ\u003d/0x0/filters:format(jpeg)/pic7970728.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/v9mg1nwp7I6DBPveHSumPA__thumb/img/tOJGm1XgsWhDP9BOiJHBfIxbOIA\u003d/fit-in/200x150/filters:strip_icc()/pic7970728.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 3 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          19,
+          8,
+          16,
+          7,
+          24
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      }
+    ],
+    "linkedGamesStrengths": [
+      6,
+      26
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
+    "id": 333055,
+    "name": "Subastral",
+    "yearPublished": "2021",
+    "imageUrl": "https://cf.geekdo-images.com/vMnthLxxHa17J6CC7C4d7Q__original/img/I6k83DiYnd5gxpLTL9q-Qsau2vU\u003d/0x0/filters:format(png)/pic6766397.png",
+    "minimumNumberOfPlayers": "2",
+    "maximumNumberOfPlayers": "5",
+    "bestNumberOfPlayers": "Best with 3 players",
+    "minimumAge": "10",
+    "linkedGames": [
+      {
+        "id": 416851,
+        "name": "Castle Combo",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__original/img/XtVFdYXLAxdGOjQOGCkrms-hLUU\u003d/0x0/filters:format(png)/pic8250341.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__thumb/img/DnptKBxT6l_W2B3jGXdnEDEkDM0\u003d/fit-in/200x150/filters:strip_icc()/pic8250341.png",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          1,
+          39,
+          34,
+          1,
+          17,
+          14,
+          48,
+          16,
+          46,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 368017,
+        "name": "Point City",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/-wcx_m4j86mTFAJ_kWz8eA__original/img/xqzKVJi-qRQAYHIUgpIz3kveNfQ\u003d/0x0/filters:format(jpeg)/pic6998174.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/-wcx_m4j86mTFAJ_kWz8eA__thumb/img/wXCt7sv58rjfgCEeg_wX9NIiMpc\u003d/fit-in/200x150/filters:strip_icc()/pic6998174.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          47,
+          35,
+          16,
+          46,
+          0
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 274960,
+        "name": "Point Salad",
+        "yearPublished": "2019",
+        "imageUrl": "https://cf.geekdo-images.com/Xy0W9NtEpX0EVjwgxO3IEA__original/img/WdLBZcryNqysYsyC3PNF9FeaPWQ\u003d/0x0/filters:format(png)/pic4621571.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/Xy0W9NtEpX0EVjwgxO3IEA__thumb/img/1gKeE2_50dXcL03gH3cEU-Ixj6c\u003d/fit-in/200x150/filters:strip_icc()/pic4621571.png",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "6",
+        "bestNumberOfPlayers": "Best with 3 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          46,
+          42,
+          3,
+          1,
+          38,
+          40,
+          17,
+          40,
+          2,
+          35,
+          0,
+          36,
+          15,
+          8,
+          43
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 8
+      }
+    ],
+    "linkedGamesStrengths": [
+      28,
+      29,
+      37
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
     "id": 333553,
     "name": "For the King (and Me)",
     "yearPublished": "2021",
@@ -10982,6 +11373,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -11101,6 +11493,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -11157,6 +11550,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -11222,6 +11616,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -11500,6 +11895,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           17,
+          27,
           10,
           0,
           46,
@@ -11536,64 +11932,6 @@
     "linkedGamesStrengths": [
       12,
       37
-    ],
-    "isOwned": false,
-    "isDontBuy": false
-  },
-  {
-    "id": 285533,
-    "name": "Miyabi",
-    "yearPublished": "2019",
-    "imageUrl": "https://cf.geekdo-images.com/J8joN18TM0gLZfIj6lYIog__original/img/-8lVCUQlqJjZ4-FEKQl_mCOihUU\u003d/0x0/filters:format(jpeg)/pic4886005.jpg",
-    "minimumNumberOfPlayers": "2",
-    "maximumNumberOfPlayers": "4",
-    "bestNumberOfPlayers": "Best with 2–3 players",
-    "minimumAge": "8",
-    "linkedGames": [
-      {
-        "id": 163412,
-        "name": "Patchwork",
-        "yearPublished": "2014",
-        "imageUrl": "https://cf.geekdo-images.com/RDOwMRBnIb3Ehl6GyXj9xg__original/img/iVl8KAZ8JMmDXsnBqQecFRkOhK8\u003d/0x0/filters:format(jpeg)/pic8669620.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/RDOwMRBnIb3Ehl6GyXj9xg__thumb/img/nxex9ASN99exPLXEc9E4s08qZzc\u003d/fit-in/200x150/filters:strip_icc()/pic8669620.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "2",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          14,
-          11,
-          7,
-          14
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      },
-      {
-        "id": 251658,
-        "name": "Sprawlopolis",
-        "yearPublished": "2018",
-        "imageUrl": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__original/img/70LwdlP8ezNxe00B48mSmzFfStU\u003d/0x0/filters:format(png)/pic4654146.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__thumb/img/8IMkDRysr2XJafkJGGWoWRcj3e0\u003d/fit-in/200x150/filters:strip_icc()/pic4654146.png",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 1 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          43,
-          1
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      }
-    ],
-    "linkedGamesStrengths": [
-      15,
-      42
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -11944,6 +12282,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           46,
+          42,
           3,
           1,
           38,
@@ -12206,6 +12545,7 @@
         "minimumAge": "8",
         "linkedGames": [],
         "linkedGamesStrengths": [
+          13,
           47,
           25,
           22
@@ -12263,6 +12603,7 @@
         "minimumAge": "8",
         "linkedGames": [],
         "linkedGamesStrengths": [
+          13,
           47,
           25,
           22
@@ -12318,6 +12659,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -12337,6 +12679,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           36,
+          19,
           33,
           21,
           40,
@@ -12382,6 +12725,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           46,
+          42,
           3,
           1,
           38,
@@ -12426,77 +12770,6 @@
     "linkedGamesStrengths": [
       47,
       31
-    ],
-    "isOwned": false,
-    "isDontBuy": false
-  },
-  {
-    "id": 333055,
-    "name": "Subastral",
-    "yearPublished": "2021",
-    "imageUrl": "https://cf.geekdo-images.com/vMnthLxxHa17J6CC7C4d7Q__original/img/I6k83DiYnd5gxpLTL9q-Qsau2vU\u003d/0x0/filters:format(png)/pic6766397.png",
-    "minimumNumberOfPlayers": "2",
-    "maximumNumberOfPlayers": "5",
-    "bestNumberOfPlayers": "Best with 3 players",
-    "minimumAge": "10",
-    "linkedGames": [
-      {
-        "id": 368017,
-        "name": "Point City",
-        "yearPublished": "2023",
-        "imageUrl": "https://cf.geekdo-images.com/-wcx_m4j86mTFAJ_kWz8eA__original/img/xqzKVJi-qRQAYHIUgpIz3kveNfQ\u003d/0x0/filters:format(jpeg)/pic6998174.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/-wcx_m4j86mTFAJ_kWz8eA__thumb/img/wXCt7sv58rjfgCEeg_wX9NIiMpc\u003d/fit-in/200x150/filters:strip_icc()/pic6998174.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          47,
-          35,
-          16,
-          46,
-          0
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      },
-      {
-        "id": 274960,
-        "name": "Point Salad",
-        "yearPublished": "2019",
-        "imageUrl": "https://cf.geekdo-images.com/Xy0W9NtEpX0EVjwgxO3IEA__original/img/WdLBZcryNqysYsyC3PNF9FeaPWQ\u003d/0x0/filters:format(png)/pic4621571.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/Xy0W9NtEpX0EVjwgxO3IEA__thumb/img/1gKeE2_50dXcL03gH3cEU-Ixj6c\u003d/fit-in/200x150/filters:strip_icc()/pic4621571.png",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "6",
-        "bestNumberOfPlayers": "Best with 3 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          46,
-          3,
-          1,
-          38,
-          40,
-          17,
-          40,
-          2,
-          35,
-          0,
-          36,
-          15,
-          8,
-          43
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 8
-      }
-    ],
-    "linkedGamesStrengths": [
-      29,
-      37
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -12590,6 +12863,7 @@
         "linkedGames": [],
         "linkedGamesStrengths": [
           27,
+          33,
           23
         ],
         "isOwned": true,
@@ -12702,6 +12976,7 @@
           12,
           3,
           10,
+          20,
           17,
           16,
           48,
@@ -12870,6 +13145,7 @@
           12,
           3,
           10,
+          20,
           17,
           16,
           48,
@@ -13068,6 +13344,67 @@
     "linkedGamesStrengths": [
       35,
       46
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
+    "id": 323613,
+    "name": "LUNA Capital",
+    "yearPublished": "2021",
+    "imageUrl": "https://cf.geekdo-images.com/tsoRGi5tKQ5W2LeXDhb-cQ__original/img/DWpDgdJe5wMvbMnP9qwBkL3Wh3U\u003d/0x0/filters:format(jpeg)/pic5977208.jpg",
+    "minimumNumberOfPlayers": "1",
+    "maximumNumberOfPlayers": "4",
+    "bestNumberOfPlayers": "Best with 2 players",
+    "minimumAge": "8",
+    "linkedGames": [
+      {
+        "id": 416851,
+        "name": "Castle Combo",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__original/img/XtVFdYXLAxdGOjQOGCkrms-hLUU\u003d/0x0/filters:format(png)/pic8250341.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/rGomBfj0FGrZM-w3h5HFWQ__thumb/img/DnptKBxT6l_W2B3jGXdnEDEkDM0\u003d/fit-in/200x150/filters:strip_icc()/pic8250341.png",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          1,
+          39,
+          34,
+          1,
+          17,
+          14,
+          48,
+          16,
+          46,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 353545,
+        "name": "Next Station: London",
+        "yearPublished": "2022",
+        "imageUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__original/img/z7oBkzeFcQLFBlYB5GGO0FFRJ5g\u003d/0x0/filters:format(jpeg)/pic6622999.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__thumb/img/Zjg7k92wAJyj9q4KWORbnWBSStI\u003d/fit-in/200x150/filters:strip_icc()/pic6622999.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2–4 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      }
+    ],
+    "linkedGamesStrengths": [
+      35,
+      44
     ],
     "isOwned": false,
     "isDontBuy": false

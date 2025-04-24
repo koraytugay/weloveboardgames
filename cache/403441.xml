@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="403441">
+         <thumbnail>https://cf.geekdo-images.com/Z3mBHQuawFfI3ZTQ8Z64CA__thumb/img/Oo7FfbdgRd9GXJxb7-CMiU9jD9w=/fit-in/200x150/filters:strip_icc()/pic7796391.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/Z3mBHQuawFfI3ZTQ8Z64CA__original/img/clROt5s1-1JsDwFpXV2Ytu7Tg4A=/0x0/filters:format(jpeg)/pic7796391.jpg</image>
+                                     				
+				<name type="primary" sortindex="1" value="Windmill Valley" />
+			
+						                               				
+				<name type="alternate" sortindex="5" value="Die Blumenstraße" />
+			    				
+				<name type="alternate" sortindex="1" value="Dolina Vetrenjača" />
+			    				
+				<name type="alternate" sortindex="1" value="Údolí tulipánů" />
+			    				
+				<name type="alternate" sortindex="1" value="Vale dos Moinhos" />
+			    				
+				<name type="alternate" sortindex="4" value="El Valle de los Molinos" />
+			    				
+				<name type="alternate" sortindex="1" value="Wiatrakowo" />
+			    				
+				<name type="alternate" sortindex="1" value="风语花乡" />
+			    				
+				<name type="alternate" sortindex="1" value="윈드밀 밸리" />
+			
+						               													<description>It&amp;rsquo;s the late 19th century, and more than 9000 windmills dot the landscape of the Netherlands, some of them purpose-built to dry the lowlands, called polders. In the polders between these windmills are fields filled with colorful tulips&amp;mdash;the flower that once was a part of the turbulent history of the first financial bubble but is now simply a quintessential part of the Dutch landscape, especially on the famous Bloemen Route (or &amp;ldquo;Flower Route&amp;rdquo;).&amp;#10;&amp;#10;In Windmill Valley , a game inspired by the Bloemen Route, you and up to three players take on the role of tulip farmers and entrepreneurs. You will build and enhance your windmills, look for new tulip bulbs in foreign trades or among local vendors to buy and plant, and try to get an edge with hired help and lucrative contracts. Let your blooming fields make your competitors green with envy!&amp;#10;&amp;#10;During their turn, players choose the action by rotating the wheels on their windmill board. During the game they can:&amp;#10;&amp;#10;&amp;#10;     Enhance their wheels, by adding enhancements, to build their engine&amp;#10;     Plant tulips in their fields, which will score VP at the end of the game&amp;#10;     Build windmills on the main board to activate rewards from adjacent fields&amp;#10;     Hire helpers that provide bonuses for certain actions&amp;#10;     Get contracts for endgame scoring&amp;#10;     Visit the local market and conduct a foreign trade&amp;#10;&amp;#10;&amp;#10;All in all, Windmill Valley is a lightweight game with quick turns, a smart action-selection mechanism, multiple options to build your engine, and a lovely setting.&amp;#10;&amp;#10;&amp;mdash;description from the publisher&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="57">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="28" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="31" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="10" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="14" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="11">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="9" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="6">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="5" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="30" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2900" value="Market" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3099" value="Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2813" value="Rondel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10309" value="Country: Netherlands" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6393" value="Theme: Flowers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="434507" value="Windmill Valley: Blooming Sails" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="432559" value="Windmill Valley: Calendar Ability Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="422630" value="Windmill Valley: New Calendar Tile" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="422631" value="Windmill Valley: New Wheel Enhancements" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="426701" value="Windmill Valley: Promo Card" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="428846" value="Windmill Valley: LaserLand Upgraded Acrylic Tulips" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="439720" value="Windmill Valley: Tulips Upgrade Kit" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="117012" value="Dani Garcia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="110893" value="Pedro Codeço" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="86237" value="Zbigniew Umgelter" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="26630" value="Board&amp;Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="53775" value="BO3 Studio" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="57859" value="Bohemian Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30155" value="GateOnGames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42147" value="Giant Roc" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="57743" value="Gramatury" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="55324" value="HIT Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="56684" value="Laguna" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30677" value="Maldito Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44349" value="Mosaico Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30034" value="Pixie Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="2243" />
+			<average value="7.76111" />
+			<bayesaverage value="6.61725" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1013" bayesaverage="6.61725" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="520" bayesaverage="6.803" />
+												</ranks>
+
+			<stddev value="1.14106" />
+			<median value="0" />
+			<owned value="4515" />
+			<trading value="41" />
+			<wanting value="313" />
+			<wishing value="2038" />
+			<numcomments value="465" />
+			<numweights value="109" />
+			<averageweight value="3.0459" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
