@@ -65,6 +65,7 @@
           48,
           7,
           2,
+          6,
           8,
           20,
           34
@@ -179,7 +180,8 @@
           11,
           33,
           11,
-          0
+          0,
+          15
         ],
         "isOwned": true,
         "isDontBuy": false,
@@ -269,6 +271,7 @@
           48,
           7,
           2,
+          6,
           8,
           20,
           34
@@ -314,6 +317,7 @@
           35,
           16,
           46,
+          32,
           0
         ],
         "isOwned": true,
@@ -485,7 +489,8 @@
           11,
           33,
           11,
-          0
+          0,
+          15
         ],
         "isOwned": true,
         "isDontBuy": false,
@@ -1068,7 +1073,8 @@
           11,
           33,
           11,
-          0
+          0,
+          15
         ],
         "isOwned": true,
         "isDontBuy": false,
@@ -1595,6 +1601,7 @@
           40,
           31,
           36,
+          23,
           20,
           12,
           42,
@@ -1814,7 +1821,8 @@
           11,
           33,
           11,
-          0
+          0,
+          15
         ],
         "isOwned": true,
         "isDontBuy": false,
@@ -1841,6 +1849,7 @@
           48,
           7,
           2,
+          6,
           8,
           20,
           34
@@ -1909,7 +1918,8 @@
           11,
           33,
           11,
-          0
+          0,
+          15
         ],
         "isOwned": true,
         "isDontBuy": false,
@@ -1936,6 +1946,7 @@
           48,
           7,
           2,
+          6,
           8,
           20,
           34
@@ -2227,6 +2238,7 @@
           48,
           7,
           2,
+          6,
           8,
           20,
           34
@@ -2251,6 +2263,7 @@
           35,
           16,
           46,
+          32,
           0
         ],
         "isOwned": true,
@@ -2305,6 +2318,127 @@
       2,
       31,
       49
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
+    "id": 283864,
+    "name": "Trails of Tucana",
+    "yearPublished": "2019",
+    "imageUrl": "https://cf.geekdo-images.com/y8ifesXfHobUtIgnSuC0DA__original/img/8fe6EzD9co2hkaqFDsxHeoMY5SA\u003d/0x0/filters:format(jpeg)/pic4860701.jpg",
+    "thumbnailUrl": "https://cf.geekdo-images.com/y8ifesXfHobUtIgnSuC0DA__thumb/img/y5rGQUFTGETcIg9HSfuGnHkD234\u003d/fit-in/200x150/filters:strip_icc()/pic4860701.jpg",
+    "minimumNumberOfPlayers": "1",
+    "maximumNumberOfPlayers": "8",
+    "bestNumberOfPlayers": "Best with 3–5 players",
+    "minimumAge": "8",
+    "linkedGames": [
+      {
+        "id": 403116,
+        "name": "Next Station: Paris",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__original/img/9VQ5zrxaNZ1CvOHbR6bq0v8BpjI\u003d/0x0/filters:format(jpeg)/pic8049686.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__thumb/img/3pZrQZwUS8_Y6q-Y1UBrYRY0hS8\u003d/fit-in/200x150/filters:strip_icc()/pic8049686.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          25,
+          28,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 380165,
+        "name": "Next Station: Tokyo",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__original/img/R0cYczenMFvCVjOLuOUpgMyH7cc\u003d/0x0/filters:format(jpeg)/pic7531551.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__thumb/img/EB4T2fjCN4W0bhirADaO8xDWfQI\u003d/fit-in/200x150/filters:strip_icc()/pic7531551.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          27
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 353545,
+        "name": "Next Station: London",
+        "yearPublished": "2022",
+        "imageUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__original/img/z7oBkzeFcQLFBlYB5GGO0FFRJ5g\u003d/0x0/filters:format(jpeg)/pic6622999.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__thumb/img/Zjg7k92wAJyj9q4KWORbnWBSStI\u003d/fit-in/200x150/filters:strip_icc()/pic6622999.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2–4 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 263918,
+        "name": "Cartographers",
+        "yearPublished": "2019",
+        "imageUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__original/img/YzJORdIDNza8kmrY6KEU_h2p2Wo\u003d/0x0/filters:format(png)/pic4397932.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__thumb/img/TTxZzwbna07hMcPQ0xaFtT10egE\u003d/fit-in/200x150/filters:strip_icc()/pic4397932.png",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "100",
+        "bestNumberOfPlayers": "Best with 3–4 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          20,
+          11,
+          33,
+          11,
+          0,
+          15
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 8
+      },
+      {
+        "id": 393325,
+        "name": "Captain Flip",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/7vSkMR7exNsU7ZfRgJKodQ__original/img/CEF2zr_yUhqZrc0NP6NnBoXGGPc\u003d/0x0/filters:format(png)/pic7784394.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/7vSkMR7exNsU7ZfRgJKodQ__thumb/img/SzzzJKDO1wvj9YWfCg-mOnjC_lQ\u003d/fit-in/200x150/filters:strip_icc()/pic7784394.png",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2–3 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          13,
+          47,
+          25,
+          17,
+          22
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 8
+      }
+    ],
+    "linkedGamesStrengths": [
+      30,
+      15,
+      6,
+      4,
+      4
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -2635,6 +2769,125 @@
     "isDontBuy": false
   },
   {
+    "id": 245654,
+    "name": "Railroad Ink: Deep Blue Edition",
+    "yearPublished": "2018",
+    "imageUrl": "https://cf.geekdo-images.com/x3hjEgkxZE9M96o6wgj6Tw__original/img/aLU9rLTBaZhBK_U6YMUY8mmJnrM\u003d/0x0/filters:format(png)/pic4097632.png",
+    "minimumNumberOfPlayers": "1",
+    "maximumNumberOfPlayers": "6",
+    "bestNumberOfPlayers": "Best with 2 players",
+    "minimumAge": "8",
+    "linkedGames": [
+      {
+        "id": 263918,
+        "name": "Cartographers",
+        "yearPublished": "2019",
+        "imageUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__original/img/YzJORdIDNza8kmrY6KEU_h2p2Wo\u003d/0x0/filters:format(png)/pic4397932.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__thumb/img/TTxZzwbna07hMcPQ0xaFtT10egE\u003d/fit-in/200x150/filters:strip_icc()/pic4397932.png",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "100",
+        "bestNumberOfPlayers": "Best with 3–4 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          20,
+          11,
+          33,
+          11,
+          0,
+          15
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 8
+      },
+      {
+        "id": 342562,
+        "name": "ROVE: Results-Oriented Versatile Explorer",
+        "yearPublished": "2021",
+        "imageUrl": "https://cf.geekdo-images.com/-BTMmbHaR16DRt0OEh5arA__original/img/COMPKUG73b0TGpzmtES2Rl8PmCk\u003d/0x0/filters:format(png)/pic6494257.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/-BTMmbHaR16DRt0OEh5arA__thumb/img/TVgsZurNXBPCHcx73pMRtfJMsXY\u003d/fit-in/200x150/filters:strip_icc()/pic6494257.png",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "1",
+        "bestNumberOfPlayers": "Best with 1 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          20
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 380165,
+        "name": "Next Station: Tokyo",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__original/img/R0cYczenMFvCVjOLuOUpgMyH7cc\u003d/0x0/filters:format(jpeg)/pic7531551.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__thumb/img/EB4T2fjCN4W0bhirADaO8xDWfQI\u003d/fit-in/200x150/filters:strip_icc()/pic7531551.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          27
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 403116,
+        "name": "Next Station: Paris",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__original/img/9VQ5zrxaNZ1CvOHbR6bq0v8BpjI\u003d/0x0/filters:format(jpeg)/pic8049686.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__thumb/img/3pZrQZwUS8_Y6q-Y1UBrYRY0hS8\u003d/fit-in/200x150/filters:strip_icc()/pic8049686.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          25,
+          28,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 251658,
+        "name": "Sprawlopolis",
+        "yearPublished": "2018",
+        "imageUrl": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__original/img/70LwdlP8ezNxe00B48mSmzFfStU\u003d/0x0/filters:format(png)/pic4654146.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__thumb/img/8IMkDRysr2XJafkJGGWoWRcj3e0\u003d/fit-in/200x150/filters:strip_icc()/pic4654146.png",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 1 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          43,
+          1
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      }
+    ],
+    "linkedGamesStrengths": [
+      7,
+      19,
+      13,
+      10,
+      48
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
     "id": 372,
     "name": "Schotten Totten",
     "yearPublished": "1999",
@@ -2862,6 +3115,122 @@
     "isDontBuy": false
   },
   {
+    "id": 251678,
+    "name": "Railroad Ink: Blazing Red Edition",
+    "yearPublished": "2018",
+    "imageUrl": "https://cf.geekdo-images.com/eNgD_0WGHeO9fPCpgTOBrQ__original/img/oHGao7oKpWzQA6-j842d6WoPM1I\u003d/0x0/filters:format(png)/pic4118864.png",
+    "minimumNumberOfPlayers": "1",
+    "maximumNumberOfPlayers": "6",
+    "bestNumberOfPlayers": "Best with 3 players",
+    "minimumAge": "8",
+    "linkedGames": [
+      {
+        "id": 403116,
+        "name": "Next Station: Paris",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__original/img/9VQ5zrxaNZ1CvOHbR6bq0v8BpjI\u003d/0x0/filters:format(jpeg)/pic8049686.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__thumb/img/3pZrQZwUS8_Y6q-Y1UBrYRY0hS8\u003d/fit-in/200x150/filters:strip_icc()/pic8049686.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          25,
+          28,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 380165,
+        "name": "Next Station: Tokyo",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__original/img/R0cYczenMFvCVjOLuOUpgMyH7cc\u003d/0x0/filters:format(jpeg)/pic7531551.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__thumb/img/EB4T2fjCN4W0bhirADaO8xDWfQI\u003d/fit-in/200x150/filters:strip_icc()/pic7531551.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          27
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 263918,
+        "name": "Cartographers",
+        "yearPublished": "2019",
+        "imageUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__original/img/YzJORdIDNza8kmrY6KEU_h2p2Wo\u003d/0x0/filters:format(png)/pic4397932.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__thumb/img/TTxZzwbna07hMcPQ0xaFtT10egE\u003d/fit-in/200x150/filters:strip_icc()/pic4397932.png",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "100",
+        "bestNumberOfPlayers": "Best with 3–4 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          20,
+          11,
+          33,
+          11,
+          0,
+          15
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 8
+      },
+      {
+        "id": 353545,
+        "name": "Next Station: London",
+        "yearPublished": "2022",
+        "imageUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__original/img/z7oBkzeFcQLFBlYB5GGO0FFRJ5g\u003d/0x0/filters:format(jpeg)/pic6622999.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__thumb/img/Zjg7k92wAJyj9q4KWORbnWBSStI\u003d/fit-in/200x150/filters:strip_icc()/pic6622999.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2–4 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 342562,
+        "name": "ROVE: Results-Oriented Versatile Explorer",
+        "yearPublished": "2021",
+        "imageUrl": "https://cf.geekdo-images.com/-BTMmbHaR16DRt0OEh5arA__original/img/COMPKUG73b0TGpzmtES2Rl8PmCk\u003d/0x0/filters:format(png)/pic6494257.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/-BTMmbHaR16DRt0OEh5arA__thumb/img/TVgsZurNXBPCHcx73pMRtfJMsXY\u003d/fit-in/200x150/filters:strip_icc()/pic6494257.png",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "1",
+        "bestNumberOfPlayers": "Best with 1 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          20
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      }
+    ],
+    "linkedGamesStrengths": [
+      19,
+      19,
+      9,
+      16,
+      46
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
     "id": 353150,
     "name": "FYFE",
     "yearPublished": "2022",
@@ -2892,6 +3261,7 @@
           48,
           7,
           2,
+          6,
           8,
           20,
           34
@@ -3631,7 +4001,8 @@
           11,
           33,
           11,
-          0
+          0,
+          15
         ],
         "isOwned": true,
         "isDontBuy": false,
@@ -3699,36 +4070,15 @@
     "isDontBuy": false
   },
   {
-    "id": 283864,
-    "name": "Trails of Tucana",
-    "yearPublished": "2019",
-    "imageUrl": "https://cf.geekdo-images.com/y8ifesXfHobUtIgnSuC0DA__original/img/8fe6EzD9co2hkaqFDsxHeoMY5SA\u003d/0x0/filters:format(jpeg)/pic4860701.jpg",
-    "thumbnailUrl": "https://cf.geekdo-images.com/y8ifesXfHobUtIgnSuC0DA__thumb/img/y5rGQUFTGETcIg9HSfuGnHkD234\u003d/fit-in/200x150/filters:strip_icc()/pic4860701.jpg",
+    "id": 318009,
+    "name": "Dinosaur Island: Rawr \u0027n Write",
+    "yearPublished": "2021",
+    "imageUrl": "https://cf.geekdo-images.com/xRP9jo5gfwhfFkgxQBgWTw__original/img/h-5jmA7e2JrfO9DM9OKy0S2MDjw\u003d/0x0/filters:format(png)/pic5622932.png",
     "minimumNumberOfPlayers": "1",
-    "maximumNumberOfPlayers": "8",
-    "bestNumberOfPlayers": "Best with 3–5 players",
-    "minimumAge": "8",
+    "maximumNumberOfPlayers": "4",
+    "bestNumberOfPlayers": "Best with 2 players",
+    "minimumAge": "10",
     "linkedGames": [
-      {
-        "id": 403116,
-        "name": "Next Station: Paris",
-        "yearPublished": "2024",
-        "imageUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__original/img/9VQ5zrxaNZ1CvOHbR6bq0v8BpjI\u003d/0x0/filters:format(jpeg)/pic8049686.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__thumb/img/3pZrQZwUS8_Y6q-Y1UBrYRY0hS8\u003d/fit-in/200x150/filters:strip_icc()/pic8049686.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          25,
-          28,
-          28
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
-      },
       {
         "id": 353545,
         "name": "Next Station: London",
@@ -3761,93 +4111,30 @@
           11,
           33,
           11,
-          0
+          0,
+          15
         ],
         "isOwned": true,
         "isDontBuy": false,
         "myRating": 8
       },
       {
-        "id": 393325,
-        "name": "Captain Flip",
-        "yearPublished": "2024",
-        "imageUrl": "https://cf.geekdo-images.com/7vSkMR7exNsU7ZfRgJKodQ__original/img/CEF2zr_yUhqZrc0NP6NnBoXGGPc\u003d/0x0/filters:format(png)/pic7784394.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/7vSkMR7exNsU7ZfRgJKodQ__thumb/img/SzzzJKDO1wvj9YWfCg-mOnjC_lQ\u003d/fit-in/200x150/filters:strip_icc()/pic7784394.png",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "5",
-        "bestNumberOfPlayers": "Best with 2–3 players",
+        "id": 380165,
+        "name": "Next Station: Tokyo",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__original/img/R0cYczenMFvCVjOLuOUpgMyH7cc\u003d/0x0/filters:format(jpeg)/pic7531551.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__thumb/img/EB4T2fjCN4W0bhirADaO8xDWfQI\u003d/fit-in/200x150/filters:strip_icc()/pic7531551.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
         "minimumAge": "8",
         "linkedGames": [],
         "linkedGamesStrengths": [
-          13,
-          47,
-          25,
-          17,
-          22
+          27
         ],
         "isOwned": true,
         "isDontBuy": false,
-        "myRating": 8
-      }
-    ],
-    "linkedGamesStrengths": [
-      30,
-      15,
-      6,
-      4
-    ],
-    "isOwned": false,
-    "isDontBuy": false
-  },
-  {
-    "id": 245654,
-    "name": "Railroad Ink: Deep Blue Edition",
-    "yearPublished": "2018",
-    "imageUrl": "https://cf.geekdo-images.com/x3hjEgkxZE9M96o6wgj6Tw__original/img/aLU9rLTBaZhBK_U6YMUY8mmJnrM\u003d/0x0/filters:format(png)/pic4097632.png",
-    "minimumNumberOfPlayers": "1",
-    "maximumNumberOfPlayers": "6",
-    "bestNumberOfPlayers": "Best with 2 players",
-    "minimumAge": "8",
-    "linkedGames": [
-      {
-        "id": 263918,
-        "name": "Cartographers",
-        "yearPublished": "2019",
-        "imageUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__original/img/YzJORdIDNza8kmrY6KEU_h2p2Wo\u003d/0x0/filters:format(png)/pic4397932.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__thumb/img/TTxZzwbna07hMcPQ0xaFtT10egE\u003d/fit-in/200x150/filters:strip_icc()/pic4397932.png",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "100",
-        "bestNumberOfPlayers": "Best with 3–4 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          20,
-          11,
-          33,
-          11,
-          0
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 8
-      },
-      {
-        "id": 342562,
-        "name": "ROVE: Results-Oriented Versatile Explorer",
-        "yearPublished": "2021",
-        "imageUrl": "https://cf.geekdo-images.com/-BTMmbHaR16DRt0OEh5arA__original/img/COMPKUG73b0TGpzmtES2Rl8PmCk\u003d/0x0/filters:format(png)/pic6494257.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/-BTMmbHaR16DRt0OEh5arA__thumb/img/TVgsZurNXBPCHcx73pMRtfJMsXY\u003d/fit-in/200x150/filters:strip_icc()/pic6494257.png",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "1",
-        "bestNumberOfPlayers": "Best with 1 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          20
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
+        "myRating": 7
       },
       {
         "id": 403116,
@@ -3868,32 +4155,13 @@
         "isOwned": true,
         "isDontBuy": false,
         "myRating": 6
-      },
-      {
-        "id": 251658,
-        "name": "Sprawlopolis",
-        "yearPublished": "2018",
-        "imageUrl": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__original/img/70LwdlP8ezNxe00B48mSmzFfStU\u003d/0x0/filters:format(png)/pic4654146.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__thumb/img/8IMkDRysr2XJafkJGGWoWRcj3e0\u003d/fit-in/200x150/filters:strip_icc()/pic4654146.png",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 1 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          43,
-          1
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
       }
     ],
     "linkedGamesStrengths": [
-      7,
-      19,
-      10,
-      48
+      14,
+      13,
+      22,
+      18
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -4393,6 +4661,7 @@
           40,
           31,
           36,
+          23,
           20,
           12,
           42,
@@ -4612,6 +4881,7 @@
           35,
           16,
           46,
+          32,
           0
         ],
         "isOwned": true,
@@ -4746,7 +5016,8 @@
           11,
           33,
           11,
-          0
+          0,
+          15
         ],
         "isOwned": true,
         "isDontBuy": false,
@@ -4870,97 +5141,111 @@
     "isDontBuy": false
   },
   {
-    "id": 251678,
-    "name": "Railroad Ink: Blazing Red Edition",
-    "yearPublished": "2018",
-    "imageUrl": "https://cf.geekdo-images.com/eNgD_0WGHeO9fPCpgTOBrQ__original/img/oHGao7oKpWzQA6-j842d6WoPM1I\u003d/0x0/filters:format(png)/pic4118864.png",
+    "id": 353152,
+    "name": "Framework",
+    "yearPublished": "2022",
+    "imageUrl": "https://cf.geekdo-images.com/ZpCVs_p1wlbiSFOg1nNVoA__original/img/DWBfCFZIP4TiC0Ae3txC1ADeDOs\u003d/0x0/filters:format(jpeg)/pic6573332.jpg",
     "minimumNumberOfPlayers": "1",
-    "maximumNumberOfPlayers": "6",
-    "bestNumberOfPlayers": "Best with 3 players",
+    "maximumNumberOfPlayers": "4",
+    "bestNumberOfPlayers": "Best with 2 players",
     "minimumAge": "8",
     "linkedGames": [
       {
-        "id": 403116,
-        "name": "Next Station: Paris",
-        "yearPublished": "2024",
-        "imageUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__original/img/9VQ5zrxaNZ1CvOHbR6bq0v8BpjI\u003d/0x0/filters:format(jpeg)/pic8049686.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__thumb/img/3pZrQZwUS8_Y6q-Y1UBrYRY0hS8\u003d/fit-in/200x150/filters:strip_icc()/pic8049686.jpg",
+        "id": 163412,
+        "name": "Patchwork",
+        "yearPublished": "2014",
+        "imageUrl": "https://cf.geekdo-images.com/RDOwMRBnIb3Ehl6GyXj9xg__original/img/iVl8KAZ8JMmDXsnBqQecFRkOhK8\u003d/0x0/filters:format(jpeg)/pic8669620.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/RDOwMRBnIb3Ehl6GyXj9xg__thumb/img/nxex9ASN99exPLXEc9E4s08qZzc\u003d/fit-in/200x150/filters:strip_icc()/pic8669620.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "2",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          14,
+          11,
+          7,
+          14
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 380165,
+        "name": "Next Station: Tokyo",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__original/img/R0cYczenMFvCVjOLuOUpgMyH7cc\u003d/0x0/filters:format(jpeg)/pic7531551.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__thumb/img/EB4T2fjCN4W0bhirADaO8xDWfQI\u003d/fit-in/200x150/filters:strip_icc()/pic7531551.jpg",
         "minimumNumberOfPlayers": "1",
         "maximumNumberOfPlayers": "4",
         "bestNumberOfPlayers": "Best with 2 players",
         "minimumAge": "8",
         "linkedGames": [],
         "linkedGamesStrengths": [
-          25,
-          28,
-          28
+          27
         ],
         "isOwned": true,
         "isDontBuy": false,
-        "myRating": 6
+        "myRating": 7
       },
       {
-        "id": 263918,
-        "name": "Cartographers",
-        "yearPublished": "2019",
-        "imageUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__original/img/YzJORdIDNza8kmrY6KEU_h2p2Wo\u003d/0x0/filters:format(png)/pic4397932.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__thumb/img/TTxZzwbna07hMcPQ0xaFtT10egE\u003d/fit-in/200x150/filters:strip_icc()/pic4397932.png",
+        "id": 295947,
+        "name": "Cascadia",
+        "yearPublished": "2021",
+        "imageUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__original/img/B374C04Eip7fmQBGJzgiOTp-jyQ\u003d/0x0/filters:format(jpeg)/pic5100691.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__thumb/img/tVSFjSxYEcw7sKj3unIIQV8kxoc\u003d/fit-in/200x150/filters:strip_icc()/pic5100691.jpg",
         "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "100",
-        "bestNumberOfPlayers": "Best with 3–4 players",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2–3 players",
         "minimumAge": "10",
         "linkedGames": [],
         "linkedGamesStrengths": [
+          12,
+          3,
+          10,
           20,
-          11,
-          33,
-          11,
-          0
+          17,
+          16,
+          48,
+          7,
+          2,
+          6,
+          8,
+          20,
+          34
         ],
         "isOwned": true,
         "isDontBuy": false,
-        "myRating": 8
+        "myRating": 7
       },
       {
-        "id": 353545,
-        "name": "Next Station: London",
-        "yearPublished": "2022",
-        "imageUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__original/img/z7oBkzeFcQLFBlYB5GGO0FFRJ5g\u003d/0x0/filters:format(jpeg)/pic6622999.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__thumb/img/Zjg7k92wAJyj9q4KWORbnWBSStI\u003d/fit-in/200x150/filters:strip_icc()/pic6622999.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2–4 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
-      },
-      {
-        "id": 342562,
-        "name": "ROVE: Results-Oriented Versatile Explorer",
-        "yearPublished": "2021",
-        "imageUrl": "https://cf.geekdo-images.com/-BTMmbHaR16DRt0OEh5arA__original/img/COMPKUG73b0TGpzmtES2Rl8PmCk\u003d/0x0/filters:format(png)/pic6494257.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/-BTMmbHaR16DRt0OEh5arA__thumb/img/TVgsZurNXBPCHcx73pMRtfJMsXY\u003d/fit-in/200x150/filters:strip_icc()/pic6494257.png",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "1",
-        "bestNumberOfPlayers": "Best with 1 players",
-        "minimumAge": "8",
+        "id": 391163,
+        "name": "Forest Shuffle",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__original/img/GcBtTHjdPXagHE-IOCpQ0he6rN4\u003d/0x0/filters:format(jpeg)/pic7578350.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__thumb/img/Xq8TNBmMl3Z7DoynvbUXchFAztc\u003d/fit-in/200x150/filters:strip_icc()/pic7578350.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
         "linkedGames": [],
         "linkedGamesStrengths": [
-          20
+          17,
+          17,
+          6,
+          36
         ],
         "isOwned": true,
         "isDontBuy": false,
-        "myRating": 6
+        "myRating": 7
       }
     ],
     "linkedGamesStrengths": [
-      19,
-      19,
-      9,
-      46
+      23,
+      47,
+      17,
+      16
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -5279,7 +5564,8 @@
           11,
           33,
           11,
-          0
+          0,
+          15
         ],
         "isOwned": true,
         "isDontBuy": false,
@@ -5336,6 +5622,107 @@
       0,
       24,
       20
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
+    "id": 347013,
+    "name": "Get on Board: New York \u0026 London",
+    "yearPublished": "2022",
+    "imageUrl": "https://cf.geekdo-images.com/hXevthEzKVew8nqfziCneA__original/img/ViHBPC4pKHbp-eCupEcdVJ6RWus\u003d/0x0/filters:format(jpeg)/pic6399596.jpg",
+    "minimumNumberOfPlayers": "2",
+    "maximumNumberOfPlayers": "5",
+    "bestNumberOfPlayers": "Best with 3 players",
+    "minimumAge": "8",
+    "linkedGames": [
+      {
+        "id": 403116,
+        "name": "Next Station: Paris",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__original/img/9VQ5zrxaNZ1CvOHbR6bq0v8BpjI\u003d/0x0/filters:format(jpeg)/pic8049686.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__thumb/img/3pZrQZwUS8_Y6q-Y1UBrYRY0hS8\u003d/fit-in/200x150/filters:strip_icc()/pic8049686.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          25,
+          28,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 353545,
+        "name": "Next Station: London",
+        "yearPublished": "2022",
+        "imageUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__original/img/z7oBkzeFcQLFBlYB5GGO0FFRJ5g\u003d/0x0/filters:format(jpeg)/pic6622999.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__thumb/img/Zjg7k92wAJyj9q4KWORbnWBSStI\u003d/fit-in/200x150/filters:strip_icc()/pic6622999.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2–4 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 380165,
+        "name": "Next Station: Tokyo",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__original/img/R0cYczenMFvCVjOLuOUpgMyH7cc\u003d/0x0/filters:format(jpeg)/pic7531551.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__thumb/img/EB4T2fjCN4W0bhirADaO8xDWfQI\u003d/fit-in/200x150/filters:strip_icc()/pic7531551.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          27
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 359152,
+        "name": "Marvel: Remix",
+        "yearPublished": "2022",
+        "imageUrl": "https://cf.geekdo-images.com/1EilwFEoi4ZLKX7aqw2mmQ__original/img/6WBhVvFaJ17bkDv605GQUuQLNGk\u003d/0x0/filters:format(jpeg)/pic6778570.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/1EilwFEoi4ZLKX7aqw2mmQ__thumb/img/M93SM3m3ekHA_p-UKMJ8d7bpuRA\u003d/fit-in/200x150/filters:strip_icc()/pic6778570.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "6",
+        "bestNumberOfPlayers": "Best with 3 players",
+        "minimumAge": "12",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          17,
+          27,
+          10,
+          0,
+          46,
+          27,
+          37,
+          27,
+          9,
+          49
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      }
+    ],
+    "linkedGamesStrengths": [
+      45,
+      14,
+      8,
+      19
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -5471,6 +5858,7 @@
           48,
           7,
           2,
+          6,
           8,
           20,
           34
@@ -5511,7 +5899,8 @@
           11,
           33,
           11,
-          0
+          0,
+          15
         ],
         "isOwned": true,
         "isDontBuy": false,
@@ -5569,7 +5958,8 @@
           11,
           33,
           11,
-          0
+          0,
+          15
         ],
         "isOwned": true,
         "isDontBuy": false,
@@ -5624,6 +6014,79 @@
       29,
       4,
       48
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
+    "id": 362164,
+    "name": "Pioneer Rails",
+    "yearPublished": "2023",
+    "imageUrl": "https://cf.geekdo-images.com/zFtCdg2K7NEV9BPaEzgAbQ__original/img/DJikn7JFCiBKxk7XzEk2BTkZ__A\u003d/0x0/filters:format(png)/pic6842458.png",
+    "minimumNumberOfPlayers": "1",
+    "maximumNumberOfPlayers": "80",
+    "bestNumberOfPlayers": "Best with 2–3 players",
+    "minimumAge": "10",
+    "linkedGames": [
+      {
+        "id": 403116,
+        "name": "Next Station: Paris",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__original/img/9VQ5zrxaNZ1CvOHbR6bq0v8BpjI\u003d/0x0/filters:format(jpeg)/pic8049686.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__thumb/img/3pZrQZwUS8_Y6q-Y1UBrYRY0hS8\u003d/fit-in/200x150/filters:strip_icc()/pic8049686.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          25,
+          28,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 380165,
+        "name": "Next Station: Tokyo",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__original/img/R0cYczenMFvCVjOLuOUpgMyH7cc\u003d/0x0/filters:format(jpeg)/pic7531551.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__thumb/img/EB4T2fjCN4W0bhirADaO8xDWfQI\u003d/fit-in/200x150/filters:strip_icc()/pic7531551.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          27
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 353545,
+        "name": "Next Station: London",
+        "yearPublished": "2022",
+        "imageUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__original/img/z7oBkzeFcQLFBlYB5GGO0FFRJ5g\u003d/0x0/filters:format(jpeg)/pic6622999.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__thumb/img/Zjg7k92wAJyj9q4KWORbnWBSStI\u003d/fit-in/200x150/filters:strip_icc()/pic6622999.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2–4 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      }
+    ],
+    "linkedGamesStrengths": [
+      21,
+      6,
+      8
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -5810,6 +6273,7 @@
           48,
           7,
           2,
+          6,
           8,
           20,
           34
@@ -6181,6 +6645,7 @@
           40,
           31,
           36,
+          23,
           20,
           12,
           42,
@@ -6249,6 +6714,7 @@
           35,
           16,
           46,
+          32,
           0
         ],
         "isOwned": true,
@@ -6310,83 +6776,6 @@
       24,
       38,
       20
-    ],
-    "isOwned": false,
-    "isDontBuy": false
-  },
-  {
-    "id": 318009,
-    "name": "Dinosaur Island: Rawr \u0027n Write",
-    "yearPublished": "2021",
-    "imageUrl": "https://cf.geekdo-images.com/xRP9jo5gfwhfFkgxQBgWTw__original/img/h-5jmA7e2JrfO9DM9OKy0S2MDjw\u003d/0x0/filters:format(png)/pic5622932.png",
-    "minimumNumberOfPlayers": "1",
-    "maximumNumberOfPlayers": "4",
-    "bestNumberOfPlayers": "Best with 2 players",
-    "minimumAge": "10",
-    "linkedGames": [
-      {
-        "id": 353545,
-        "name": "Next Station: London",
-        "yearPublished": "2022",
-        "imageUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__original/img/z7oBkzeFcQLFBlYB5GGO0FFRJ5g\u003d/0x0/filters:format(jpeg)/pic6622999.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__thumb/img/Zjg7k92wAJyj9q4KWORbnWBSStI\u003d/fit-in/200x150/filters:strip_icc()/pic6622999.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2–4 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
-      },
-      {
-        "id": 263918,
-        "name": "Cartographers",
-        "yearPublished": "2019",
-        "imageUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__original/img/YzJORdIDNza8kmrY6KEU_h2p2Wo\u003d/0x0/filters:format(png)/pic4397932.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__thumb/img/TTxZzwbna07hMcPQ0xaFtT10egE\u003d/fit-in/200x150/filters:strip_icc()/pic4397932.png",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "100",
-        "bestNumberOfPlayers": "Best with 3–4 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          20,
-          11,
-          33,
-          11,
-          0
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 8
-      },
-      {
-        "id": 403116,
-        "name": "Next Station: Paris",
-        "yearPublished": "2024",
-        "imageUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__original/img/9VQ5zrxaNZ1CvOHbR6bq0v8BpjI\u003d/0x0/filters:format(jpeg)/pic8049686.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__thumb/img/3pZrQZwUS8_Y6q-Y1UBrYRY0hS8\u003d/fit-in/200x150/filters:strip_icc()/pic8049686.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          25,
-          28,
-          28
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
-      }
-    ],
-    "linkedGamesStrengths": [
-      14,
-      13,
-      22
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -6520,6 +6909,78 @@
       31,
       15,
       5
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
+    "id": 315767,
+    "name": "Cartographers Heroes",
+    "yearPublished": "2021",
+    "imageUrl": "https://cf.geekdo-images.com/HIFpoE6wwuriOREJmqizPw__original/img/14Jiq17EwZ0bKZhyXD3LjcXbTCs\u003d/0x0/filters:format(png)/pic5567490.png",
+    "minimumNumberOfPlayers": "1",
+    "maximumNumberOfPlayers": "100",
+    "bestNumberOfPlayers": "Best with 3–4 players",
+    "minimumAge": "10",
+    "linkedGames": [
+      {
+        "id": 380165,
+        "name": "Next Station: Tokyo",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__original/img/R0cYczenMFvCVjOLuOUpgMyH7cc\u003d/0x0/filters:format(jpeg)/pic7531551.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__thumb/img/EB4T2fjCN4W0bhirADaO8xDWfQI\u003d/fit-in/200x150/filters:strip_icc()/pic7531551.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          27
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 353545,
+        "name": "Next Station: London",
+        "yearPublished": "2022",
+        "imageUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__original/img/z7oBkzeFcQLFBlYB5GGO0FFRJ5g\u003d/0x0/filters:format(jpeg)/pic6622999.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__thumb/img/Zjg7k92wAJyj9q4KWORbnWBSStI\u003d/fit-in/200x150/filters:strip_icc()/pic6622999.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2–4 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 251658,
+        "name": "Sprawlopolis",
+        "yearPublished": "2018",
+        "imageUrl": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__original/img/70LwdlP8ezNxe00B48mSmzFfStU\u003d/0x0/filters:format(png)/pic4654146.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__thumb/img/8IMkDRysr2XJafkJGGWoWRcj3e0\u003d/fit-in/200x150/filters:strip_icc()/pic4654146.png",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 1 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          43,
+          1
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      }
+    ],
+    "linkedGamesStrengths": [
+      10,
+      3,
+      44
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -6746,6 +7207,7 @@
           35,
           16,
           46,
+          32,
           0
         ],
         "isOwned": true,
@@ -7737,6 +8199,87 @@
     "isDontBuy": false
   },
   {
+    "id": 339789,
+    "name": "Welcome to the Moon",
+    "yearPublished": "2021",
+    "imageUrl": "https://cf.geekdo-images.com/eCdiHCB9OobumwaGl4dbOQ__original/img/U4DY7_OUE1XI1m1Fi0iubbf2sEI\u003d/0x0/filters:format(png)/pic6204967.png",
+    "thumbnailUrl": "https://cf.geekdo-images.com/eCdiHCB9OobumwaGl4dbOQ__thumb/img/dyaAIesMyeQWUoLRA25Dj9MhruI\u003d/fit-in/200x150/filters:strip_icc()/pic6204967.png",
+    "minimumNumberOfPlayers": "1",
+    "maximumNumberOfPlayers": "6",
+    "bestNumberOfPlayers": "Best with 2–4 players",
+    "minimumAge": "10",
+    "linkedGames": [
+      {
+        "id": 263918,
+        "name": "Cartographers",
+        "yearPublished": "2019",
+        "imageUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__original/img/YzJORdIDNza8kmrY6KEU_h2p2Wo\u003d/0x0/filters:format(png)/pic4397932.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__thumb/img/TTxZzwbna07hMcPQ0xaFtT10egE\u003d/fit-in/200x150/filters:strip_icc()/pic4397932.png",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "100",
+        "bestNumberOfPlayers": "Best with 3–4 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          20,
+          11,
+          33,
+          11,
+          0,
+          15
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 8
+      },
+      {
+        "id": 403116,
+        "name": "Next Station: Paris",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__original/img/9VQ5zrxaNZ1CvOHbR6bq0v8BpjI\u003d/0x0/filters:format(jpeg)/pic8049686.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__thumb/img/3pZrQZwUS8_Y6q-Y1UBrYRY0hS8\u003d/fit-in/200x150/filters:strip_icc()/pic8049686.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          25,
+          28,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 380165,
+        "name": "Next Station: Tokyo",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__original/img/R0cYczenMFvCVjOLuOUpgMyH7cc\u003d/0x0/filters:format(jpeg)/pic7531551.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__thumb/img/EB4T2fjCN4W0bhirADaO8xDWfQI\u003d/fit-in/200x150/filters:strip_icc()/pic7531551.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          27
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      }
+    ],
+    "linkedGamesStrengths": [
+      18,
+      18,
+      31
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
     "id": 118,
     "name": "Modern Art",
     "yearPublished": "1992",
@@ -7855,96 +8398,6 @@
       23,
       20,
       27
-    ],
-    "isOwned": false,
-    "isDontBuy": false
-  },
-  {
-    "id": 353152,
-    "name": "Framework",
-    "yearPublished": "2022",
-    "imageUrl": "https://cf.geekdo-images.com/ZpCVs_p1wlbiSFOg1nNVoA__original/img/DWBfCFZIP4TiC0Ae3txC1ADeDOs\u003d/0x0/filters:format(jpeg)/pic6573332.jpg",
-    "minimumNumberOfPlayers": "1",
-    "maximumNumberOfPlayers": "4",
-    "bestNumberOfPlayers": "Best with 2 players",
-    "minimumAge": "8",
-    "linkedGames": [
-      {
-        "id": 163412,
-        "name": "Patchwork",
-        "yearPublished": "2014",
-        "imageUrl": "https://cf.geekdo-images.com/RDOwMRBnIb3Ehl6GyXj9xg__original/img/iVl8KAZ8JMmDXsnBqQecFRkOhK8\u003d/0x0/filters:format(jpeg)/pic8669620.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/RDOwMRBnIb3Ehl6GyXj9xg__thumb/img/nxex9ASN99exPLXEc9E4s08qZzc\u003d/fit-in/200x150/filters:strip_icc()/pic8669620.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "2",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          14,
-          11,
-          7,
-          14
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      },
-      {
-        "id": 295947,
-        "name": "Cascadia",
-        "yearPublished": "2021",
-        "imageUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__original/img/B374C04Eip7fmQBGJzgiOTp-jyQ\u003d/0x0/filters:format(jpeg)/pic5100691.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__thumb/img/tVSFjSxYEcw7sKj3unIIQV8kxoc\u003d/fit-in/200x150/filters:strip_icc()/pic5100691.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2–3 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          12,
-          3,
-          10,
-          20,
-          17,
-          16,
-          48,
-          7,
-          2,
-          8,
-          20,
-          34
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      },
-      {
-        "id": 391163,
-        "name": "Forest Shuffle",
-        "yearPublished": "2023",
-        "imageUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__original/img/GcBtTHjdPXagHE-IOCpQ0he6rN4\u003d/0x0/filters:format(jpeg)/pic7578350.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__thumb/img/Xq8TNBmMl3Z7DoynvbUXchFAztc\u003d/fit-in/200x150/filters:strip_icc()/pic7578350.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "5",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          17,
-          17,
-          6,
-          36
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      }
-    ],
-    "linkedGamesStrengths": [
-      23,
-      47,
-      16
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -8236,88 +8689,6 @@
     "isDontBuy": false
   },
   {
-    "id": 347013,
-    "name": "Get on Board: New York \u0026 London",
-    "yearPublished": "2022",
-    "imageUrl": "https://cf.geekdo-images.com/hXevthEzKVew8nqfziCneA__original/img/ViHBPC4pKHbp-eCupEcdVJ6RWus\u003d/0x0/filters:format(jpeg)/pic6399596.jpg",
-    "minimumNumberOfPlayers": "2",
-    "maximumNumberOfPlayers": "5",
-    "bestNumberOfPlayers": "Best with 3 players",
-    "minimumAge": "8",
-    "linkedGames": [
-      {
-        "id": 403116,
-        "name": "Next Station: Paris",
-        "yearPublished": "2024",
-        "imageUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__original/img/9VQ5zrxaNZ1CvOHbR6bq0v8BpjI\u003d/0x0/filters:format(jpeg)/pic8049686.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__thumb/img/3pZrQZwUS8_Y6q-Y1UBrYRY0hS8\u003d/fit-in/200x150/filters:strip_icc()/pic8049686.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          25,
-          28,
-          28
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
-      },
-      {
-        "id": 353545,
-        "name": "Next Station: London",
-        "yearPublished": "2022",
-        "imageUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__original/img/z7oBkzeFcQLFBlYB5GGO0FFRJ5g\u003d/0x0/filters:format(jpeg)/pic6622999.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__thumb/img/Zjg7k92wAJyj9q4KWORbnWBSStI\u003d/fit-in/200x150/filters:strip_icc()/pic6622999.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2–4 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
-      },
-      {
-        "id": 359152,
-        "name": "Marvel: Remix",
-        "yearPublished": "2022",
-        "imageUrl": "https://cf.geekdo-images.com/1EilwFEoi4ZLKX7aqw2mmQ__original/img/6WBhVvFaJ17bkDv605GQUuQLNGk\u003d/0x0/filters:format(jpeg)/pic6778570.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/1EilwFEoi4ZLKX7aqw2mmQ__thumb/img/M93SM3m3ekHA_p-UKMJ8d7bpuRA\u003d/fit-in/200x150/filters:strip_icc()/pic6778570.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "6",
-        "bestNumberOfPlayers": "Best with 3 players",
-        "minimumAge": "12",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          17,
-          27,
-          10,
-          0,
-          46,
-          27,
-          37,
-          27,
-          9,
-          49
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      }
-    ],
-    "linkedGamesStrengths": [
-      45,
-      14,
-      8
-    ],
-    "isOwned": false,
-    "isDontBuy": false
-  },
-  {
     "id": 148949,
     "name": "Istanbul",
     "yearPublished": "2014",
@@ -8518,6 +8889,7 @@
           35,
           16,
           46,
+          32,
           0
         ],
         "isOwned": true,
@@ -8560,6 +8932,96 @@
     ],
     "linkedGamesStrengths": [
       7,
+      11
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
+    "id": 295607,
+    "name": "Canopy",
+    "yearPublished": "2021",
+    "imageUrl": "https://cf.geekdo-images.com/-zWPMAXd1IZllCMAP5IeVA__original/img/vk0v34dLBl4utcZV-Kqc3QXVIUo\u003d/0x0/filters:format(jpeg)/pic5090694.jpg",
+    "minimumNumberOfPlayers": "1",
+    "maximumNumberOfPlayers": "4",
+    "bestNumberOfPlayers": "Best with 2 players",
+    "minimumAge": "8",
+    "linkedGames": [
+      {
+        "id": 411875,
+        "name": "Pixies",
+        "yearPublished": "2024",
+        "imageUrl": "https://cf.geekdo-images.com/HzOXZ-dmxkD0ZJoHF49_vA__original/img/kGlcHoV6DViw14Nxo8_QydXl1RU\u003d/0x0/filters:format(jpeg)/pic7975645.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/HzOXZ-dmxkD0ZJoHF49_vA__thumb/img/S4swCbvBHeQBOJk9Ah2-d-Ybr4k\u003d/fit-in/200x150/filters:strip_icc()/pic7975645.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          38,
+          40,
+          43,
+          43,
+          0,
+          28
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 6
+      },
+      {
+        "id": 295947,
+        "name": "Cascadia",
+        "yearPublished": "2021",
+        "imageUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__original/img/B374C04Eip7fmQBGJzgiOTp-jyQ\u003d/0x0/filters:format(jpeg)/pic5100691.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__thumb/img/tVSFjSxYEcw7sKj3unIIQV8kxoc\u003d/fit-in/200x150/filters:strip_icc()/pic5100691.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2–3 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          12,
+          3,
+          10,
+          20,
+          17,
+          16,
+          48,
+          7,
+          2,
+          6,
+          8,
+          20,
+          34
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 380165,
+        "name": "Next Station: Tokyo",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__original/img/R0cYczenMFvCVjOLuOUpgMyH7cc\u003d/0x0/filters:format(jpeg)/pic7531551.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__thumb/img/EB4T2fjCN4W0bhirADaO8xDWfQI\u003d/fit-in/200x150/filters:strip_icc()/pic7531551.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          27
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      }
+    ],
+    "linkedGamesStrengths": [
+      18,
+      37,
       11
     ],
     "isOwned": false,
@@ -8721,7 +9183,8 @@
           11,
           33,
           11,
-          0
+          0,
+          15
         ],
         "isOwned": true,
         "isDontBuy": false,
@@ -8903,6 +9366,7 @@
           48,
           7,
           2,
+          6,
           8,
           20,
           34
@@ -8972,6 +9436,7 @@
           48,
           7,
           2,
+          6,
           8,
           20,
           34
@@ -9224,6 +9689,7 @@
           48,
           7,
           2,
+          6,
           8,
           20,
           34
@@ -9403,6 +9869,7 @@
           35,
           16,
           46,
+          32,
           0
         ],
         "isOwned": true,
@@ -9470,67 +9937,6 @@
     "linkedGamesStrengths": [
       4,
       22
-    ],
-    "isOwned": false,
-    "isDontBuy": false
-  },
-  {
-    "id": 339789,
-    "name": "Welcome to the Moon",
-    "yearPublished": "2021",
-    "imageUrl": "https://cf.geekdo-images.com/eCdiHCB9OobumwaGl4dbOQ__original/img/U4DY7_OUE1XI1m1Fi0iubbf2sEI\u003d/0x0/filters:format(png)/pic6204967.png",
-    "thumbnailUrl": "https://cf.geekdo-images.com/eCdiHCB9OobumwaGl4dbOQ__thumb/img/dyaAIesMyeQWUoLRA25Dj9MhruI\u003d/fit-in/200x150/filters:strip_icc()/pic6204967.png",
-    "minimumNumberOfPlayers": "1",
-    "maximumNumberOfPlayers": "6",
-    "bestNumberOfPlayers": "Best with 2–4 players",
-    "minimumAge": "10",
-    "linkedGames": [
-      {
-        "id": 263918,
-        "name": "Cartographers",
-        "yearPublished": "2019",
-        "imageUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__original/img/YzJORdIDNza8kmrY6KEU_h2p2Wo\u003d/0x0/filters:format(png)/pic4397932.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__thumb/img/TTxZzwbna07hMcPQ0xaFtT10egE\u003d/fit-in/200x150/filters:strip_icc()/pic4397932.png",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "100",
-        "bestNumberOfPlayers": "Best with 3–4 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          20,
-          11,
-          33,
-          11,
-          0
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 8
-      },
-      {
-        "id": 403116,
-        "name": "Next Station: Paris",
-        "yearPublished": "2024",
-        "imageUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__original/img/9VQ5zrxaNZ1CvOHbR6bq0v8BpjI\u003d/0x0/filters:format(jpeg)/pic8049686.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__thumb/img/3pZrQZwUS8_Y6q-Y1UBrYRY0hS8\u003d/fit-in/200x150/filters:strip_icc()/pic8049686.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          25,
-          28,
-          28
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
-      }
-    ],
-    "linkedGamesStrengths": [
-      18,
-      18
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -9747,6 +10153,65 @@
     "isDontBuy": false
   },
   {
+    "id": 338460,
+    "name": "The Isle of Cats: Explore \u0026 Draw",
+    "yearPublished": "2022",
+    "imageUrl": "https://cf.geekdo-images.com/D5yGodTg1dUuAki6nWzu4A__original/img/t__lWLSYAYemnrGeT6QPe7nDwBA\u003d/0x0/filters:format(jpeg)/pic6173135.jpg",
+    "minimumNumberOfPlayers": "1",
+    "maximumNumberOfPlayers": "6",
+    "bestNumberOfPlayers": "Best with 2–3 players",
+    "minimumAge": "10",
+    "linkedGames": [
+      {
+        "id": 263918,
+        "name": "Cartographers",
+        "yearPublished": "2019",
+        "imageUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__original/img/YzJORdIDNza8kmrY6KEU_h2p2Wo\u003d/0x0/filters:format(png)/pic4397932.png",
+        "thumbnailUrl": "https://cf.geekdo-images.com/GifbnAmsA4lfEcDkeaC9VA__thumb/img/TTxZzwbna07hMcPQ0xaFtT10egE\u003d/fit-in/200x150/filters:strip_icc()/pic4397932.png",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "100",
+        "bestNumberOfPlayers": "Best with 3–4 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          20,
+          11,
+          33,
+          11,
+          0,
+          15
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 8
+      },
+      {
+        "id": 380165,
+        "name": "Next Station: Tokyo",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__original/img/R0cYczenMFvCVjOLuOUpgMyH7cc\u003d/0x0/filters:format(jpeg)/pic7531551.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__thumb/img/EB4T2fjCN4W0bhirADaO8xDWfQI\u003d/fit-in/200x150/filters:strip_icc()/pic7531551.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          27
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      }
+    ],
+    "linkedGamesStrengths": [
+      5,
+      28
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
     "id": 414317,
     "name": "Harmonies",
     "yearPublished": "2024",
@@ -9793,6 +10258,7 @@
           48,
           7,
           2,
+          6,
           8,
           20,
           34
@@ -9949,6 +10415,7 @@
           40,
           31,
           36,
+          23,
           20,
           12,
           42,
@@ -10034,6 +10501,7 @@
           40,
           31,
           36,
+          23,
           20,
           12,
           42,
@@ -10248,60 +10716,6 @@
     "isDontBuy": false
   },
   {
-    "id": 362164,
-    "name": "Pioneer Rails",
-    "yearPublished": "2023",
-    "imageUrl": "https://cf.geekdo-images.com/zFtCdg2K7NEV9BPaEzgAbQ__original/img/DJikn7JFCiBKxk7XzEk2BTkZ__A\u003d/0x0/filters:format(png)/pic6842458.png",
-    "minimumNumberOfPlayers": "1",
-    "maximumNumberOfPlayers": "80",
-    "bestNumberOfPlayers": "Best with 2–3 players",
-    "minimumAge": "10",
-    "linkedGames": [
-      {
-        "id": 403116,
-        "name": "Next Station: Paris",
-        "yearPublished": "2024",
-        "imageUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__original/img/9VQ5zrxaNZ1CvOHbR6bq0v8BpjI\u003d/0x0/filters:format(jpeg)/pic8049686.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/ddc6SiDsqwjBTgIRu0ZN3g__thumb/img/3pZrQZwUS8_Y6q-Y1UBrYRY0hS8\u003d/fit-in/200x150/filters:strip_icc()/pic8049686.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          25,
-          28,
-          28
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
-      },
-      {
-        "id": 353545,
-        "name": "Next Station: London",
-        "yearPublished": "2022",
-        "imageUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__original/img/z7oBkzeFcQLFBlYB5GGO0FFRJ5g\u003d/0x0/filters:format(jpeg)/pic6622999.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__thumb/img/Zjg7k92wAJyj9q4KWORbnWBSStI\u003d/fit-in/200x150/filters:strip_icc()/pic6622999.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2–4 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
-      }
-    ],
-    "linkedGamesStrengths": [
-      21,
-      6
-    ],
-    "isOwned": false,
-    "isDontBuy": false
-  },
-  {
     "id": 309110,
     "name": "Food Chain Island",
     "yearPublished": "2020",
@@ -10416,76 +10830,6 @@
     "linkedGamesStrengths": [
       9,
       43
-    ],
-    "isOwned": false,
-    "isDontBuy": false
-  },
-  {
-    "id": 295607,
-    "name": "Canopy",
-    "yearPublished": "2021",
-    "imageUrl": "https://cf.geekdo-images.com/-zWPMAXd1IZllCMAP5IeVA__original/img/vk0v34dLBl4utcZV-Kqc3QXVIUo\u003d/0x0/filters:format(jpeg)/pic5090694.jpg",
-    "minimumNumberOfPlayers": "1",
-    "maximumNumberOfPlayers": "4",
-    "bestNumberOfPlayers": "Best with 2 players",
-    "minimumAge": "8",
-    "linkedGames": [
-      {
-        "id": 411875,
-        "name": "Pixies",
-        "yearPublished": "2024",
-        "imageUrl": "https://cf.geekdo-images.com/HzOXZ-dmxkD0ZJoHF49_vA__original/img/kGlcHoV6DViw14Nxo8_QydXl1RU\u003d/0x0/filters:format(jpeg)/pic7975645.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/HzOXZ-dmxkD0ZJoHF49_vA__thumb/img/S4swCbvBHeQBOJk9Ah2-d-Ybr4k\u003d/fit-in/200x150/filters:strip_icc()/pic7975645.jpg",
-        "minimumNumberOfPlayers": "2",
-        "maximumNumberOfPlayers": "5",
-        "bestNumberOfPlayers": "Best with 2 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          38,
-          40,
-          43,
-          43,
-          0,
-          28
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
-      },
-      {
-        "id": 295947,
-        "name": "Cascadia",
-        "yearPublished": "2021",
-        "imageUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__original/img/B374C04Eip7fmQBGJzgiOTp-jyQ\u003d/0x0/filters:format(jpeg)/pic5100691.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/MjeJZfulbsM1DSV3DrGJYA__thumb/img/tVSFjSxYEcw7sKj3unIIQV8kxoc\u003d/fit-in/200x150/filters:strip_icc()/pic5100691.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2–3 players",
-        "minimumAge": "10",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          12,
-          3,
-          10,
-          20,
-          17,
-          16,
-          48,
-          7,
-          2,
-          8,
-          20,
-          34
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      }
-    ],
-    "linkedGamesStrengths": [
-      18,
-      11
     ],
     "isOwned": false,
     "isDontBuy": false
@@ -10913,6 +11257,7 @@
           40,
           31,
           36,
+          23,
           20,
           12,
           42,
@@ -11134,6 +11479,7 @@
           40,
           31,
           36,
+          23,
           20,
           12,
           42,
@@ -11339,6 +11685,7 @@
           48,
           7,
           2,
+          6,
           8,
           20,
           34
@@ -11381,7 +11728,8 @@
           11,
           33,
           11,
-          0
+          0,
+          15
         ],
         "isOwned": true,
         "isDontBuy": false,
@@ -11543,7 +11891,8 @@
           11,
           33,
           11,
-          0
+          0,
+          15
         ],
         "isOwned": true,
         "isDontBuy": false,
@@ -11599,7 +11948,8 @@
           11,
           33,
           11,
-          0
+          0,
+          15
         ],
         "isOwned": true,
         "isDontBuy": false,
@@ -11794,59 +12144,6 @@
     "isDontBuy": false
   },
   {
-    "id": 315767,
-    "name": "Cartographers Heroes",
-    "yearPublished": "2021",
-    "imageUrl": "https://cf.geekdo-images.com/HIFpoE6wwuriOREJmqizPw__original/img/14Jiq17EwZ0bKZhyXD3LjcXbTCs\u003d/0x0/filters:format(png)/pic5567490.png",
-    "minimumNumberOfPlayers": "1",
-    "maximumNumberOfPlayers": "100",
-    "bestNumberOfPlayers": "Best with 3–4 players",
-    "minimumAge": "10",
-    "linkedGames": [
-      {
-        "id": 353545,
-        "name": "Next Station: London",
-        "yearPublished": "2022",
-        "imageUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__original/img/z7oBkzeFcQLFBlYB5GGO0FFRJ5g\u003d/0x0/filters:format(jpeg)/pic6622999.jpg",
-        "thumbnailUrl": "https://cf.geekdo-images.com/4rsQZkCUHeyxTlOBmTUFSA__thumb/img/Zjg7k92wAJyj9q4KWORbnWBSStI\u003d/fit-in/200x150/filters:strip_icc()/pic6622999.jpg",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 2–4 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 6
-      },
-      {
-        "id": 251658,
-        "name": "Sprawlopolis",
-        "yearPublished": "2018",
-        "imageUrl": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__original/img/70LwdlP8ezNxe00B48mSmzFfStU\u003d/0x0/filters:format(png)/pic4654146.png",
-        "thumbnailUrl": "https://cf.geekdo-images.com/aZ3I9B_aEywK4O_qP_Hz9w__thumb/img/8IMkDRysr2XJafkJGGWoWRcj3e0\u003d/fit-in/200x150/filters:strip_icc()/pic4654146.png",
-        "minimumNumberOfPlayers": "1",
-        "maximumNumberOfPlayers": "4",
-        "bestNumberOfPlayers": "Best with 1 players",
-        "minimumAge": "8",
-        "linkedGames": [],
-        "linkedGamesStrengths": [
-          43,
-          1
-        ],
-        "isOwned": true,
-        "isDontBuy": false,
-        "myRating": 7
-      }
-    ],
-    "linkedGamesStrengths": [
-      10,
-      44
-    ],
-    "isOwned": false,
-    "isDontBuy": false
-  },
-  {
     "id": 176165,
     "name": "Dale of Merchants",
     "yearPublished": "2015",
@@ -11982,6 +12279,7 @@
           35,
           16,
           46,
+          32,
           0
         ],
         "isOwned": true,
@@ -12009,6 +12307,7 @@
           48,
           7,
           2,
+          6,
           8,
           20,
           34
@@ -12167,6 +12466,7 @@
           35,
           16,
           46,
+          32,
           0
         ],
         "isOwned": true,
@@ -12500,6 +12800,63 @@
     "isDontBuy": false
   },
   {
+    "id": 390092,
+    "name": "Ticket to Ride Legacy: Legends of the West",
+    "yearPublished": "2023",
+    "imageUrl": "https://cf.geekdo-images.com/2H0pJddVJA3r6btqRNLG1g__original/img/q8N6sz7FIZkbXe_0d4RiIfM8aNU\u003d/0x0/filters:format(png)/pic7541330.png",
+    "minimumNumberOfPlayers": "2",
+    "maximumNumberOfPlayers": "5",
+    "bestNumberOfPlayers": "Best with 4 players",
+    "minimumAge": "10",
+    "linkedGames": [
+      {
+        "id": 380165,
+        "name": "Next Station: Tokyo",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__original/img/R0cYczenMFvCVjOLuOUpgMyH7cc\u003d/0x0/filters:format(jpeg)/pic7531551.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/2lXilYYoalwAaU-DiVN8CQ__thumb/img/EB4T2fjCN4W0bhirADaO8xDWfQI\u003d/fit-in/200x150/filters:strip_icc()/pic7531551.jpg",
+        "minimumNumberOfPlayers": "1",
+        "maximumNumberOfPlayers": "4",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "8",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          27
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      },
+      {
+        "id": 391163,
+        "name": "Forest Shuffle",
+        "yearPublished": "2023",
+        "imageUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__original/img/GcBtTHjdPXagHE-IOCpQ0he6rN4\u003d/0x0/filters:format(jpeg)/pic7578350.jpg",
+        "thumbnailUrl": "https://cf.geekdo-images.com/08bC8NviSTNc4Zvur4pueA__thumb/img/Xq8TNBmMl3Z7DoynvbUXchFAztc\u003d/fit-in/200x150/filters:strip_icc()/pic7578350.jpg",
+        "minimumNumberOfPlayers": "2",
+        "maximumNumberOfPlayers": "5",
+        "bestNumberOfPlayers": "Best with 2 players",
+        "minimumAge": "10",
+        "linkedGames": [],
+        "linkedGamesStrengths": [
+          17,
+          17,
+          6,
+          36
+        ],
+        "isOwned": true,
+        "isDontBuy": false,
+        "myRating": 7
+      }
+    ],
+    "linkedGamesStrengths": [
+      34,
+      25
+    ],
+    "isOwned": false,
+    "isDontBuy": false
+  },
+  {
     "id": 166669,
     "name": "San Juan (Second Edition)",
     "yearPublished": "2014",
@@ -12677,6 +13034,7 @@
           35,
           16,
           46,
+          32,
           0
         ],
         "isOwned": true,
@@ -13387,6 +13745,7 @@
           40,
           31,
           36,
+          23,
           20,
           12,
           42,
@@ -13909,6 +14268,7 @@
           48,
           7,
           2,
+          6,
           8,
           20,
           34
@@ -13970,6 +14330,7 @@
           35,
           16,
           46,
+          32,
           0
         ],
         "isOwned": true,
@@ -14010,6 +14371,7 @@
           35,
           16,
           46,
+          32,
           0
         ],
         "isOwned": true,
@@ -14079,6 +14441,7 @@
           48,
           7,
           2,
+          6,
           8,
           20,
           34
