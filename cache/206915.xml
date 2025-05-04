@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="206915">
+         <thumbnail>https://cf.geekdo-images.com/ClTSck2VjriYWdVDv4FKNQ__thumb/img/PrC07RyIVgF1Rqi9-MMiCnbck08=/fit-in/200x150/filters:strip_icc()/pic3141267.png</thumbnail>
+      <image>https://cf.geekdo-images.com/ClTSck2VjriYWdVDv4FKNQ__original/img/R9-cKEvUx2ED6DKwN_MqPwBmQYU=/0x0/filters:format(png)/pic3141267.png</image>
+                                     				
+				<name type="primary" sortindex="1" value="Tempel des Schreckens" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Amazonki" />
+			
+						               													<description>You've finally reached the Temple of Secrets with its immense treasure of gold &amp;mdash; but what awaits you here? Fabulous wealth or total destruction? The proud and mysterious temple guards who are hiding amongst the adventurers are trying to lure them onto the wrong track in order to protect their gold. Skillfully and with a deceitful tongue, they try to convince you to open the grave chambers behind which lies a dangerous fire trap. Can you trust anyone in the group when you don't know whether they're friend or foe?&amp;#10;&amp;#10;Tempel des Schreckens is a quick-playing bluffing game that reimplements the gameplay of TimeBomb in a new setting and for a larger group of players.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="10" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="83">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="58" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="58" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="10" />
+					<result value="Not Recommended" numvotes="45" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="6" />
+					<result value="Recommended" numvotes="39" />
+					<result value="Not Recommended" numvotes="17" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="27" />
+					<result value="Recommended" numvotes="35" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="46" />
+					<result value="Recommended" numvotes="21" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="40" />
+					<result value="Recommended" numvotes="14" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="8">		
+					<result value="Best" numvotes="20" />
+					<result value="Recommended" numvotes="28" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="9">		
+					<result value="Best" numvotes="9" />
+					<result value="Recommended" numvotes="26" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="10">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="10+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="33" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6–7 players" />
+  <result name="recommmendedwith" value="Recommended with 4–10 players" />
+</poll-summary> 			               				<playingtime value="15" />
+						               				<minplaytime value="15" />
+						               				<maxplaytime value="15" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="15">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="4" />
+					<result value="8" numvotes="10" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="9">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="8" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1023" value="Bluffing" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1026" value="Negotiation" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2891" value="Hidden Roles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2019" value="Team-Based Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2814" value="Traitor Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21940" value="Theme: Archaeology / Paleontology" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="69032" value="Theme: Temple" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="170587" value="Don&#039;t Mess with Cthulhu" inbound="true"/>
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="236217" value="Timebomb" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="82544" value="佐藤 雄介 (Yusuke Sato)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="74305" value="Irene Bressel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="124530" value="Marcin Makowski" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27470" value="Lucrum Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38" value="Schmidt Spiele" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="3192" />
+			<average value="7.23078" />
+			<bayesaverage value="6.50613" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1251" bayesaverage="6.50613" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="55" bayesaverage="6.81569" />
+												</ranks>
+
+			<stddev value="1.35271" />
+			<median value="0" />
+			<owned value="6207" />
+			<trading value="58" />
+			<wanting value="57" />
+			<wishing value="605" />
+			<numcomments value="407" />
+			<numweights value="90" />
+			<averageweight value="1.1556" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
