@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="245487">
+         <thumbnail>https://cf.geekdo-images.com/tAlkLzFCj-OusgaxQo7SxQ__small/img/ePGNy1jSXaVuTx05OYcsOTubEjA=/fit-in/200x150/filters:strip_icc()/pic5159434.png</thumbnail>
+      <image>https://cf.geekdo-images.com/tAlkLzFCj-OusgaxQo7SxQ__original/img/QEz5rtHvpnZ_uGaBipjknwQ3gKI=/0x0/filters:format(png)/pic5159434.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Orchard: 9 card solitaire game" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Obsthain: Ein Solo-Spiel" />
+			    				
+				<name type="alternate" sortindex="1" value="Orchard: Gioco solitario in 9 carte" />
+			    				
+				<name type="alternate" sortindex="1" value="Orchard: Jeu de 9 cartes solitaire" />
+			    				
+				<name type="alternate" sortindex="1" value="Orchard: Solospel met 9 kaarten" />
+			    				
+				<name type="alternate" sortindex="1" value="Orchard: Un juego en solitario de 9 cartas" />
+			    				
+				<name type="alternate" sortindex="1" value="Οπωρώνας" />
+			    				
+				<name type="alternate" sortindex="1" value="果园" />
+			    				
+				<name type="alternate" sortindex="1" value="果実の楽園" />
+			    				
+				<name type="alternate" sortindex="1" value="과수원" />
+			
+						               													<description>Orchard is a quick solitaire &amp;quot;tile laying&amp;quot; game that plays in under 10 minutes and that won the 2018 9-Card Nanogame Print and Play Design Contest. The aim of the game is to harvest fruit (score points) by playing cards so that their fruit trees overlap other trees already in the orchard that bear the same fruit. The more trees you can overlap, the more fruit you'll pick.&amp;#10;&amp;#10;There are 18 cards, of which you use 9 in any one game. For &amp;quot;print and play&amp;quot; you'll need 15 dice (5 each of three colours) to keep track of your increasing harvest, and two cubes to represent &amp;quot;rotten&amp;quot; fruit. These allow you to lay a card that you wouldn't otherwise be able to &amp;mdash; but come with a points penalty, so you must decide if and when to play them.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="1" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="70">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="64" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="1+">		
+					<result value="Best" numvotes="3" />
+					<result value="Recommended" numvotes="9" />
+					<result value="Not Recommended" numvotes="38" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 1 players" />
+  <result name="recommmendedwith" value="Recommended with 1 players" />
+</poll-summary> 			               				<playingtime value="10" />
+						               				<minplaytime value="5" />
+						               				<maxplaytime value="10" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="18">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="6" />
+					<result value="8" numvotes="10" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="8">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="8" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1013" value="Farming" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1120" value="Print &amp; Play" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3001" value="Layering" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2981" value="Melding and Splaying" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2048" value="Pattern Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73039" value="Category: Print-on-Demand" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="52917" value="Contests: 9 Card Nanogame PnP" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="8374" value="Crowdfunding: Kickstarter" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="71212" value="Food &amp; Drink: Fruit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65208" value="Mechanism: Partially overlapping cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61977" value="Players: Solitaire Only Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="109690" value="Series: Harvesting (Side Room Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48865" value="Theme: Gardening" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="452850" value="More Orchard Recipes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="407003" value="Orchard: Recipes" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="426354" value="Orchard/Grove/Forage: Collector&#039;s Box" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="373577" value="Forage: A 9 card solitaire game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="329873" value="Grove: 9 card solitaire game" />
+		
+									
+			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="90925" value="Mark Tuck" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="90925" value="Mark Tuck" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4" value="(Self-Published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1001" value="(Web published)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4001" value="Abi Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36754" value="Board Game Circus" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="31071" value="Dexker Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41412" value="Gam&#039;inBIZ" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38209" value="Gameland 游戏大陆" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30155" value="GateOnGames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46459" value="Giga Mech Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47012" value="Guf Studios" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="41030" value="Lotus Frog Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="42352" value="Meeple On Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45074" value="Melmac Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39453" value="Side Room Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="43864" value="Treetato Studio" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4078" />
+			<average value="7.24486" />
+			<bayesaverage value="6.59066" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="1094" bayesaverage="6.59066" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="44" bayesaverage="6.8826" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="292" bayesaverage="6.7181" />
+												</ranks>
+
+			<stddev value="1.223" />
+			<median value="0" />
+			<owned value="8694" />
+			<trading value="98" />
+			<wanting value="87" />
+			<wishing value="1183" />
+			<numcomments value="1022" />
+			<numweights value="113" />
+			<averageweight value="1.1947" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

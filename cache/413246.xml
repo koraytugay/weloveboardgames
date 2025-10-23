@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="413246">
+         <thumbnail>https://cf.geekdo-images.com/HpGXIlt5i6T-0jbiQRReOg__small/img/8wfQelnNsbXCykJWMjD8UAjhleU=/fit-in/200x150/filters:strip_icc()/pic8303080.png</thumbnail>
+      <image>https://cf.geekdo-images.com/HpGXIlt5i6T-0jbiQRReOg__original/img/2uApg8IOYjNVSzbUIwJUa-Z8eL8=/0x0/filters:format(png)/pic8303080.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Bomb Busters" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Bombairtók" />
+			    				
+				<name type="alternate" sortindex="1" value="Caza Bombas" />
+			    				
+				<name type="alternate" sortindex="1" value="Jedeme bomby!" />
+			    				
+				<name type="alternate" sortindex="1" value="Бомбастери" />
+			    				
+				<name type="alternate" sortindex="1" value="Это бомба!" />
+			    				
+				<name type="alternate" sortindex="1" value="ボムバスターズ" />
+			    				
+				<name type="alternate" sortindex="1" value="炸弹克星" />
+			    				
+				<name type="alternate" sortindex="1" value="봄버스터즈" />
+			
+						               													<description>There is a bomb full of wires and the countdown has started... Who are you gonna call? YOU! To clear the bomb, you need to collaborate with your team of bomb disposal experts! Using the wires on the tile holder in front of you, try and figure out your teammates&amp;rsquo; wires. Find and cut identical wires, but watch out, if you cut a red wire: BOOM! Use your equipment wisely to meet the varied challenges which get harder and harder. Tick tock tick tock... Will you figure it out before it&amp;rsquo;s too late?&amp;#10;&amp;#10;In Bomb Busters, there is a set of 48 normal wire cards numbered 1-12 (4 of each value) with some yellow and red wire cards. These are dealt out. Each mission is different, but your goal is always the same: go through all 12 numbers without blowing up!&amp;#10;&amp;#10;Players place the tiles on their stands and then take turns pointing at each others&amp;rsquo; wires and guessing their values. If the guess is correct, the wires are cut. If not &amp;mdash; the detonator advances! If you manage to cut all wires without blowing up &amp;mdash; good job, the mission is completed! But if the bomb goes off - Try again!&amp;#10;&amp;#10;With 66 missions, there will be:&amp;#10;=&amp;gt; 66 different ways to play depending on your moods (in order, by level of difficulty, favorite configuration)&amp;#10;=&amp;gt; 66 challenges to play over and over (even if you already blew your top!)&amp;#10;=&amp;gt; Plenty of tricky bombs which become more and more dangerous (but don&amp;rsquo;t get cut up about it!)&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2024" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="247">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="150" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="82" />
+					<result value="Not Recommended" numvotes="79" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="20" />
+					<result value="Recommended" numvotes="135" />
+					<result value="Not Recommended" numvotes="33" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="186" />
+					<result value="Recommended" numvotes="34" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="54" />
+					<result value="Recommended" numvotes="108" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="102" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–5 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="40">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="2" />
+					<result value="8" numvotes="14" />
+					<result value="10" numvotes="19" />
+					<result value="12" numvotes="4" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="17">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="6" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="9" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="2" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1081" value="Spies / Secret Agents" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2047" value="Memory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2846" value="Once-Per-Game Abilities" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2831" value="Real-Time" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2884" value="Sudden Death Ending" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73596" value="Digital Implementations: TableTop Simulator Mod (TTS)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="11111" value="Mechanism: Deduction – Blind Man&#039;s Bluff" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="430579" value="Bomb Busters: 3 New Missions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="444110" value="Bomb Busters: La cité de la peur Mission" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="439436" value="Bomb Busters: Valentine&#039;s Day Mission" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="323609" value="Bomb Squad" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="39436" value="Hisashi Hayashi" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="37376" value="Dominique Ferland" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2691" value="Cocktail Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="267" value="999 Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9068" value="Broadway Toys LTD" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39390" value="Engames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3218" value="Lautapelit.fi" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7992" value="MINDOK" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34627" value="Nasza Księgarnia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36563" value="Reflexshop" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44209" value="Ігромаг" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="7020" />
+			<average value="8.04306" />
+			<bayesaverage value="7.38176" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="185" bayesaverage="7.38176" />
+																				<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="21" bayesaverage="7.52995" />
+												</ranks>
+
+			<stddev value="1.2116" />
+			<median value="0" />
+			<owned value="14297" />
+			<trading value="52" />
+			<wanting value="603" />
+			<wishing value="5111" />
+			<numcomments value="981" />
+			<numweights value="208" />
+			<averageweight value="1.9471" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

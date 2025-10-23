@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="316412">
+         <thumbnail>https://cf.geekdo-images.com/NPWdxDD5uLOBLBDdVgdLvA__small/img/7464PJPFWWPzsOUMvf8t860zct0=/fit-in/200x150/filters:strip_icc()/pic6034093.png</thumbnail>
+      <image>https://cf.geekdo-images.com/NPWdxDD5uLOBLBDdVgdLvA__original/img/zlx0Qqcgt0TLu62F5sKUmYTDNvc=/0x0/filters:format(png)/pic6034093.png</image>
+   	                                  				
+				<name type="primary" sortindex="5" value="The LOOP" />
+			
+						                               				
+				<name type="alternate" sortindex="4" value="El Bucle" />
+			    				
+				<name type="alternate" sortindex="5" value="The LOOP: Dr Foo strikes back...back...back" />
+			    				
+				<name type="alternate" sortindex="1" value="Pętla" />
+			    				
+				<name type="alternate" sortindex="1" value="Петля" />
+			    				
+				<name type="alternate" sortindex="1" value="더 루프" />
+			
+						               													<description>The LOOP is a quirky, cooperative, time-traveling strategy game where 1 to 4 players become temporal agents working together to thwart the evil Dr. Faux, a mad scientist creating chaos across the space-time continuum. Using quirky yet powerful Artifact cards, players must complete missions, destroy clones, and manage time-rending vortexes before it's too late.&amp;#10;&amp;#10;Each game unfolds across 7 Eras of Spacetime, with players activating special powers, chaining combos through the signature LOOP mechanic, and using energy to perform additional actions. Dr. Faux&amp;rsquo;s randomized movements and his cube-dropping 3D Machine introduce constant unpredictability and mounting tension, requiring teamwork and smart tactical choices.&amp;#10;&amp;#10;Players can choose from several game modes, including:&amp;#10;&amp;#10;     S.A.B.O.T.A.G.E. &amp;ndash; The base mission structure&amp;#10;     Sayan Supa Clones &amp;ndash; Introduces beefed-up clones and persistent energy cubes&amp;#10;     L.A.S.E.R. Centrifuges &amp;ndash; Limits action types by dimension, requiring precision&amp;#10;     Ultramachina &amp;ndash; A multi-phase escalation mode with evolving threats&amp;#10;&amp;#10;&amp;#10;Victory comes by completing missions (and sometimes additional tasks, depending on the mode). Defeat is always looming, whether through too many vortexes, failed missions, or running out of time.&amp;#10;&amp;#10;With its retro sci-fi aesthetic, satirical humor, and satisfying puzzle-like gameplay, The LOOP offers high replayability, inventive combo play, and a delightfully chaotic journey through time.&amp;#10;&amp;#10;Similar to:&amp;#10;&amp;#10;     Pandemic &amp;ndash; A cooperative game of global crisis management, where players must coordinate to prevent outbreaks. Like The LOOP, it features escalating threats, role powers, and shared objectives.&amp;#10;     Quacks &amp;ndash; Shares the combo-building and chaotic &amp;quot;bag-draw&amp;quot; mechanic spirit. The LOOP&amp;rsquo;s clone bag evokes similar tension and excitement.&amp;#10;     Anachrony &amp;ndash; Another time travel game with a more complex, worker-placement framework. The LOOP offers a lighter, faster-paced take on timeline disruption.&amp;#10;     Quirky Circuits &amp;ndash; A similarly zany and cooperative game where players must anticipate each other's plans while navigating chaos.&amp;#10;&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2020" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="159">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="43" />
+					<result value="Recommended" numvotes="69" />
+					<result value="Not Recommended" numvotes="13" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="83" />
+					<result value="Recommended" numvotes="49" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="32" />
+					<result value="Recommended" numvotes="68" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="5" />
+					<result value="Recommended" numvotes="54" />
+					<result value="Not Recommended" numvotes="41" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="65" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="29">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="8" />
+					<result value="10" numvotes="14" />
+					<result value="12" numvotes="5" />
+					<result value="14" numvotes="2" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="11">
+			
+		<results>		
+					<result level="6" value="No necessary in-game text" numvotes="0" />
+					<result level="7" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="8" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="2" />
+					<result level="9" value="Extensive use of text - massive conversion needed to be playable" numvotes="9" />
+					<result level="10" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1016" value="Science Fiction" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2990" value="Cube Tower" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2664" value="Deck, Bag, and Pool Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2822" value="Scenario / Mission / Campaign Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2897" value="Variable Set-up" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66772" value="Components: Drop Tower" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70948" value="Digital Implementations: Tabletopia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="73290" value="Theme: Mad Science / Mad Scientist" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="81589" value="Theme: Physics" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="6258" value="Theme: Time Travel" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="365130" value="The LOOP: Fur Brigade" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="338324" value="The LOOP: The Revenge of Fauxzilla" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="347612" value="The LOOP: Achievement Stickers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="359070" value="The LOOP: LevityGames Meeple Sticker Upgrade Vinyl Sticker Kit" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="399811" value="The LOOP: Official Agent Stickers  –  Pack #2" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="399810" value="The LOOP: Official Agent Stickers – Pack #1" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="75577" value="Maxime Rambourg" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="72628" value="Théo Rivière" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="75105" value="Simon Caruso" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28651" value="Catch Up Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39686" value="Across the Board" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6760" value="Blackrock Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38822" value="Board Game Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="29194" value="GaGa Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="58739" value="Geekach LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46724" value="HANALL M&amp;C" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27470" value="Lucrum Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21847" value="Pandasaurus Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="5270" />
+			<average value="7.70873" />
+			<bayesaverage value="6.98983" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="498" bayesaverage="6.98983" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="314" bayesaverage="7.10257" />
+												</ranks>
+
+			<stddev value="1.23541" />
+			<median value="0" />
+			<owned value="10928" />
+			<trading value="121" />
+			<wanting value="438" />
+			<wishing value="3711" />
+			<numcomments value="948" />
+			<numweights value="175" />
+			<averageweight value="2.8057" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

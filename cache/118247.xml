@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="118247">
+         <thumbnail>https://cf.geekdo-images.com/254SXVeOngtdjf8SBFEUNg__small/img/p5QUKwH4OYDPwTj3H67qSLXTka0=/fit-in/200x150/filters:strip_icc()/pic5646606.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/254SXVeOngtdjf8SBFEUNg__original/img/nMXQaLidez7ePmk3tZYz_7-f2EI=/0x0/filters:format(jpeg)/pic5646606.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Lucky Numbers" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="5 vor 12" />
+			    				
+				<name type="alternate" sortindex="1" value="Lucky Numbers Deluxe" />
+			    				
+				<name type="alternate" sortindex="1" value="Niezły numer" />
+			    				
+				<name type="alternate" sortindex="1" value="럭키 넘버스" />
+			
+						               													<description>Your challenge in Lucky Numbers is to fill your grid first, but you never know which tiles you'll have to work with!&amp;#10;&amp;#10;To set up, take a set of tiles numbered 1-20 for each player in the game, then shuffle all of these tiles face down. Each player has a 4x4 grid, and to complete set up, each player takes four tiles at random, then places them in order from low to high down the diagonal that goes from upper left to lower right.&amp;#10;&amp;#10;On a turn, you take either a face-down tile from the pile or a face-up tile from the table. You can (1) place this tile in an empty space in your grid, (2) swap this tile for a tile already in the grid, or (3) discard this tile face-up on the table. However, all tiles in your grid must obey one rule at all times: A tile must be higher in value that any tile directly above it or to its immediate left and lower in value that any tile directly below it or to its immediate right. Whoever first fills their grid with sixteen tiles wins. (If the draw pile runs out, then whoever has the most tiles in their grid wins.)&amp;#10;&amp;#10;You can play Lucky Numbers tournament style by playing multiple games and having each player start once. The winner of a game receives 2 points, while each loser receives -1 point for each empty space in their grid. After as many games as the number of players, whoever has the highest score wins.&amp;#10;&amp;#10;The 2020 edition of Lucky Numbers includes a solo mode with forty puzzles to solve.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2012" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="79">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="7" />
+					<result value="Not Recommended" numvotes="37" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="39" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="39" />
+					<result value="Recommended" numvotes="27" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="25" />
+					<result value="Recommended" numvotes="37" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="1" />
+					<result value="Recommended" numvotes="5" />
+					<result value="Not Recommended" numvotes="38" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="20" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="20" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="23">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="7" />
+					<result value="8" numvotes="14" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="11">
+			
+		<results>		
+					<result level="31" value="No necessary in-game text" numvotes="11" />
+					<result level="32" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="33" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="34" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="35" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1009" value="Abstract Strategy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1098" value="Number" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62600" value="Components: 4 x 4 Grids" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="80918" value="Digital Implementations: Game Park" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21146" value="Series: Einfach Spielen (Ravensburger)" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="408865" value="Lucky Numbers: 5th Player Expansion" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="86" value="Michael Schacht" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="98418" value="Christine Alcouffe" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="2946" value="Walter Pepperle" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34" value="Ravensburger" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27878" value="TIKI Editions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="46772" value="Bloom Games (I)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="21608" value="CMON Global Limited" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="17159" value="Game Factory" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="47476" value="Geronimo Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9960" value="Maldón" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="38305" value="Mancalamaro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="34627" value="Nasza Księgarnia" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="30091" value="Tranjis Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="45523" value="Yes Papa Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4167" />
+			<average value="6.39516" />
+			<bayesaverage value="6.05142" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="2831" bayesaverage="6.05142" />
+																				<rank type="family" id="4666" name="abstracts" friendlyname="Abstract Game Rank" value="177" bayesaverage="6.18408" />
+											<rank type="family" id="5499" name="familygames" friendlyname="Family Game Rank" value="980" bayesaverage="6.11917" />
+												</ranks>
+
+			<stddev value="1.40739" />
+			<median value="0" />
+			<owned value="4250" />
+			<trading value="34" />
+			<wanting value="44" />
+			<wishing value="407" />
+			<numcomments value="629" />
+			<numweights value="111" />
+			<averageweight value="1.1351" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

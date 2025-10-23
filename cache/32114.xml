@@ -1,0 +1,325 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="32114">
+         <thumbnail>https://cf.geekdo-images.com/rkpmCI8kqSzIG6OMtKnJ6A__small/img/vpG5OQ2Rk_WHsPHQRAfebEWwrgk=/fit-in/200x150/filters:strip_icc()/pic743228.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/rkpmCI8kqSzIG6OMtKnJ6A__original/img/2YCLW1mFbldWha0cMBY5nDt8ddE=/0x0/filters:format(jpeg)/pic743228.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Merchants" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Handelsfürsten: Herren der Meere" />
+			    				
+				<name type="alternate" sortindex="1" value="Kupcy i Żeglarze" />
+			    				
+				<name type="alternate" sortindex="1" value="Maritime Silk Road" />
+			    				
+				<name type="alternate" sortindex="5" value="The Sea Merchants" />
+			    				
+				<name type="alternate" sortindex="1" value="交易王" />
+			    				
+				<name type="alternate" sortindex="1" value="海上丝路" />
+			
+						               													<description>Your goal in Merchants is to make as much money as possible, ideally by having the right goods at the right time to earn more at the peak of sales.&amp;#10;&amp;#10;To start, lay out six goods cards face up in a demand row. Goods cards come in six colors, and the more cards of a color on display, the more in demand that good is. Each player gets a hand of three goods cards and (on the table) two ship cards; in turn, each player places a goods cube of their choice on a ship, then they place a goods cube on their other ship.&amp;#10;&amp;#10;On a turn, you take two actions. The first action is one of these choices:&amp;#10;&amp;#10;&amp;#10;     Exchange a goods cube on one of your ships with a cube of a different color, if available. (Each good has only five cubes.)&amp;#10;     Buy a special card, which are explained below.&amp;#10;     Pass.&amp;#10;&amp;#10;&amp;#10;The second action is one of these choices:&amp;#10;&amp;#10;&amp;#10;     Play goods cards of one color onto cards in the demand row, placing each card played onto a different spot in the demand row, covering the card already present; after you do this, each player with cubes of the color played receives 1 coin for each visible card of this color per cube on their ships. (For example, if red was played and you have two red cubes and three red cards show in the demand row, you gain 6 coins.)&amp;#10;     Draw two goods cards from the deck.&amp;#10;&amp;#10;&amp;#10;The special cards you can buy aren't worth money on their own, but they can help you earn more coins:&amp;#10;&amp;#10;&amp;#10;     Ship (costs 10 coins): After buying the ship, place a goods cube from the reserve on it.&amp;#10;     Office (8 coins): After your second action, draw a goods card from the deck; if you have three offices, draw three cards.&amp;#10;     Docker (12 coins): If you exchange goods for your first action, you can exchange one extra goods cube per docker you have.&amp;#10;     Trade agreement (11 coins): If you earn coins in any player's second action, gain 2 extra coins per trade agreement you have.&amp;#10;&amp;#10;&amp;#10;When the goods deck runs out, the game ends immediately. Whoever has the most coins wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2007" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="34">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="16" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="17" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="13" />
+					<result value="Recommended" numvotes="13" />
+					<result value="Not Recommended" numvotes="2" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="19" />
+					<result value="Recommended" numvotes="3" />
+					<result value="Not Recommended" numvotes="6" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="12" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 4 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="30" />
+						               				<minplaytime value="30" />
+						               				<maxplaytime value="30" />
+						               				<minage value="12" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="8">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="4" />
+					<result value="10" numvotes="4" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="10">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="9" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="1" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1008" value="Nautical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1070" value="Renaissance" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2005" value="Stock Holding" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="67862" value="Occupation: Merchant" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="21622" value="Theme: Colonial" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="609" value="Ferkelei" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="2" value="Reiner Knizia" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="4959" value="Harald Lieske" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="28146" value="Sascha Rost" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="123923" value="Piotr Sokołowski" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7383" value="Catalyst Game Labs" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="12540" value="Game Harbor" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9881" value="New Games Order, LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5268" value="Trefl" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9215" value="TWOPLUS Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="1011" />
+			<average value="6.59432" />
+			<bayesaverage value="5.83502" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="4303" bayesaverage="5.83502" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="1764" bayesaverage="5.92453" />
+												</ranks>
+
+			<stddev value="1.19973" />
+			<median value="0" />
+			<owned value="1490" />
+			<trading value="56" />
+			<wanting value="39" />
+			<wishing value="166" />
+			<numcomments value="295" />
+			<numweights value="109" />
+			<averageweight value="1.7156" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

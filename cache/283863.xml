@@ -1,0 +1,429 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="283863">
+         <thumbnail>https://cf.geekdo-images.com/6pci74DWc7U7XuwkfpEu2Q__small/img/K-X_5jjTMmesaFzFUoFOZu5p_AU=/fit-in/200x150/filters:strip_icc()/pic4871117.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/6pci74DWc7U7XuwkfpEu2Q__original/img/wrPl4ne51gvMUIeUuv56k02CUhE=/0x0/filters:format(jpeg)/pic4871117.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="5" value="The Magnificent" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Грандиозное представление" />
+			    				
+				<name type="alternate" sortindex="1" value="华丽开演" />
+			
+						               													<description>The Magnificent is a tightly designed Eurogame from the creators of Santa Maria set in a mystical world beautifully illustrated by French artist Martin Mottet.&amp;#10;&amp;#10;In the game, players are competing to attract the largest audiences to their shows, featuring magnificent performers. In the process, you must expand your camp by placing Tetris-style tiles on your player board, gather elements needed for the shows, and set up performances in your tents.&amp;#10;&amp;#10;On your turn, you take one die from the supply. The value of the chosen die is your strength. Add to this the value of all dice of the same color that you have already collected, then use this strength to carry out one of three main actions: build, travel or perform. The more strength you have, the better the action will be, but at the end of the round, you must pay &amp;mdash; in coins &amp;mdash; the total of your highest-valued dice color. Thus, taking dice of the same color makes for better actions, but will cost more coins.&amp;#10;&amp;#10;After each player has taken four turns, the round ends. Each player must discard one of their ringmaster cards and score points according to its requirements. After three rounds, the game ends, and the player who has collected the most points wins.&amp;#10;&amp;#10;In more detail, players start the game with four ringmaster cards and a unique trainer tile. Each ringmaster card provides a special ability (which is triggered when you place a die on it) and a unique end-of-round scoring opportunity. When you choose a ringmaster card to discard and score at the end of the round, you must therefore also take into consideration which special abilities you want to keep.&amp;#10;&amp;#10;In addition to your main action, you may use trainers on your personal unique trainer tiles or on common trainer spaces on the game board for various benefits.&amp;#10;&amp;#10;At the end of each round, in order of the players' highest-ranked performances, players choose a new ringmaster card and a trainer tile, providing new abilities and scoring opportunities for the next round.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2019" />
+						               				<minplayers value="1" />
+						               				<maxplayers value="4" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="129">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="15" />
+					<result value="Recommended" numvotes="35" />
+					<result value="Not Recommended" numvotes="22" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="49" />
+					<result value="Recommended" numvotes="51" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="41" />
+					<result value="Recommended" numvotes="56" />
+					<result value="Not Recommended" numvotes="3" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="26" />
+					<result value="Recommended" numvotes="39" />
+					<result value="Not Recommended" numvotes="24" />
+				</results>					
+			
+		<results numplayers="4+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="2" />
+					<result value="Not Recommended" numvotes="48" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2 players" />
+  <result name="recommmendedwith" value="Recommended with 1–4 players" />
+</poll-summary> 			               				<playingtime value="90" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="90" />
+						               				<minage value="14" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="19">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="2" />
+					<result value="12" numvotes="13" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="12">
+			
+		<results>		
+					<result level="21" value="No necessary in-game text" numvotes="12" />
+					<result level="22" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="23" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="0" />
+					<result level="24" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="25" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1017" value="Dice" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1021" value="Economic" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2912" value="Contracts" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2072" value="Dice Rolling" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2978" value="Grid Coverage" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2947" value="Movement Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2940" value="Square Grid" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2002" value="Tile Placement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2939" value="Track Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2826" value="Turn Order: Stat-Based" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2935" value="Worker Placement with Dice Workers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24571" value="Components: Polyominoes" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65163" value="Mechanism: Dice Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5666" value="Players: Games with Solitaire Rules" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="75455" value="Theme: Art style – Art Deco" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5743" value="Theme: Circus" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="355196" value="The Magnificent: Dice Tower 2021 Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="326883" value="The Magnificent: Master Tiles" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="350350" value="The Magnificent: Promo-pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="316337" value="The Magnificent: SNØ" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="4063" value="Kristian Amundsen Østby" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="9637" value="Eilif Svensson" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="119304" value="Martin Mottet" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="27674" value="Aporta Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="36401" value="Arrakis Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4785" value="Ghenos Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="18852" value="Hobby World" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="25996" value="Jumping Turtle Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5400" value="Matagot" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="39" value="Pegasus Spiele" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8147" value="YOKA Games" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="4142" />
+			<average value="7.48318" />
+			<bayesaverage value="6.7606" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="796" bayesaverage="6.7606" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="455" bayesaverage="6.90673" />
+												</ranks>
+
+			<stddev value="1.16343" />
+			<median value="0" />
+			<owned value="7363" />
+			<trading value="255" />
+			<wanting value="155" />
+			<wishing value="1266" />
+			<numcomments value="742" />
+			<numweights value="188" />
+			<averageweight value="3.1223" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="198928">
+         <thumbnail>https://cf.geekdo-images.com/yAhmRtAw66-IOg4C22m9bA__small/img/OQJdm7fuUH8qipCt2xiXXTmihoo=/fit-in/200x150/filters:strip_icc()/pic6834208.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/yAhmRtAw66-IOg4C22m9bA__original/img/5-_AFNTEq5mcUgw5iddXTyIz4Ho=/0x0/filters:format(jpeg)/pic6834208.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Iberia" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Pandemic: Iberia" />
+			    				
+				<name type="alternate" sortindex="1" value="パンデミック：イベリア" />
+			    				
+				<name type="alternate" sortindex="1" value="瘟疫危机：伊比利" />
+			    				
+				<name type="alternate" sortindex="1" value="이베리아" />
+			
+						               													<description>Welcome to the Iberian Peninsula! Set in 1848, Pandemic Iberia asks you to take on the roles of nurse, railwayman, rural doctor, sailor, and more to find the cures to malaria, typhus, the yellow fever, and cholera.&amp;#10;&amp;#10;From Barcelona to Lisboa, you will need to travel by carriage, by boat, or by train to help the Iberian populace. While doing so, distributing purified water and developing railways will help you slow the spread of diseases in this new version of Pandemic.&amp;#10;&amp;#10;Discover a unique part of the world during a historically significant time period: the construction of the first railroad in the Iberian Peninsula during the Spring of Nations.&amp;#10;&amp;#10;The game comes with two variants that can be added :&amp;#10;&amp;#10;     Influx of Patients : the cubes, representing patients, will tend to flock to hospitals to try to get cured. Hospitals also are a bit more powerful.&amp;#10;     Historical Diseases : instead of being generic, each disease has a specific power to better represent what it is (Malaria, Cholera, Yellow Fever etc.)&amp;#10;&amp;#10;&amp;#10;Part of the Pandemic series.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2016" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="174">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="21" />
+					<result value="Recommended" numvotes="70" />
+					<result value="Not Recommended" numvotes="32" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="42" />
+					<result value="Recommended" numvotes="110" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="69" />
+					<result value="Recommended" numvotes="65" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="74" />
+					<result value="Recommended" numvotes="50" />
+					<result value="Not Recommended" numvotes="1" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="68" />
+					<result value="Not Recommended" numvotes="30" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="80" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 3–4 players" />
+  <result name="recommmendedwith" value="Recommended with 1–5 players" />
+</poll-summary> 			               				<playingtime value="45" />
+						               				<minplaytime value="45" />
+						               				<maxplaytime value="45" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="43">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="1" />
+					<result value="8" numvotes="12" />
+					<result value="10" numvotes="19" />
+					<result value="12" numvotes="6" />
+					<result value="14" numvotes="4" />
+					<result value="16" numvotes="1" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="19">
+			
+		<results>		
+					<result level="16" value="No necessary in-game text" numvotes="0" />
+					<result level="17" value="Some necessary text - easily memorized or small crib sheet" numvotes="15" />
+					<result level="18" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="19" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="20" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2145" value="Medical" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="2710" value="Post-Napoleonic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1034" value="Trains" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2001" value="Action Points" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2081" value="Network and Route Building" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2078" value="Point to Point Movement" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2819" value="Solo / Solitaire Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2008" value="Trading" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2015" value="Variable Player Powers" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="64960" value="Components: Map (Continental / National scale)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="65191" value="Components: Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="68769" value="Components: Wooden pieces &amp; boards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="43083" value="Country: Andorra" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="5614" value="Country: Portugal" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="10310" value="Country: Spain" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="3430" value="Game: Pandemic" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="61854" value="Medical: Diseases" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="78680" value="Misc: Made by Panda" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63524" value="Occupation: Medic / Doctor / Nurses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63525" value="Occupation: Researcher / Scientist" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66187" value="Region: Andalusia (Spain)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66167" value="Theme: Science" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="429445" value="Pandemic Iberia: Festival" />
+		
+									
+			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="374422" value="Pandemic: GolonkoCrafts 3D Printed Tokens (Base Game Set)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameaccessory" id="333624" value="Pandemic: Iberia – Folded Space Insert" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="30549" value="Pandemic" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="41726" value="Jesús Torres Castro" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="378" value="Matt Leacock" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="80022" value="Atha Kanaani" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="14057" value="Chris Quilliams" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="538" value="Z-Man Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15889" value="Asterion Press" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="2366" value="Devir" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5657" value="Filosofia Éditions" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="1391" value="Hobby Japan" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="11549" />
+			<average value="7.87717" />
+			<bayesaverage value="7.4398" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="156" bayesaverage="7.4398" />
+																				<rank type="family" id="5497" name="strategygames" friendlyname="Strategy Game Rank" value="120" bayesaverage="7.50087" />
+												</ranks>
+
+			<stddev value="1.19335" />
+			<median value="0" />
+			<owned value="21146" />
+			<trading value="303" />
+			<wanting value="455" />
+			<wishing value="3752" />
+			<numcomments value="2026" />
+			<numweights value="220" />
+			<averageweight value="2.5955" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

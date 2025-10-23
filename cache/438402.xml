@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="438402">
+         <thumbnail>https://cf.geekdo-images.com/2mV8_A8ly2uTpifT-PnA_g__small/img/5hTbGVieOOlhrmgYJERulNc-HE8=/fit-in/200x150/filters:strip_icc()/pic9058775.jpg</thumbnail>
+      <image>https://cf.geekdo-images.com/2mV8_A8ly2uTpifT-PnA_g__original/img/y06uWsSIw5rMZDXuJDBA8BJcZ-A=/0x0/filters:format(jpeg)/pic9058775.jpg</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Forest Shuffle: Dartmoor" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Az erdő: Dartmoor" />
+			    				
+				<name type="alternate" sortindex="1" value="Leśne Rozdanie: Dartmoor" />
+			    				
+				<name type="alternate" sortindex="1" value="Mischwald: Dartmoor" />
+			
+						               													<description>Forest Shuffle: Dartmoor is a stand-alone game within the Forest Shuffle family and introduces a brand new habitat and features new species with new abilities and bonuses to explore. As in the earlier original Forest Shuffle, in Forest Shuffle: Dartmoor players compete to build the most valuable environment by placing trees and shrubs, then attracting species to these locations to create an ecologically balanced habitat for flora and fauna.&amp;#10;&amp;#10;What's new in Dartmoor is the introduction of TERRAIN cards that are played horizontally and serve as a home or feeding ground for different species than trees or shrubs. Due to the nature of the terrain, species can only be placed above and below a terrain card. Deer and other species stay clear from bogs or peat areas in the moorland. They need their drink, but won't feel safe at dwells or next to rivulets. So players have to be watch out, where to place their species.&amp;#10;&amp;#10;Like its predecessor, Forest Shuffle: Dartmoor comes with a unique back side: Each of the 180 cards of the deck can be placed face down, creating a bog, if the action allows it. The caves in Forest Shuffle: Dartmoor now will be drafted at the beginning of the game and offer asymmetrical starting conditions. On top, the number of tree symbols has been reduced from eight to six to enable bonuses more easily.&amp;#10;&amp;#10;The game mechanism stays untouched: To start, each player has six cards in hand, with cards depicting either a particular type of tree, shrub or terrain or two moor dwellers (animal, plants), with these latter cards being divided in half, whether vertically or horizontally, with one dweller in each card half.  On a turn, either draw two cards &amp;mdash; whether face down from the deck or face up from the clearing &amp;mdash; and add them to your hand, or play a card from your hand by discarding other cards to pay the cost, then putting that first card into play. In the end, the player with the highest score wins.&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2025" />
+						               				<minplayers value="2" />
+						               				<maxplayers value="5" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="14">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="8" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="7" />
+					<result value="Recommended" numvotes="4" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="6" />
+					<result value="Not Recommended" numvotes="4" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="9" />
+				</results>					
+			
+		<results numplayers="5+">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 2–3 players" />
+  <result name="recommmendedwith" value="Recommended with 2–4 players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="60" />
+						               				<maxplaytime value="60" />
+						               				<minage value="10" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="1">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="0" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="0" />
+					<result value="8" numvotes="0" />
+					<result value="10" numvotes="1" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="0" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="4">
+			
+		<results>		
+					<result level="1" value="No necessary in-game text" numvotes="0" />
+					<result level="2" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="3" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="4" />
+					<result level="4" value="Extensive use of text - massive conversion needed to be playable" numvotes="0" />
+					<result level="5" value="Unplayable in another language" numvotes="0" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1089" value="Animals" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1002" value="Card Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1094" value="Educational" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1084" value="Environmental" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2875" value="End Game Bonuses" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2040" value="Hand Management" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3001" value="Layering" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3099" value="Multi-Use Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2041" value="Open Drafting" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2004" value="Set Collection" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3100" value="Tags" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="24439" value="Card Games: Draw and Discard" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="14759" value="Country: England" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="106865" value="Game: Forest Shuffle" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="111374" value="Series: Greenline (Lookout Games)" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="48871" value="Theme: Nature" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="57181" value="Theme: Trees and Forests" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="111134" value="Theme: Wetlands / Swamps / Bogs / Fens / Marshland" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="455389" value="Forest Shuffle: Dartmoor – Dartmoor Rennpferd / Wolpertinger Promo Card" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="391163" value="Forest Shuffle" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="142835" value="Kosch" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="154199" value="Toni Llobet" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="160002" value="Judit Piella" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="234" value="Lookout Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="552" />
+			<average value="7.56424" />
+			<bayesaverage value="5.90833" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="3690" bayesaverage="5.90833" />
+												</ranks>
+
+			<stddev value="1.33649" />
+			<median value="0" />
+			<owned value="766" />
+			<trading value="8" />
+			<wanting value="103" />
+			<wishing value="1042" />
+			<numcomments value="146" />
+			<numweights value="10" />
+			<averageweight value="2.3" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>

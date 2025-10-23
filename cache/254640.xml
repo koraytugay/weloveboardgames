@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8"?><items termsofuse="https://boardgamegeek.com/xmlapi/termsofuse"><item type="boardgame" id="254640">
+         <thumbnail>https://cf.geekdo-images.com/74haNunMBn85beBi-yIKwA__small/img/feIV-gqMeza43ycvxh6PGx4lA_w=/fit-in/200x150/filters:strip_icc()/pic8669313.png</thumbnail>
+      <image>https://cf.geekdo-images.com/74haNunMBn85beBi-yIKwA__original/img/hA22qL6nZxchA8FMTIfhLMcI53I=/0x0/filters:format(png)/pic8669313.png</image>
+   	                                  				
+				<name type="primary" sortindex="1" value="Just One" />
+			
+						                               				
+				<name type="alternate" sortindex="1" value="Ainult Üks" />
+			    				
+				<name type="alternate" sortindex="1" value="Csak egy" />
+			    				
+				<name type="alternate" sortindex="1" value="Jedním slovem" />
+			    				
+				<name type="alternate" sortindex="1" value="Jednym słowem" />
+			    				
+				<name type="alternate" sortindex="1" value="Just One: Μια Λέξη Μόνο" />
+			    				
+				<name type="alternate" sortindex="1" value="Só uma" />
+			    				
+				<name type="alternate" sortindex="1" value="Tikai viens" />
+			    				
+				<name type="alternate" sortindex="1" value="Tiktai Vienas" />
+			    				
+				<name type="alternate" sortindex="1" value="Една дума" />
+			    				
+				<name type="alternate" sortindex="1" value="Намёк Понял!" />
+			    				
+				<name type="alternate" sortindex="1" value="Одним словом" />
+			    				
+				<name type="alternate" sortindex="1" value="במילה אחת" />
+			    				
+				<name type="alternate" sortindex="1" value="ジャスト・ワン" />
+			    				
+				<name type="alternate" sortindex="1" value="獨家暗語" />
+			    				
+				<name type="alternate" sortindex="1" value="저스트 원!" />
+			
+						               													<description>Just One is a co-operative party game in which you all play together to get the best score! Your goal each round is to get one player &amp;mdash; the active player &amp;mdash; to guess a mystery word based on the clues given by teammates. Can you achieve a perfect score by guessing all the mystery words?&amp;#10;&amp;#10;In more detail, everyone who is not the active player sees the mystery word, then each player independently writes a clue on their personal easel. Once everyone has finished, you reveal the clues to one another. All identical clues are removed from play, so try to be original!&amp;#10;&amp;#10;After eliminating duplicate clues, reveal the remaining clues to the active player. If they correctly guess the mystery word, your team scores a point. If they decline to guess, you don't score the current card. If they guess wrong, you don't score the current card and you lose one of the points you had already scored. Thus, be original, but not so original that you don't help the active player guess correctly!&amp;#10;&amp;#10;</description>
+										      	               				<yearpublished value="2018" />
+						               				<minplayers value="3" />
+						               				<maxplayers value="7" />
+						      			<poll name="suggested_numplayers" title="User Suggested Number of Players" totalvotes="464">
+			
+		<results numplayers="1">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="0" />
+					<result value="Not Recommended" numvotes="348" />
+				</results>					
+			
+		<results numplayers="2">		
+					<result value="Best" numvotes="0" />
+					<result value="Recommended" numvotes="1" />
+					<result value="Not Recommended" numvotes="348" />
+				</results>					
+			
+		<results numplayers="3">		
+					<result value="Best" numvotes="8" />
+					<result value="Recommended" numvotes="76" />
+					<result value="Not Recommended" numvotes="291" />
+				</results>					
+			
+		<results numplayers="4">		
+					<result value="Best" numvotes="28" />
+					<result value="Recommended" numvotes="257" />
+					<result value="Not Recommended" numvotes="111" />
+				</results>					
+			
+		<results numplayers="5">		
+					<result value="Best" numvotes="143" />
+					<result value="Recommended" numvotes="250" />
+					<result value="Not Recommended" numvotes="7" />
+				</results>					
+			
+		<results numplayers="6">		
+					<result value="Best" numvotes="333" />
+					<result value="Recommended" numvotes="79" />
+					<result value="Not Recommended" numvotes="0" />
+				</results>					
+			
+		<results numplayers="7">		
+					<result value="Best" numvotes="316" />
+					<result value="Recommended" numvotes="79" />
+					<result value="Not Recommended" numvotes="5" />
+				</results>					
+			
+		<results numplayers="7+">		
+					<result value="Best" numvotes="65" />
+					<result value="Recommended" numvotes="151" />
+					<result value="Not Recommended" numvotes="94" />
+				</results>					
+	</poll>
+<poll-summary name="suggested_numplayers"  title="User Suggested Number of Players">
+  <result name="bestwith" value="Best with 6–7 players" />
+  <result name="recommmendedwith" value="Recommended with 4–7+ players" />
+</poll-summary> 			               				<playingtime value="60" />
+						               				<minplaytime value="20" />
+						               				<maxplaytime value="60" />
+						               				<minage value="8" />
+						      			<poll name="suggested_playerage" title="User Suggested Player Age" totalvotes="81">
+			<results>		
+					<result value="2" numvotes="0" />
+					<result value="3" numvotes="0" />
+					<result value="4" numvotes="1" />
+					<result value="5" numvotes="0" />
+					<result value="6" numvotes="13" />
+					<result value="8" numvotes="59" />
+					<result value="10" numvotes="7" />
+					<result value="12" numvotes="0" />
+					<result value="14" numvotes="1" />
+					<result value="16" numvotes="0" />
+					<result value="18" numvotes="0" />
+					<result value="21 and up" numvotes="0" />
+				</results>					
+	</poll> 			      			<poll name="language_dependence" title="Language Dependence" totalvotes="30">
+			
+		<results>		
+					<result level="26" value="No necessary in-game text" numvotes="0" />
+					<result level="27" value="Some necessary text - easily memorized or small crib sheet" numvotes="0" />
+					<result level="28" value="Moderate in-game text - needs crib sheet or paste ups" numvotes="1" />
+					<result level="29" value="Extensive use of text - massive conversion needed to be playable" numvotes="5" />
+					<result level="30" value="Unplayable in another language" numvotes="24" />
+				</results>					
+	</poll> 			      			 			      				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1039" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1030" value="Party Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamecategory" id="1025" value="Word Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2893" value="Communication Limits" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2023" value="Cooperative Game" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="3002" value="Deduction" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamemechanic" id="2823" value="Score-and-Reset Game" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="63161" value="Components: Dry Erase Markers / Dry Erase Surfaces" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="70360" value="Digital Implementations: Board Game Arena" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="66334" value="Mechanism: Give a Clue / Get a Clue" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="59705" value="Misc: LongPack Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamefamily" id="62861" value="Word Games: Guess the Word" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="286086" value="Deutscher Spielepreis Classic Goodie Box" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="441800" value="Jednym słowem: Dzień Gier Planszowych Promo" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="369570" value="Just One: BGG Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="292745" value="Just One: Deutscher Spielepreis Classic Goodie Box Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="355604" value="Just One: Dice Tower 2021 Promo Pack" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="283102" value="Just One: Gathering of Friends Promo Cards" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameexpansion" id="317124" value="Just One: Neue Begriffe" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameintegration" id="450619" value="Just One: New Version" />
+		
+									
+			
+
+			      			
+
+			      			
+
+			      			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameimplementation" id="241611" value="We Are the Word" inbound="true"/>
+		
+									
+			
+
+			      	      	      				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="51255" value="Ludovic Roudy" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamedesigner" id="51055" value="Bruno Sautter" />
+		
+									
+			
+
+			      				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="70260" value="Éric Azagury" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgameartist" id="119638" value="Florian Poullet" />
+		
+									
+			
+
+			      	      				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="4384" value="Repos Production" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="23043" value="ADC Blackfire Entertainment" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="3475" value="Arclight Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7162" value="Brain Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="50696" value="CoolPlay" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="19047" value="FoxMind Israel" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="37883" value="Fun Consortium" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="15605" value="Galápagos Jogos" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="58739" value="Geekach LLC" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8820" value="Gém Klub Kft." />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="28415" value="GoKids 玩樂小子" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8439" value="Happy Baobab" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="6214" value="Kaissa Chess &amp; Games" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="8291" value="Korea Boardgames" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9325" value="Lifestyle Boardgames Ltd" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="9960" value="Maldón" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="5787" value="Morapiaf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="44407" value="Nordic Games ehf" />
+		
+									
+				
+		 			
+
+			
+		
+					<link type="boardgamepublisher" id="7466" value="Rebel Sp. z o.o." />
+		
+									
+			
+
+			
+	
+
+	
+
+	
+	
+	
+   		<statistics page="1">
+								<ratings >
+			<usersrated value="32878" />
+			<average value="7.59936" />
+			<bayesaverage value="7.44079" />
+
+			<ranks>
+															<rank type="subtype" id="1" name="boardgame" friendlyname="Board Game Rank" value="154" bayesaverage="7.44079" />
+																				<rank type="family" id="5498" name="partygames" friendlyname="Party Game Rank" value="3" bayesaverage="7.51564" />
+												</ranks>
+
+			<stddev value="1.20552" />
+			<median value="0" />
+			<owned value="56423" />
+			<trading value="322" />
+			<wanting value="362" />
+			<wishing value="5722" />
+			<numcomments value="4468" />
+			<numweights value="640" />
+			<averageweight value="1.0359" />
+			</ratings>
+								</statistics>
+     
+	
+          
+</item>
+</items>
