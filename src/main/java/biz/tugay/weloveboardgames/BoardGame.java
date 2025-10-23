@@ -35,6 +35,16 @@ public class BoardGame
 
   public Integer myRating;
 
+  public String averageRating;
+
+  public String complexity;
+
+  public String playingTime;
+
+  public String minPlayTime;
+
+  public String maxPlayTime;
+
   public static BoardGame fromMyBoardGameGeekItem(BoardGameGeekItem item) {
     BoardGame boardGame = new BoardGame();
     boardGame.id = item.objectId;
@@ -90,6 +100,26 @@ public class BoardGame
     return minimumAge;
   }
 
+  public String getAverageRating() {
+    return averageRating;
+  }
+
+  public String getComplexity() {
+    return complexity;
+  }
+
+  public String getPlayingTime() {
+    return playingTime;
+  }
+
+  public String getMinPlayTime() {
+    return minPlayTime;
+  }
+
+  public String getMaxPlayTime() {
+    return maxPlayTime;
+  }
+
   public List<BoardGame> getLinkedGames() {
     return linkedGames;
   }
@@ -117,16 +147,29 @@ public class BoardGame
   public double getLinkScore() {
     double score = 0;
     for (int i = 0; i < linkedGames.size(); i++) {
-      double multiplier = 1.25;
-      if (linkedGamesStrengths.get(i) > 10) {
-        multiplier = 1;
+      int strength = linkedGamesStrengths.get(i);
+      int rating = linkedGames.get(i).myRating;
+
+      double positionMultiplier = 1.5;
+      if (strength >= 5 && strength < 15) {
+        positionMultiplier = 1.25;
+      } else if (strength >= 15 && strength < 30) {
+        positionMultiplier = 1.0;
+      } else if (strength >= 30) {
+        positionMultiplier = 0.6;
       }
-      if (linkedGamesStrengths.get(i) > 25) {
-        multiplier = 0.5;
+
+      double ratingBonus = 1.0;
+      if (rating >= 9) {
+        ratingBonus = 1.3;
+      } else if (rating >= 8) {
+        ratingBonus = 1.15;
+      } else if (rating >= 7) {
+        ratingBonus = 1.05;
       }
-      score = score + (multiplier * linkedGames.get(i).myRating);
+
+      score = score + (positionMultiplier * rating * ratingBonus);
     }
-    System.out.println(name + " " + score);
     return score;
   }
 }

@@ -46,6 +46,10 @@ public class BoardGameGeekClient
   };
 
   public static List<BoardGame> fetchMyBoardGamesByUsername(String username) {
+    return fetchMyBoardGamesByUsernameWithRetry(username, 0);
+  }
+
+  private static List<BoardGame> fetchMyBoardGamesByUsernameWithRetry(String username, int retryCount) {
     cachingOn = false;
 
     List<BoardGame> boardGames = new ArrayList<>();
@@ -57,8 +61,14 @@ public class BoardGameGeekClient
       BoardGameGeekResponse response = httpClient.execute(request, httpClientResponseHandler);
 
       if (response == null || response.items == null) {
-        Thread.sleep(2000);
-        return fetchMyBoardGamesByUsername(username);
+        if (retryCount < 3) {
+          System.err.println("Retry attempt " + (retryCount + 1) + " for fetching collection for user: " + username);
+          Thread.sleep(2000);
+          return fetchMyBoardGamesByUsernameWithRetry(username, retryCount + 1);
+        } else {
+          System.err.println("Failed to fetch collection after 3 retries for user: " + username);
+          return null;
+        }
       }
 
       List<BoardGameGeekItem> items = response.items;
@@ -77,6 +87,10 @@ public class BoardGameGeekClient
   }
 
   public static BoardGameGeekItem fetchById(int id) {
+    return fetchByIdWithRetry(id, 0);
+  }
+
+  private static BoardGameGeekItem fetchByIdWithRetry(int id, int retryCount) {
     cachingOn = true;
 
     Path cachedFilePath = Paths.get("cache", id + ".xml");
@@ -102,11 +116,12 @@ public class BoardGameGeekClient
       BoardGameGeekResponse response = httpClient.execute(request, responseHandler);
 
       if (response == null || response.items == null) {
-        System.err.println("First attempt to fetch game details for game with id: " + id + " failed.");
-        Thread.sleep(2000);
-        response = httpClient.execute(request, responseHandler);
-        if (response == null || response.items == null) {
-          System.err.println("Second attempt to fetch game details for game with id: " + id + " failed.");
+        if (retryCount < 2) {
+          System.err.println("Retry attempt " + (retryCount + 1) + " for fetching game with id: " + id);
+          Thread.sleep(2000);
+          return fetchByIdWithRetry(id, retryCount + 1);
+        } else {
+          System.err.println("Failed to fetch game after 3 attempts for id: " + id);
           return null;
         }
       }

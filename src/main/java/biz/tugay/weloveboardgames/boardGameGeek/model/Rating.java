@@ -8,4 +8,10 @@ public class Rating
 {
   @JacksonXmlProperty(isAttribute = true)
   public String value;
+
+  @JacksonXmlProperty(localName = "average")
+  public Average average;
+
+  @JacksonXmlProperty(localName = "bayesaverage")
+  public BayesAverage bayesAverage;
 }

@@ -4,11 +4,11 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
-public class Stats
+public class Ratings
 {
-  @JacksonXmlProperty(localName = "rating")
-  public Rating rating;
+  @JacksonXmlProperty(localName = "average")
+  public Average average;
 
-  @JacksonXmlProperty(localName = "ratings")
-  public Ratings ratings;
+  @JacksonXmlProperty(localName = "averageweight")
+  public AverageWeight averageWeight;
 }

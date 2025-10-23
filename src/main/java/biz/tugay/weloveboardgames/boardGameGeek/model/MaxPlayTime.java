@@ -4,11 +4,8 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 
 @JsonIgnoreProperties(ignoreUnknown = true)
-public class Stats
+public class MaxPlayTime
 {
-  @JacksonXmlProperty(localName = "rating")
-  public Rating rating;
-
-  @JacksonXmlProperty(localName = "ratings")
-  public Ratings ratings;
+  @JacksonXmlProperty(isAttribute = true)
+  public String value;
 }

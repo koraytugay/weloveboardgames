@@ -39,6 +39,9 @@ public class BoardGameGeekItem
   @JacksonXmlProperty(localName = "stats")
   public Stats stats;
 
+  @JacksonXmlProperty(localName = "statistics")
+  public Stats statistics;
+
   @JacksonXmlProperty(localName = "name")
   @JacksonXmlElementWrapper(useWrapping = false)
   public List<Name> name;
@@ -62,6 +65,15 @@ public class BoardGameGeekItem
   @JacksonXmlProperty(localName = "poll-summary")
   @JacksonXmlElementWrapper(useWrapping = false)
   public List<PollSummary> pollSummary;
+
+  @JacksonXmlProperty(localName = "playingtime")
+  public PlayingTime playingTime;
+
+  @JacksonXmlProperty(localName = "minplaytime")
+  public MinPlayTime minPlayTime;
+
+  @JacksonXmlProperty(localName = "maxplaytime")
+  public MaxPlayTime maxPlayTime;
 
   public String getPrimaryName() {
     return name.get(0).value;
